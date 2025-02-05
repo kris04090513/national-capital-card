@@ -1,15 +1,16 @@
 <div class="container py-3">
-  <div class="row">
-    <div class="d-flex">
-      <div class="col-2">
+  <h2 class="row justify-content-center text-lg-center py-3">亞洲地區</h2>
+  <div class="row row-cols-5 g-2 justify-content-center">
+    <ng-container *ngFor="let item of list; let i = index">
+      <div class="col m-2">
         <app-card
-          *ngFor="let item of list"
           [nationalCh]="item.natCh"
           [nationalEn]="item.natEn"
           [capitalCh]="item.capCh"
           [capitalEn]="item.capEn"
+          [nationalFlag]="getLowerCaseFlag(item.flag)"
         ></app-card>
       </div>
-    </div>
+    </ng-container>
   </div>
 </div>

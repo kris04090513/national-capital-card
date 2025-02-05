@@ -1,8 +1,5 @@
-<!-- <div class="card-warp" > -->
+<div class="card-warp block">
   <div class="card" [class.flipped]="isFlipped" (click)="flipCard()">
-    <!-- <div class="card-flag">
-    <img src="{{ nationalFlag }}" alt="" />
-  </div> -->
     <div class="card-face front">
       <div>{{ nationalCh }}</div>
       <div>{{ nationalEn }}</div>
@@ -12,4 +9,7 @@
       <div>{{ capitalEn }}</div>
     </div>
   </div>
-<!-- </div> -->
+  <div class="card-flag">
+    <img src="/assets/imgs/flags/{{ nationalFlag }}.svg" alt="{{nationalFlag}}" />
+  </div>
+</div>

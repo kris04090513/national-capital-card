@@ -11,11 +11,7 @@
 //   border: 1px solid navy;
 //   border-radius: 20px;
 // }
-.card-flag {
-  height: 60%;
-  width: 100%;
-  background-color: navy;
-}
+
 // .card-title {
 // display: inline-block;
 //   margin: 0 0.5rem;
@@ -38,18 +34,15 @@
 
 // }
 
-.card-wrap{
-    position: relative;
-    display: flex;
-  // padding: auto;
-  width: 250px;
-  height: 250px;
-  border: 1px solid navy;
+.card-wrap {
+  position: relative;
+  width: 100%;
+  // height: 200px;
 }
 .card {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 100%;
+  height: 60px;
   transform-style: preserve-3d;
   transition: transform 0.5s;
 }
@@ -63,7 +56,7 @@
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-    font-size: 2rem;
+  font-size: 1.2rem;
   text-align: center;
 }
 
@@ -74,4 +67,19 @@
 .back {
   background-color: #d2eeff;
   transform: rotateY(180deg);
+}
+
+.card-flag {
+  bottom: 10px;
+  right: 5px;
+  width: 100%;
+  height: 150px;
+  z-index: 10; /* 確保圖片不被其他元素擋住 */
+  border: 1px solid rgb(199, 198, 198);
+}
+
+.card-flag img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 確保圖片填滿 */
 }

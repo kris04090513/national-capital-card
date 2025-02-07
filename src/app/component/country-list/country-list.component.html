@@ -1,0 +1,21 @@
+<div class="country-list">
+  <h2>{{ continent }} - 國家列表</h2>
+  <div class="card-container">
+    <div class="card" *ngFor="let country of countries">
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="card-front-img">
+            <img [src]="country.flags.svg" alt="Flag" />
+          </div>
+          <h5>
+            {{ country.translations.zho.common }} ({{ country.name.common }})
+          </h5>
+        </div>
+        <div class="card-back">
+          <p>首都: {{ country.capital[0] }}</p>
+          <p>人口: {{ country.population | number }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

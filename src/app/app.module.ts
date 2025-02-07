@@ -6,17 +6,21 @@ import { AppComponent } from './app.component';
 import { CardComponent } from './component/card/card.component';
 import { AsiaPageComponent } from './view/asia-page/asia-page.component';
 import { WorldMapComponent } from './view/world-map/world-map.component';
+import { CountryListComponent } from './component/country-list/country-list.component';
+import { HttpClientModule } from '@angular/common/http'
 
 @NgModule({
   declarations: [
     AppComponent,
     CardComponent,
     AsiaPageComponent,
-    WorldMapComponent
+    WorldMapComponent,
+    CountryListComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

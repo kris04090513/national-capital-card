@@ -29,7 +29,7 @@ ngOnInit(): void {
     /*
     https://github.com/datasets/geo-boundaries-world-110m/blob/main/countries.geojson?short_path=2fcecba
     */
-    fetch('assets/imgs/world-continents.geojson')
+    fetch('assets/json/world-continents.geojson')
       .then(response => response.json())
       .then(data => {
         L.geoJSON(data, {

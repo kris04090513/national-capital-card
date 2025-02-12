@@ -1,5 +1,7 @@
 <div class="country-list">
   <h2>{{ continent }} - 國家列表</h2>
+
+  <div>計數：{{ count }}</div>
   <div class="card-container">
     <div class="card" *ngFor="let country of countries">
       <div class="card-inner">
@@ -8,7 +10,11 @@
             <img [src]="country.flags.svg" alt="Flag" />
           </div>
           <h5>
-            {{ country.translations.zho.common }} ({{ country.name.common }})
+            {{
+              country.translations?.zho?.common ??
+                country.translations?.jpn?.common
+            }}
+            ({{ country.name.common }})
           </h5>
         </div>
         <div class="card-back">

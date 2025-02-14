@@ -26,7 +26,7 @@ export class CountryListComponent implements OnInit {
     // https://restcountries.com/v3.1/all
     let continentName = continent.toLowerCase().replace(' ', '');
 
-    const url = `assets/json/${continentName}.json`;
+    const url = `assets/python/${continentName}.json`;
     this.http.get<any[]>(url).subscribe((data) => {
       console.log(this.continent);
       this.count = data.length;

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
+import { environment } from 'src/environments/environment'
 
 @Component({
   selector: 'app-country-list',
@@ -26,7 +27,8 @@ export class CountryListComponent implements OnInit {
     // https://restcountries.com/v3.1/all
     let continentName = continent.toLowerCase().replace(' ', '');
 
-    const url = `assets/python/${continentName}.json`;
+    // const url = `assets/python/${continentName}.json`;
+    const url = `${environment.apiUrl}/countries/${this.continent}`;
     this.http.get<any[]>(url).subscribe((data) => {
       console.log(this.continent);
       this.count = data.length;

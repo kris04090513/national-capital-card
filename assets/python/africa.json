@@ -1,0 +1,7284 @@
+[
+  {
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        },
+        "sot": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        }
+      }
+    },
+    "tld": [
+      ".ls"
+    ],
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "cioc": "LES",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LSL": {
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "66"
+      ]
+    },
+    "capital": [
+      "Maseru"
+    ],
+    "altSpellings": [
+      "LS",
+      "Kingdom of Lesotho",
+      "Muso oa Lesotho"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "translations": {
+      "jpn": {
+        "official": "レソト王国",
+        "common": "レソト"
+      },
+      "zho": {
+        "official": "萊索托王國",
+        "common": "萊索托"
+      }
+    },
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "ZAF"
+    ],
+    "area": 30355.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mosotho",
+        "m": "Mosotho"
+      },
+      "fra": {
+        "f": "Lésothienne",
+        "m": "Lésothien"
+      }
+    },
+    "flag": "🇱🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2093234"
+    },
+    "population": 2142252,
+    "gini": {
+      "2017": 44.9
+    },
+    "fifa": "LES",
+    "car": {
+      "signs": [
+        "LS"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ls.png",
+      "svg": "https://flagcdn.com/ls.svg",
+      "alt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ls.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ls.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -29.32,
+        27.48
+      ]
+    },
+    "postalCode": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République centrafricaine",
+          "common": "République centrafricaine"
+        },
+        "sag": {
+          "official": "Ködörösêse tî Bêafrîka",
+          "common": "Bêafrîka"
+        }
+      }
+    },
+    "tld": [
+      ".cf"
+    ],
+    "cca2": "CF",
+    "ccn3": "140",
+    "cca3": "CAF",
+    "cioc": "CAF",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "36"
+      ]
+    },
+    "capital": [
+      "Bangui"
+    ],
+    "altSpellings": [
+      "CF",
+      "Central African Republic",
+      "République centrafricaine"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    },
+    "translations": {
+      "jpn": {
+        "official": "中央アフリカ共和国",
+        "common": "中央アフリカ共和国"
+      },
+      "zho": {
+        "official": "中非共和國",
+        "common": "中非共和國"
+      }
+    },
+    "latlng": [
+      7.0,
+      21.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "area": 622984.0,
+    "demonyms": {
+      "eng": {
+        "f": "Central African",
+        "m": "Central African"
+      },
+      "fra": {
+        "f": "Centrafricaine",
+        "m": "Centrafricain"
+      }
+    },
+    "flag": "🇨🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
+    },
+    "population": 4829764,
+    "gini": {
+      "2008": 56.2
+    },
+    "fifa": "CTA",
+    "car": {
+      "signs": [
+        "RCA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cf.png",
+      "svg": "https://flagcdn.com/cf.svg",
+      "alt": "The flag of Central African Republic is composed of four equal horizontal bands of blue, white, green and yellow intersected at the center by a vertical red band of equal size as the horizontal bands. A yellow five-pointed star is situated on the hoist side of the blue band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cf.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.37,
+        18.58
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة المغربية",
+          "common": "المغرب"
+        },
+        "ber": {
+          "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+          "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+        }
+      }
+    },
+    "tld": [
+      ".ma",
+      "المغرب."
+    ],
+    "cca2": "MA",
+    "ccn3": "504",
+    "cca3": "MAR",
+    "cioc": "MAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "12"
+      ]
+    },
+    "capital": [
+      "Rabat"
+    ],
+    "altSpellings": [
+      "MA",
+      "Kingdom of Morocco",
+      "Al-Mamlakah al-Maġribiyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モロッコ王国",
+        "common": "モロッコ"
+      },
+      "zho": {
+        "official": "摩洛哥王國",
+        "common": "摩洛哥"
+      }
+    },
+    "latlng": [
+      32.0,
+      -5.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "area": 446550.0,
+    "demonyms": {
+      "eng": {
+        "f": "Moroccan",
+        "m": "Moroccan"
+      },
+      "fra": {
+        "f": "Marocaine",
+        "m": "Marocain"
+      }
+    },
+    "flag": "🇲🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3630439"
+    },
+    "population": 36910558,
+    "gini": {
+      "2013": 39.5
+    },
+    "fifa": "MAR",
+    "car": {
+      "signs": [
+        "MA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ma.png",
+      "svg": "https://flagcdn.com/ma.svg",
+      "alt": "The flag of Morocco features a green pentagram — a five-pointed linear star — centered on a red field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ma.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ma.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        34.02,
+        -6.82
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Sierra Leone",
+          "common": "Sierra Leone"
+        }
+      }
+    },
+    "tld": [
+      ".sl"
+    ],
+    "cca2": "SL",
+    "ccn3": "694",
+    "cca3": "SLE",
+    "cioc": "SLE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SLL": {
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "32"
+      ]
+    },
+    "capital": [
+      "Freetown"
+    ],
+    "altSpellings": [
+      "SL",
+      "Republic of Sierra Leone"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "シエラレオネ共和国",
+        "common": "シエラレオネ"
+      },
+      "zho": {
+        "official": "塞拉利昂共和國",
+        "common": "塞拉利昂"
+      }
+    },
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "area": 71740.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sierra Leonean",
+        "m": "Sierra Leonean"
+      },
+      "fra": {
+        "f": "Sierra-leonaise",
+        "m": "Sierra-leonais"
+      }
+    },
+    "flag": "🇸🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jhacar85oq9QaeKB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192777"
+    },
+    "population": 7976985,
+    "gini": {
+      "2018": 35.7
+    },
+    "fifa": "SLE",
+    "car": {
+      "signs": [
+        "WAL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sl.png",
+      "svg": "https://flagcdn.com/sl.svg",
+      "alt": "The flag of Sierra Leone is composed of three equal horizontal bands of green, white and blue."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        8.48,
+        -13.23
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burkina",
+          "common": "Burkina Faso"
+        }
+      }
+    },
+    "tld": [
+      ".bf"
+    ],
+    "cca2": "BF",
+    "ccn3": "854",
+    "cca3": "BFA",
+    "cioc": "BUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "26"
+      ]
+    },
+    "capital": [
+      "Ouagadougou"
+    ],
+    "altSpellings": [
+      "BF"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブルキナファソ",
+        "common": "ブルキナファソ"
+      },
+      "zho": {
+        "official": "布基納法索",
+        "common": "布基納法索"
+      }
+    },
+    "latlng": [
+      13.0,
+      -2.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "area": 272967.0,
+    "demonyms": {
+      "eng": {
+        "f": "Burkinabe",
+        "m": "Burkinabe"
+      },
+      "fra": {
+        "f": "Burkinabée",
+        "m": "Burkinabé"
+      }
+    },
+    "flag": "🇧🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192783"
+    },
+    "population": 20903278,
+    "gini": {
+      "2014": 35.3
+    },
+    "fifa": "BFA",
+    "car": {
+      "signs": [
+        "BF"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bf.png",
+      "svg": "https://flagcdn.com/bf.svg",
+      "alt": "The flag of Burkina Faso features two equal horizontal bands of red and green, with a yellow five-pointed star in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bf.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.37,
+        -1.52
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea",
+      "nativeName": {
+        "ara": {
+          "official": "دولة إرتريا",
+          "common": "إرتريا‎"
+        },
+        "eng": {
+          "official": "State of Eritrea",
+          "common": "Eritrea"
+        },
+        "tir": {
+          "official": "ሃገረ ኤርትራ",
+          "common": "ኤርትራ"
+        }
+      }
+    },
+    "tld": [
+      ".er"
+    ],
+    "cca2": "ER",
+    "ccn3": "232",
+    "cca3": "ERI",
+    "cioc": "ERI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ERN": {
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "capital": [
+      "Asmara"
+    ],
+    "altSpellings": [
+      "ER",
+      "State of Eritrea",
+      "ሃገረ ኤርትራ",
+      "Dawlat Iritriyá",
+      "ʾErtrā",
+      "Iritriyā"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エリトリア国",
+        "common": "エリトリア"
+      },
+      "zho": {
+        "official": "厄立特里亞",
+        "common": "厄立特里亞"
+      }
+    },
+    "latlng": [
+      15.0,
+      39.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "area": 117600.0,
+    "demonyms": {
+      "eng": {
+        "f": "Eritrean",
+        "m": "Eritrean"
+      },
+      "fra": {
+        "f": "Érythréenne",
+        "m": "Érythréen"
+      }
+    },
+    "flag": "🇪🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
+    },
+    "population": 5352000,
+    "fifa": "ERI",
+    "car": {
+      "signs": [
+        "ER"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/er.png",
+      "svg": "https://flagcdn.com/er.svg",
+      "alt": "The flag of Eritrea comprises three triangles — a large red isosceles triangle with its base spanning the hoist end and its apex at the midpoint on the fly end, and a green and blue right-angled triangle above and beneath the red triangle. On the hoist side of the red triangle is a golden vertical olive branch encircled by a golden olive wreath."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/er.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        15.33,
+        38.93
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania",
+      "nativeName": {
+        "eng": {
+          "official": "United Republic of Tanzania",
+          "common": "Tanzania"
+        },
+        "swa": {
+          "official": "Jamhuri ya Muungano wa Tanzania",
+          "common": "Tanzania"
+        }
+      }
+    },
+    "tld": [
+      ".tz"
+    ],
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cca3": "TZA",
+    "cioc": "TAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TZS": {
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "55"
+      ]
+    },
+    "capital": [
+      "Dodoma"
+    ],
+    "altSpellings": [
+      "TZ",
+      "Tanzania, United Republic of",
+      "United Republic of Tanzania",
+      "Jamhuri ya Muungano wa Tanzania"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "jpn": {
+        "official": "タンザニア連合共和国",
+        "common": "タンザニア"
+      },
+      "zho": {
+        "official": "坦桑尼亞聯合共和國",
+        "common": "坦桑尼亞"
+      }
+    },
+    "latlng": [
+      -6.0,
+      35.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 945087.0,
+    "demonyms": {
+      "eng": {
+        "f": "Tanzanian",
+        "m": "Tanzanian"
+      },
+      "fra": {
+        "f": "Tanzanienne",
+        "m": "Tanzanien"
+      }
+    },
+    "flag": "🇹🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195270"
+    },
+    "population": 59734213,
+    "gini": {
+      "2017": 40.5
+    },
+    "fifa": "TAN",
+    "car": {
+      "signs": [
+        "EAT"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tz.png",
+      "svg": "https://flagcdn.com/tz.svg",
+      "alt": "The flag of Tanzania features a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and light blue triangle respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -6.16,
+        35.75
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+          "common": "الجزائر"
+        }
+      }
+    },
+    "tld": [
+      ".dz",
+      "الجزائر."
+    ],
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cca3": "DZA",
+    "cioc": "ALG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "13"
+      ]
+    },
+    "capital": [
+      "Algiers"
+    ],
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アルジェリア人民民主共和国",
+        "common": "アルジェリア"
+      },
+      "zho": {
+        "official": "阿爾及利亞人民民主共和國",
+        "common": "阿爾及利亞"
+      }
+    },
+    "latlng": [
+      28.0,
+      3.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741.0,
+    "demonyms": {
+      "eng": {
+        "f": "Algerian",
+        "m": "Algerian"
+      },
+      "fra": {
+        "f": "Algérienne",
+        "m": "Algérien"
+      }
+    },
+    "flag": "🇩🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+    },
+    "population": 44700000,
+    "gini": {
+      "2011": 27.6
+    },
+    "fifa": "ALG",
+    "car": {
+      "signs": [
+        "DZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg",
+      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        36.75,
+        3.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية الإسلامية الموريتانية",
+          "common": "موريتانيا"
+        }
+      }
+    },
+    "tld": [
+      ".mr"
+    ],
+    "cca2": "MR",
+    "ccn3": "478",
+    "cca3": "MRT",
+    "cioc": "MTN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "22"
+      ]
+    },
+    "capital": [
+      "Nouakchott"
+    ],
+    "altSpellings": [
+      "MR",
+      "Islamic Republic of Mauritania",
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モーリタニア·イスラム共和国",
+        "common": "モーリタニア"
+      },
+      "zho": {
+        "official": "毛里塔尼亞伊斯蘭共和國",
+        "common": "毛里塔尼亞"
+      }
+    },
+    "latlng": [
+      20.0,
+      -12.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "area": 1030700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mauritanian",
+        "m": "Mauritanian"
+      },
+      "fra": {
+        "f": "Mauritanienne",
+        "m": "Mauritanien"
+      }
+    },
+    "flag": "🇲🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192763"
+    },
+    "population": 4649660,
+    "gini": {
+      "2014": 32.6
+    },
+    "fifa": "MTN",
+    "car": {
+      "signs": [
+        "RIM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mr.png",
+      "svg": "https://flagcdn.com/mr.svg",
+      "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.07,
+        -15.97
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية السودان",
+          "common": "السودان"
+        },
+        "eng": {
+          "official": "Republic of the Sudan",
+          "common": "Sudan"
+        }
+      }
+    },
+    "tld": [
+      ".sd"
+    ],
+    "cca2": "SD",
+    "ccn3": "729",
+    "cca3": "SDN",
+    "cioc": "SUD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SDG": {
+        "name": "Sudanese pound",
+        "symbol": "ج.س"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "49"
+      ]
+    },
+    "capital": [
+      "Khartoum"
+    ],
+    "altSpellings": [
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "スーダン共和国",
+        "common": "スーダン"
+      },
+      "zho": {
+        "official": "蘇丹共和國",
+        "common": "蘇丹"
+      }
+    },
+    "latlng": [
+      15.0,
+      30.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "area": 1886068.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sudanese",
+        "m": "Sudanese"
+      },
+      "fra": {
+        "f": "Soudanaise",
+        "m": "Soudanais"
+      }
+    },
+    "flag": "🇸🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
+    },
+    "population": 43849269,
+    "gini": {
+      "2014": 34.2
+    },
+    "fifa": "SDN",
+    "car": {
+      "signs": [
+        "SUD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sd.png",
+      "svg": "https://flagcdn.com/sd.svg",
+      "alt": "The flag of Sudan is composed of three equal horizontal bands of red, white and black, with a green isosceles triangle superimposed on the hoist side. The green triangle spans about two-fifth the width of the field with its base on the hoist end."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        15.6,
+        32.53
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic",
+      "nativeName": {
+        "ber": {
+          "official": "Sahrawi Arab Democratic Republic",
+          "common": "Western Sahara"
+        },
+        "mey": {
+          "official": "الجمهورية العربية الصحراوية الديمقراطية",
+          "common": "الصحراء الغربية"
+        },
+        "spa": {
+          "official": "República Árabe Saharaui Democrática",
+          "common": "Sahara Occidental"
+        }
+      }
+    },
+    "tld": [
+      ".eh"
+    ],
+    "cca2": "EH",
+    "ccn3": "732",
+    "cca3": "ESH",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      },
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "125288",
+        "125289"
+      ]
+    },
+    "capital": [
+      "El Aaiún"
+    ],
+    "altSpellings": [
+      "EH",
+      "Taneẓroft Tutrimt"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サハラアラブ民主共和国",
+        "common": "西サハラ"
+      },
+      "zho": {
+        "official": "阿拉伯撒哈拉民主共和國",
+        "common": "西撒哈拉"
+      }
+    },
+    "latlng": [
+      24.5,
+      -13.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "area": 266000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sahrawi",
+        "m": "Sahrawi"
+      }
+    },
+    "flag": "🇪🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/5441968"
+    },
+    "population": 510713,
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/eh.png",
+      "svg": "https://flagcdn.com/eh.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -13.28,
+        27.14
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "nativeName": {
+        "por": {
+          "official": "República de Angola",
+          "common": "Angola"
+        }
+      }
+    },
+    "tld": [
+      ".ao"
+    ],
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "cioc": "ANG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AOA": {
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "44"
+      ]
+    },
+    "capital": [
+      "Luanda"
+    ],
+    "altSpellings": [
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アンゴラ共和国",
+        "common": "アンゴラ"
+      },
+      "zho": {
+        "official": "安哥拉共和國",
+        "common": "安哥拉"
+      }
+    },
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Angolan",
+        "m": "Angolan"
+      },
+      "fra": {
+        "f": "Angolaise",
+        "m": "Angolais"
+      }
+    },
+    "flag": "🇦🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195267"
+    },
+    "population": 32866268,
+    "gini": {
+      "2018": 51.3
+    },
+    "fifa": "ANG",
+    "car": {
+      "signs": [
+        "ANG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ao.png",
+      "svg": "https://flagcdn.com/ao.svg",
+      "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ao.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -8.83,
+        13.22
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of Côte d'Ivoire",
+      "nativeName": {
+        "fra": {
+          "official": "République de Côte d'Ivoire",
+          "common": "Côte d'Ivoire"
+        }
+      }
+    },
+    "tld": [
+      ".ci"
+    ],
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "cioc": "CIV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "25"
+      ]
+    },
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "altSpellings": [
+      "CI",
+      "Côte d'Ivoire",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コートジボワール共和国",
+        "common": "コートジボワール"
+      },
+      "zho": {
+        "official": "科特迪瓦共和國",
+        "common": "科特迪瓦"
+      }
+    },
+    "latlng": [
+      8.0,
+      -5.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ivorian",
+        "m": "Ivorian"
+      },
+      "fra": {
+        "f": "Ivoirienne",
+        "m": "Ivoirien"
+      }
+    },
+    "flag": "🇨🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+    },
+    "population": 26378275,
+    "gini": {
+      "2015": 41.5
+    },
+    "fifa": "CIV",
+    "car": {
+      "signs": [
+        "CI"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ci.png",
+      "svg": "https://flagcdn.com/ci.svg",
+      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ci.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.82,
+        -5.27
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية التونسية",
+          "common": "تونس"
+        }
+      }
+    },
+    "tld": [
+      ".tn"
+    ],
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "cioc": "TUN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TND": {
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "16"
+      ]
+    },
+    "capital": [
+      "Tunis"
+    ],
+    "altSpellings": [
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "チュニジア共和国",
+        "common": "チュニジア"
+      },
+      "zho": {
+        "official": "突尼斯共和國",
+        "common": "突尼斯"
+      }
+    },
+    "latlng": [
+      34.0,
+      9.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "area": 163610.0,
+    "demonyms": {
+      "eng": {
+        "f": "Tunisian",
+        "m": "Tunisian"
+      },
+      "fra": {
+        "f": "Tunisienne",
+        "m": "Tunisien"
+      }
+    },
+    "flag": "🇹🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+    },
+    "population": 11818618,
+    "gini": {
+      "2015": 32.8
+    },
+    "fifa": "TUN",
+    "car": {
+      "signs": [
+        "TN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tn.png",
+      "svg": "https://flagcdn.com/tn.svg",
+      "alt": "The flag of Tunisia has a red field. A white circle bearing a five-pointed red star within a fly-side facing red crescent is situated at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        36.8,
+        10.18
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali",
+      "nativeName": {
+        "fra": {
+          "official": "République du Mali",
+          "common": "Mali"
+        }
+      }
+    },
+    "tld": [
+      ".ml"
+    ],
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "cioc": "MLI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "23"
+      ]
+    },
+    "capital": [
+      "Bamako"
+    ],
+    "altSpellings": [
+      "ML",
+      "Republic of Mali",
+      "République du Mali"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マリ共和国",
+        "common": "マリ"
+      },
+      "zho": {
+        "official": "馬裏共和國",
+        "common": "馬裏"
+      }
+    },
+    "latlng": [
+      17.0,
+      -4.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "area": 1240192.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malian",
+        "m": "Malian"
+      },
+      "fra": {
+        "f": "Malienne",
+        "m": "Malien"
+      }
+    },
+    "flag": "🇲🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+    },
+    "population": 20250834,
+    "gini": {
+      "2009": 33.0
+    },
+    "fifa": "MLI",
+    "car": {
+      "signs": [
+        "RMM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ml.png",
+      "svg": "https://flagcdn.com/ml.svg",
+      "alt": "The flag of Mali is composed of three equal vertical bands of green, yellow and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.65,
+        -8.0
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin",
+      "nativeName": {
+        "fra": {
+          "official": "République du Bénin",
+          "common": "Bénin"
+        }
+      }
+    },
+    "tld": [
+      ".bj"
+    ],
+    "cca2": "BJ",
+    "ccn3": "204",
+    "cca3": "BEN",
+    "cioc": "BEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "29"
+      ]
+    },
+    "capital": [
+      "Porto-Novo"
+    ],
+    "altSpellings": [
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ベナン共和国",
+        "common": "ベナン"
+      },
+      "zho": {
+        "official": "貝寧共和國",
+        "common": "貝寧"
+      }
+    },
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "area": 112622.0,
+    "demonyms": {
+      "eng": {
+        "f": "Beninese",
+        "m": "Beninese"
+      },
+      "fra": {
+        "f": "Béninoise",
+        "m": "Béninois"
+      }
+    },
+    "flag": "🇧🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192784"
+    },
+    "population": 12123198,
+    "gini": {
+      "2015": 47.8
+    },
+    "fifa": "BEN",
+    "car": {
+      "signs": [
+        "DY"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bj.png",
+      "svg": "https://flagcdn.com/bj.svg",
+      "alt": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.48,
+        2.62
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde",
+      "nativeName": {
+        "por": {
+          "official": "República de Cabo Verde",
+          "common": "Cabo Verde"
+        }
+      }
+    },
+    "tld": [
+      ".cv"
+    ],
+    "cca2": "CV",
+    "ccn3": "132",
+    "cca3": "CPV",
+    "cioc": "CPV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CVE": {
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "38"
+      ]
+    },
+    "capital": [
+      "Praia"
+    ],
+    "altSpellings": [
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カーボベルデ共和国",
+        "common": "カーボベルデ"
+      },
+      "zho": {
+        "official": "佛得角共和國",
+        "common": "佛得角"
+      }
+    },
+    "latlng": [
+      16.5388,
+      -23.0418
+    ],
+    "landlocked": false,
+    "area": 4033.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cape Verdian",
+        "m": "Cape Verdian"
+      },
+      "fra": {
+        "f": "Cap-verdienne",
+        "m": "Cap-verdien"
+      }
+    },
+    "flag": "🇨🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+    },
+    "population": 555988,
+    "gini": {
+      "2015": 42.4
+    },
+    "fifa": "CPV",
+    "car": {
+      "signs": [
+        "CV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cv.png",
+      "svg": "https://flagcdn.com/cv.svg",
+      "alt": "The flag of Cape Verde is composed of five horizontal bands of blue, white, red, white and blue in the ratio of 6:1:1:1:3. A ring of ten five-pointed yellow stars is centered at three-eighth of the height from the bottom edge and three-eighth of the width from the hoist end of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.92,
+        -23.52
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea",
+      "nativeName": {
+        "fra": {
+          "official": "République de la Guinée Équatoriale",
+          "common": "Guinée équatoriale"
+        },
+        "por": {
+          "official": "República da Guiné Equatorial",
+          "common": "Guiné Equatorial"
+        },
+        "spa": {
+          "official": "República de Guinea Ecuatorial",
+          "common": "Guinea Ecuatorial"
+        }
+      }
+    },
+    "tld": [
+      ".gq"
+    ],
+    "cca2": "GQ",
+    "ccn3": "226",
+    "cca3": "GNQ",
+    "cioc": "GEQ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "40"
+      ]
+    },
+    "capital": [
+      "Malabo"
+    ],
+    "altSpellings": [
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale",
+      "República da Guiné Equatorial"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "赤道ギニア共和国",
+        "common": "赤道ギニア"
+      },
+      "zho": {
+        "official": "赤道幾內亞共和國",
+        "common": "赤道幾內亞"
+      }
+    },
+    "latlng": [
+      2.0,
+      10.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "area": 28051.0,
+    "demonyms": {
+      "eng": {
+        "f": "Equatorial Guinean",
+        "m": "Equatorial Guinean"
+      },
+      "fra": {
+        "f": "Équato-guinéenne",
+        "m": "Équato-guinéen"
+      }
+    },
+    "flag": "🇬🇶",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
+    },
+    "population": 1402985,
+    "fifa": "EQG",
+    "car": {
+      "signs": [
+        "GQ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gq.png",
+      "svg": "https://flagcdn.com/gq.svg",
+      "alt": "The flag of Equatorial Guinea is composed of three equal horizontal bands of green, white and red with the national coat of arms centered in the white band and an isosceles triangle superimposed on the hoist side of the field. The triangle is light blue, has its base on the hoist end and spans about one-fifth the width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        3.75,
+        8.78
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        },
+        "swa": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        }
+      }
+    },
+    "tld": [
+      ".ug"
+    ],
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "cioc": "UGA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UGX": {
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "56"
+      ]
+    },
+    "capital": [
+      "Kampala"
+    ],
+    "altSpellings": [
+      "UG",
+      "Republic of Uganda",
+      "Jamhuri ya Uganda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ウガンダ共和国",
+        "common": "ウガンダ"
+      },
+      "zho": {
+        "official": "烏干達共和國",
+        "common": "烏干達"
+      }
+    },
+    "latlng": [
+      1.0,
+      32.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "area": 241550.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ugandan",
+        "m": "Ugandan"
+      },
+      "fra": {
+        "f": "Ougandaise",
+        "m": "Ougandais"
+      }
+    },
+    "flag": "🇺🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192796"
+    },
+    "population": 45741000,
+    "gini": {
+      "2016": 42.8
+    },
+    "fifa": "UGA",
+    "car": {
+      "signs": [
+        "EAU"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ug.png",
+      "svg": "https://flagcdn.com/ug.svg",
+      "alt": "The flag of Uganda is composed of six equal horizontal bands of black, yellow, red, black, yellow and red. A white circle bearing a hoist-side facing grey red-crested crane is superimposed in the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ug.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ug.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        0.32,
+        32.55
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Botswana",
+          "common": "Botswana"
+        },
+        "tsn": {
+          "official": "Lefatshe la Botswana",
+          "common": "Botswana"
+        }
+      }
+    },
+    "tld": [
+      ".bw"
+    ],
+    "cca2": "BW",
+    "ccn3": "072",
+    "cca3": "BWA",
+    "cioc": "BOT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "67"
+      ]
+    },
+    "capital": [
+      "Gaborone"
+    ],
+    "altSpellings": [
+      "BW",
+      "Republic of Botswana",
+      "Lefatshe la Botswana"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ボツワナ共和国",
+        "common": "ボツワナ"
+      },
+      "zho": {
+        "official": "博茨瓦納共和國",
+        "common": "博茨瓦納"
+      }
+    },
+    "latlng": [
+      -22.0,
+      24.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 582000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Motswana",
+        "m": "Motswana"
+      },
+      "fra": {
+        "f": "Botswanaise",
+        "m": "Botswanais"
+      }
+    },
+    "flag": "🇧🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+    },
+    "population": 2351625,
+    "gini": {
+      "2015": 53.3
+    },
+    "fifa": "BOT",
+    "car": {
+      "signs": [
+        "BW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bw.png",
+      "svg": "https://flagcdn.com/bw.svg",
+      "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -24.63,
+        25.9
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "nativeName": {
+        "fra": {
+          "official": "République du Burundi",
+          "common": "Burundi"
+        },
+        "run": {
+          "official": "Republika y'Uburundi ",
+          "common": "Uburundi"
+        }
+      }
+    },
+    "tld": [
+      ".bi"
+    ],
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "cioc": "BDI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BIF": {
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "57"
+      ]
+    },
+    "capital": [
+      "Gitega"
+    ],
+    "altSpellings": [
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブルンジ共和国",
+        "common": "ブルンジ"
+      },
+      "zho": {
+        "official": "布隆迪共和國",
+        "common": "布隆迪"
+      }
+    },
+    "latlng": [
+      -3.5,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834.0,
+    "demonyms": {
+      "eng": {
+        "f": "Burundian",
+        "m": "Burundian"
+      },
+      "fra": {
+        "f": "Burundaise",
+        "m": "Burundais"
+      }
+    },
+    "flag": "🇧🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195269"
+    },
+    "population": 11890781,
+    "gini": {
+      "2013": 38.6
+    },
+    "fifa": "BDI",
+    "car": {
+      "signs": [
+        "RU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bi.png",
+      "svg": "https://flagcdn.com/bi.svg",
+      "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bi.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -3.43,
+        29.93
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "nativeName": {
+        "afr": {
+          "official": "Republiek van Suid-Afrika",
+          "common": "South Africa"
+        },
+        "eng": {
+          "official": "Republic of South Africa",
+          "common": "South Africa"
+        },
+        "nbl": {
+          "official": "IRiphabliki yeSewula Afrika",
+          "common": "Sewula Afrika"
+        },
+        "nso": {
+          "official": "Rephaboliki ya Afrika-Borwa ",
+          "common": "Afrika-Borwa"
+        },
+        "sot": {
+          "official": "Rephaboliki ya Afrika Borwa",
+          "common": "Afrika Borwa"
+        },
+        "ssw": {
+          "official": "IRiphabhulikhi yeNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        },
+        "tsn": {
+          "official": "Rephaboliki ya Aforika Borwa",
+          "common": "Aforika Borwa"
+        },
+        "tso": {
+          "official": "Riphabliki ra Afrika Dzonga",
+          "common": "Afrika Dzonga"
+        },
+        "ven": {
+          "official": "Riphabuḽiki ya Afurika Tshipembe",
+          "common": "Afurika Tshipembe"
+        },
+        "xho": {
+          "official": "IRiphabliki yaseMzantsi Afrika",
+          "common": "Mzantsi Afrika"
+        },
+        "zul": {
+          "official": "IRiphabliki yaseNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        }
+      }
+    },
+    "tld": [
+      ".za"
+    ],
+    "cca2": "ZA",
+    "ccn3": "710",
+    "cca3": "ZAF",
+    "cioc": "RSA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "7"
+      ]
+    },
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "altSpellings": [
+      "ZA",
+      "RSA",
+      "Suid-Afrika",
+      "Republic of South Africa"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "translations": {
+      "jpn": {
+        "official": "南アフリカ共和国",
+        "common": "南アフリカ"
+      },
+      "zho": {
+        "official": "南非共和國",
+        "common": "南非"
+      }
+    },
+    "latlng": [
+      -29.0,
+      24.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "area": 1221037.0,
+    "demonyms": {
+      "eng": {
+        "f": "South African",
+        "m": "South African"
+      },
+      "fra": {
+        "f": "Sud-africaine",
+        "m": "Sud-africain"
+      }
+    },
+    "flag": "🇿🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
+    },
+    "population": 59308690,
+    "gini": {
+      "2014": 63.0
+    },
+    "fifa": "RSA",
+    "car": {
+      "signs": [
+        "ZA"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/za.png",
+      "svg": "https://flagcdn.com/za.svg",
+      "alt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/za.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/za.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -25.7,
+        28.22
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "nativeName": {
+        "ara": {
+          "official": "الدولة ليبيا",
+          "common": "‏ليبيا"
+        }
+      }
+    },
+    "tld": [
+      ".ly"
+    ],
+    "cca2": "LY",
+    "ccn3": "434",
+    "cca3": "LBY",
+    "cioc": "LBA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LYD": {
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "18"
+      ]
+    },
+    "capital": [
+      "Tripoli"
+    ],
+    "altSpellings": [
+      "LY",
+      "State of Libya",
+      "Dawlat Libya"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "リビアの国家",
+        "common": "リビア"
+      },
+      "zho": {
+        "official": "利比亞國",
+        "common": "利比亞"
+      }
+    },
+    "latlng": [
+      25.0,
+      17.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "area": 1759540.0,
+    "demonyms": {
+      "eng": {
+        "f": "Libyan",
+        "m": "Libyan"
+      },
+      "fra": {
+        "f": "Libyenne",
+        "m": "Libyen"
+      }
+    },
+    "flag": "🇱🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+      "openStreetMaps": "openstreetmap.org/relation/192758"
+    },
+    "population": 6871287,
+    "fifa": "LBY",
+    "car": {
+      "signs": [
+        "LAR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ly.png",
+      "svg": "https://flagcdn.com/ly.svg",
+      "alt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ly.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        32.88,
+        13.17
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte",
+      "nativeName": {
+        "fra": {
+          "official": "Département de Mayotte",
+          "common": "Mayotte"
+        }
+      }
+    },
+    "tld": [
+      ".yt"
+    ],
+    "cca2": "YT",
+    "ccn3": "175",
+    "cca3": "MYT",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "capital": [
+      "Mamoudzou"
+    ],
+    "altSpellings": [
+      "YT",
+      "Department of Mayotte",
+      "Département de Mayotte"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マヨット科",
+        "common": "マヨット"
+      },
+      "zho": {
+        "official": "馬約特",
+        "common": "馬約特"
+      }
+    },
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "landlocked": false,
+    "area": 374.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mahoran",
+        "m": "Mahoran"
+      },
+      "fra": {
+        "f": "Mahoraise",
+        "m": "Mahorais"
+      }
+    },
+    "flag": "🇾🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1259885"
+    },
+    "population": 226915,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/yt.png",
+      "svg": "https://flagcdn.com/yt.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -12.78,
+        45.22
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République gabonaise",
+          "common": "Gabon"
+        }
+      }
+    },
+    "tld": [
+      ".ga"
+    ],
+    "cca2": "GA",
+    "ccn3": "266",
+    "cca3": "GAB",
+    "cioc": "GAB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "41"
+      ]
+    },
+    "capital": [
+      "Libreville"
+    ],
+    "altSpellings": [
+      "GA",
+      "Gabonese Republic",
+      "République Gabonaise"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ガボン共和国",
+        "common": "ガボン"
+      },
+      "zho": {
+        "official": "加蓬共和國",
+        "common": "加蓬"
+      }
+    },
+    "latlng": [
+      -1.0,
+      11.75
+    ],
+    "landlocked": false,
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "area": 267668.0,
+    "demonyms": {
+      "eng": {
+        "f": "Gabonese",
+        "m": "Gabonese"
+      },
+      "fra": {
+        "f": "Gabonaise",
+        "m": "Gabonais"
+      }
+    },
+    "flag": "🇬🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
+    },
+    "population": 2225728,
+    "gini": {
+      "2017": 38.0
+    },
+    "fifa": "GAB",
+    "car": {
+      "signs": [
+        "G"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ga.png",
+      "svg": "https://flagcdn.com/ga.svg",
+      "alt": "The flag of Gabon is composed of three equal horizontal bands of green, yellow and blue."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ga.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        0.38,
+        9.45
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Cameroon",
+          "common": "Cameroon"
+        },
+        "fra": {
+          "official": "République du Cameroun",
+          "common": "Cameroun"
+        }
+      }
+    },
+    "tld": [
+      ".cm"
+    ],
+    "cca2": "CM",
+    "ccn3": "120",
+    "cca3": "CMR",
+    "cioc": "CMR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "37"
+      ]
+    },
+    "capital": [
+      "Yaoundé"
+    ],
+    "altSpellings": [
+      "CM",
+      "Republic of Cameroon",
+      "République du Cameroun"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カメルーン共和国",
+        "common": "カメルーン"
+      },
+      "zho": {
+        "official": "喀麥隆共和國",
+        "common": "喀麥隆"
+      }
+    },
+    "latlng": [
+      6.0,
+      12.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "area": 475442.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cameroonian",
+        "m": "Cameroonian"
+      },
+      "fra": {
+        "f": "Camerounaise",
+        "m": "Camerounais"
+      }
+    },
+    "flag": "🇨🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
+    },
+    "population": 26545864,
+    "gini": {
+      "2014": 46.6
+    },
+    "fifa": "CMR",
+    "car": {
+      "signs": [
+        "CAM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cm.png",
+      "svg": "https://flagcdn.com/cm.svg",
+      "alt": "The flag of Cameroon is composed of three equal vertical bands of green, red and yellow, with a yellow five-pointed star in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        3.85,
+        11.5
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea",
+      "nativeName": {
+        "fra": {
+          "official": "République de Guinée",
+          "common": "Guinée"
+        }
+      }
+    },
+    "tld": [
+      ".gn"
+    ],
+    "cca2": "GN",
+    "ccn3": "324",
+    "cca3": "GIN",
+    "cioc": "GUI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GNF": {
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "24"
+      ]
+    },
+    "capital": [
+      "Conakry"
+    ],
+    "altSpellings": [
+      "GN",
+      "Republic of Guinea",
+      "République de Guinée"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ギニア共和国",
+        "common": "ギニア"
+      },
+      "zho": {
+        "official": "幾內亞共和國",
+        "common": "幾內亞"
+      }
+    },
+    "latlng": [
+      11.0,
+      -10.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "area": 245857.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guinean",
+        "m": "Guinean"
+      },
+      "fra": {
+        "f": "Guinéenne",
+        "m": "Guinéen"
+      }
+    },
+    "flag": "🇬🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192778"
+    },
+    "population": 13132792,
+    "gini": {
+      "2012": 33.7
+    },
+    "fifa": "GUI",
+    "car": {
+      "signs": [
+        "RG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gn.png",
+      "svg": "https://flagcdn.com/gn.svg",
+      "alt": "The flag of Guinea is composed of three equal vertical bands of red, yellow and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.5,
+        -13.7
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles",
+      "nativeName": {
+        "crs": {
+          "official": "Repiblik Sesel",
+          "common": "Sesel"
+        },
+        "eng": {
+          "official": "Republic of Seychelles",
+          "common": "Seychelles"
+        },
+        "fra": {
+          "official": "République des Seychelles",
+          "common": "Seychelles"
+        }
+      }
+    },
+    "tld": [
+      ".sc"
+    ],
+    "cca2": "SC",
+    "ccn3": "690",
+    "cca3": "SYC",
+    "cioc": "SEY",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SCR": {
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "48"
+      ]
+    },
+    "capital": [
+      "Victoria"
+    ],
+    "altSpellings": [
+      "SC",
+      "Republic of Seychelles",
+      "Repiblik Sesel",
+      "République des Seychelles"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セイシェル共和国",
+        "common": "セーシェル"
+      },
+      "zho": {
+        "official": "塞舌爾共和國",
+        "common": "塞舌爾"
+      }
+    },
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "landlocked": false,
+    "area": 452.0,
+    "demonyms": {
+      "eng": {
+        "f": "Seychellois",
+        "m": "Seychellois"
+      },
+      "fra": {
+        "f": "Seychelloise",
+        "m": "Seychellois"
+      }
+    },
+    "flag": "🇸🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+    },
+    "population": 98462,
+    "gini": {
+      "2018": 32.1
+    },
+    "fifa": "SEY",
+    "car": {
+      "signs": [
+        "SY"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sc.png",
+      "svg": "https://flagcdn.com/sc.svg",
+      "alt": "The flag of Seychelles is composed of five broadening oblique bands of blue, yellow, red, white and green, which extend from the hoist side of the bottom edge to the top and fly edges of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.62,
+        55.45
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory",
+      "nativeName": {
+        "eng": {
+          "official": "British Indian Ocean Territory",
+          "common": "British Indian Ocean Territory"
+        }
+      }
+    },
+    "tld": [
+      ".io"
+    ],
+    "cca2": "IO",
+    "ccn3": "086",
+    "cca3": "IOT",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "46"
+      ]
+    },
+    "capital": [
+      "Diego Garcia"
+    ],
+    "altSpellings": [
+      "IO"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "イギリス領インド洋地域",
+        "common": "イギリス領インド洋地域"
+      },
+      "zho": {
+        "official": "英屬印度洋領地",
+        "common": "英屬印度洋領地"
+      }
+    },
+    "latlng": [
+      -6.0,
+      71.5
+    ],
+    "landlocked": false,
+    "area": 60.0,
+    "demonyms": {
+      "eng": {
+        "f": "Indian",
+        "m": "Indian"
+      }
+    },
+    "flag": "🇮🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
+    },
+    "population": 3000,
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/io.png",
+      "svg": "https://flagcdn.com/io.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -7.3,
+        72.4
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar",
+      "nativeName": {
+        "fra": {
+          "official": "République de Madagascar",
+          "common": "Madagascar"
+        },
+        "mlg": {
+          "official": "Repoblikan'i Madagasikara",
+          "common": "Madagasikara"
+        }
+      }
+    },
+    "tld": [
+      ".mg"
+    ],
+    "cca2": "MG",
+    "ccn3": "450",
+    "cca3": "MDG",
+    "cioc": "MAD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MGA": {
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "61"
+      ]
+    },
+    "capital": [
+      "Antananarivo"
+    ],
+    "altSpellings": [
+      "MG",
+      "Republic of Madagascar",
+      "Repoblikan'i Madagasikara",
+      "République de Madagascar"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マダガスカル共和国",
+        "common": "マダガスカル"
+      },
+      "zho": {
+        "official": "馬達加斯加共和國",
+        "common": "馬達加斯加"
+      }
+    },
+    "latlng": [
+      -20.0,
+      47.0
+    ],
+    "landlocked": false,
+    "area": 587041.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malagasy",
+        "m": "Malagasy"
+      },
+      "fra": {
+        "f": "Malgache",
+        "m": "Malgache"
+      }
+    },
+    "flag": "🇲🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/447325"
+    },
+    "population": 27691019,
+    "gini": {
+      "2012": 42.6
+    },
+    "fifa": "MAD",
+    "car": {
+      "signs": [
+        "RM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mg.png",
+      "svg": "https://flagcdn.com/mg.svg",
+      "alt": "The flag of Madagascar features a white vertical band on the hoist side that takes up about one-third the width of the field, and two equal horizontal bands of red and green adjoining the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -18.92,
+        47.52
+      ]
+    },
+    "postalCode": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République démocratique du Congo",
+          "common": "RD Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo Demokratiki",
+          "common": "Repubilika ya Kongo Demokratiki"
+        },
+        "lin": {
+          "official": "Republiki ya Kongó Demokratiki",
+          "common": "Republiki ya Kongó Demokratiki"
+        },
+        "lua": {
+          "official": "Ditunga dia Kongu wa Mungalaata",
+          "common": "Ditunga dia Kongu wa Mungalaata"
+        },
+        "swa": {
+          "official": "Jamhuri ya Kidemokrasia ya Kongo",
+          "common": "Jamhuri ya Kidemokrasia ya Kongo"
+        }
+      }
+    },
+    "tld": [
+      ".cd"
+    ],
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "cioc": "COD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CDF": {
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "43"
+      ]
+    },
+    "capital": [
+      "Kinshasa"
+    ],
+    "altSpellings": [
+      "CD",
+      "DR Congo",
+      "Congo-Kinshasa",
+      "Congo, the Democratic Republic of the",
+      "DRC"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コンゴ民主共和国",
+        "common": "コンゴ民主共和国"
+      },
+      "zho": {
+        "official": "剛果民主共和國",
+        "common": "民主剛果"
+      }
+    },
+    "latlng": [
+      0.0,
+      25.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858.0,
+    "demonyms": {
+      "eng": {
+        "f": "Congolese",
+        "m": "Congolese"
+      },
+      "fra": {
+        "f": "Congolaise",
+        "m": "Congolais"
+      }
+    },
+    "flag": "🇨🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+    },
+    "population": 108407721,
+    "gini": {
+      "2012": 42.1
+    },
+    "fifa": "COD",
+    "car": {
+      "signs": [
+        "CGO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cd.png",
+      "svg": "https://flagcdn.com/cd.svg",
+      "alt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.32,
+        15.3
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Gambia",
+          "common": "Gambia"
+        }
+      }
+    },
+    "tld": [
+      ".gm"
+    ],
+    "cca2": "GM",
+    "ccn3": "270",
+    "cca3": "GMB",
+    "cioc": "GAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GMD": {
+        "name": "dalasi",
+        "symbol": "D"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "20"
+      ]
+    },
+    "capital": [
+      "Banjul"
+    ],
+    "altSpellings": [
+      "GM",
+      "Republic of the Gambia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ガンビア共和国",
+        "common": "ガンビア"
+      },
+      "zho": {
+        "official": "岡比亞共和國",
+        "common": "岡比亞"
+      }
+    },
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "SEN"
+    ],
+    "area": 10689.0,
+    "demonyms": {
+      "eng": {
+        "f": "Gambian",
+        "m": "Gambian"
+      },
+      "fra": {
+        "f": "Gambienne",
+        "m": "Gambien"
+      }
+    },
+    "flag": "🇬🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+    },
+    "population": 2416664,
+    "gini": {
+      "2015": 35.9
+    },
+    "fifa": "GAM",
+    "car": {
+      "signs": [
+        "WAG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gm.png",
+      "svg": "https://flagcdn.com/gm.svg",
+      "alt": "The flag of Gambia is composed of three equal horizontal bands of red, blue with white top and bottom edges, and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.45,
+        -16.57
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية الصومال‎‎",
+          "common": "الصومال‎‎"
+        },
+        "som": {
+          "official": "Jamhuuriyadda Federaalka Soomaaliya",
+          "common": "Soomaaliya"
+        }
+      }
+    },
+    "tld": [
+      ".so"
+    ],
+    "cca2": "SO",
+    "ccn3": "706",
+    "cca3": "SOM",
+    "cioc": "SOM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SOS": {
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "52"
+      ]
+    },
+    "capital": [
+      "Mogadishu"
+    ],
+    "altSpellings": [
+      "SO",
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ソマリア連邦共和国",
+        "common": "ソマリア"
+      },
+      "zho": {
+        "official": "索馬里共和國",
+        "common": "索馬里"
+      }
+    },
+    "latlng": [
+      10.0,
+      49.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "area": 637657.0,
+    "demonyms": {
+      "eng": {
+        "f": "Somali",
+        "m": "Somali"
+      },
+      "fra": {
+        "f": "Somalienne",
+        "m": "Somalien"
+      }
+    },
+    "flag": "🇸🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192799"
+    },
+    "population": 15893219,
+    "gini": {
+      "2017": 36.8
+    },
+    "fifa": "SOM",
+    "car": {
+      "signs": [
+        "SO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/so.png",
+      "svg": "https://flagcdn.com/so.svg",
+      "alt": "The flag of Somalia features a large five-pointed white star centered on a light blue field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/so.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/so.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        2.07,
+        45.33
+      ]
+    },
+    "postalCode": {
+      "format": "@@  #####",
+      "regex": "^([A-Z]{2}\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "nativeName": {
+        "eng": {
+          "official": "Federal Republic of Nigeria",
+          "common": "Nigeria"
+        }
+      }
+    },
+    "tld": [
+      ".ng"
+    ],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "34"
+      ]
+    },
+    "capital": [
+      "Abuja"
+    ],
+    "altSpellings": [
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ナイジェリア連邦共和国",
+        "common": "ナイジェリア"
+      },
+      "zho": {
+        "official": "尼日利亞聯邦共和國",
+        "common": "尼日利亞"
+      }
+    },
+    "latlng": [
+      10.0,
+      8.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerian",
+        "m": "Nigerian"
+      },
+      "fra": {
+        "f": "Nigériane",
+        "m": "Nigérian"
+      }
+    },
+    "flag": "🇳🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192787"
+    },
+    "population": 206139587,
+    "gini": {
+      "2018": 35.1
+    },
+    "fifa": "NGA",
+    "car": {
+      "signs": [
+        "WAN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ng.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.08,
+        7.53
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of South Sudan",
+          "common": "South Sudan"
+        }
+      }
+    },
+    "tld": [
+      ".ss"
+    ],
+    "cca2": "SS",
+    "ccn3": "728",
+    "cca3": "SSD",
+    "cioc": "SSD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SSP": {
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "11"
+      ]
+    },
+    "capital": [
+      "Juba"
+    ],
+    "altSpellings": [
+      "SS"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "南スーダン共和国",
+        "common": "南スーダン"
+      },
+      "zho": {
+        "official": "南蘇丹共和國",
+        "common": "南蘇丹"
+      }
+    },
+    "latlng": [
+      7.0,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "area": 619745.0,
+    "demonyms": {
+      "eng": {
+        "f": "South Sudanese",
+        "m": "South Sudanese"
+      },
+      "fra": {
+        "f": "Sud-Soudanaise",
+        "m": "Sud-Soudanais"
+      }
+    },
+    "flag": "🇸🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
+    },
+    "population": 11193729,
+    "gini": {
+      "2016": 44.1
+    },
+    "fifa": "SSD",
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ss.png",
+      "svg": "https://flagcdn.com/ss.svg",
+      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ss.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        4.85,
+        31.62
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini",
+      "nativeName": {
+        "eng": {
+          "official": "Kingdom of Eswatini",
+          "common": "Eswatini"
+        },
+        "ssw": {
+          "official": "Umbuso weSwatini",
+          "common": "eSwatini"
+        }
+      }
+    },
+    "tld": [
+      ".sz"
+    ],
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "cioc": "SWZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SZL": {
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "capital": [
+      "Mbabane"
+    ],
+    "altSpellings": [
+      "SZ",
+      "Swaziland",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Eswatini",
+      "Umbuso weSwatini"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "translations": {
+      "jpn": {
+        "official": "スワジランド王国",
+        "common": "スワジランド"
+      },
+      "zho": {
+        "official": "斯威士蘭王國",
+        "common": "斯威士蘭"
+      }
+    },
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "area": 17364.0,
+    "demonyms": {
+      "eng": {
+        "f": "Swazi",
+        "m": "Swazi"
+      },
+      "fra": {
+        "f": "Swazie",
+        "m": "Swazie"
+      }
+    },
+    "flag": "🇸🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+    },
+    "population": 1160164,
+    "gini": {
+      "2016": 54.6
+    },
+    "fifa": "SWZ",
+    "car": {
+      "signs": [
+        "SD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sz.png",
+      "svg": "https://flagcdn.com/sz.svg",
+      "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -26.32,
+        31.13
+      ]
+    },
+    "postalCode": {
+      "format": "@###",
+      "regex": "^([A-Z]\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية مصر العربية",
+          "common": "مصر"
+        }
+      }
+    },
+    "tld": [
+      ".eg",
+      ".مصر"
+    ],
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "cioc": "EGY",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Cairo"
+    ],
+    "altSpellings": [
+      "EG",
+      "Arab Republic of Egypt"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エジプト·アラブ共和国",
+        "common": "エジプト"
+      },
+      "zho": {
+        "official": "阿拉伯埃及共和國",
+        "common": "埃及"
+      }
+    },
+    "latlng": [
+      27.0,
+      30.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "area": 1002450.0,
+    "demonyms": {
+      "eng": {
+        "f": "Egyptian",
+        "m": "Egyptian"
+      },
+      "fra": {
+        "f": "Égyptienne",
+        "m": "Égyptien"
+      }
+    },
+    "flag": "🇪🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473947"
+    },
+    "population": 102334403,
+    "gini": {
+      "2017": 31.5
+    },
+    "fifa": "EGY",
+    "car": {
+      "signs": [
+        "ET"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/eg.png",
+      "svg": "https://flagcdn.com/eg.svg",
+      "alt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/eg.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        30.05,
+        31.25
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Helena, Ascension and Tristan da Cunha",
+          "common": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+      }
+    },
+    "tld": [
+      ".sh",
+      ".ac"
+    ],
+    "cca2": "SH",
+    "ccn3": "654",
+    "cca3": "SHN",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "GBP": {
+        "name": "Pound sterling",
+        "symbol": "£"
+      },
+      "SHP": {
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "90",
+        "47"
+      ]
+    },
+    "capital": [
+      "Jamestown"
+    ],
+    "altSpellings": [
+      "Saint Helena",
+      "St. Helena, Ascension and Tristan da Cunha"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+        "common": "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+      },
+      "zho": {
+        "official": "聖赫勒拿、阿森松和特里斯坦-達庫尼亞",
+        "common": "聖赫勒拿、阿森松和特里斯坦-達庫尼亞"
+      }
+    },
+    "latlng": [
+      -15.95,
+      -5.72
+    ],
+    "landlocked": false,
+    "area": 394.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Helenian",
+        "m": "Saint Helenian"
+      },
+      "fra": {
+        "f": "Sainte-Hélénoise",
+        "m": "Sainte-Hélènois"
+      }
+    },
+    "flag": "🇸🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
+    },
+    "population": 53192,
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sh.png",
+      "svg": "https://flagcdn.com/sh.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -15.93,
+        -5.72
+      ]
+    },
+    "postalCode": {
+      "format": "STHL 1ZZ",
+      "regex": "^(STHL1ZZ)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "nativeName": {
+        "fra": {
+          "official": "République du Sénégal",
+          "common": "Sénégal"
+        }
+      }
+    },
+    "tld": [
+      ".sn"
+    ],
+    "cca2": "SN",
+    "ccn3": "686",
+    "cca3": "SEN",
+    "cioc": "SEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "21"
+      ]
+    },
+    "capital": [
+      "Dakar"
+    ],
+    "altSpellings": [
+      "SN",
+      "Republic of Senegal",
+      "République du Sénégal"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セネガル共和国",
+        "common": "セネガル"
+      },
+      "zho": {
+        "official": "塞內加爾共和國",
+        "common": "塞內加爾"
+      }
+    },
+    "latlng": [
+      14.0,
+      -14.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "area": 196722.0,
+    "demonyms": {
+      "eng": {
+        "f": "Senegalese",
+        "m": "Senegalese"
+      },
+      "fra": {
+        "f": "Sénégalaise",
+        "m": "Sénégalais"
+      }
+    },
+    "flag": "🇸🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+    },
+    "population": 16743930,
+    "gini": {
+      "2011": 40.3
+    },
+    "fifa": "SEN",
+    "car": {
+      "signs": [
+        "SN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sn.png",
+      "svg": "https://flagcdn.com/sn.svg",
+      "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.73,
+        -17.63
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République togolaise",
+          "common": "Togo"
+        }
+      }
+    },
+    "tld": [
+      ".tg"
+    ],
+    "cca2": "TG",
+    "ccn3": "768",
+    "cca3": "TGO",
+    "cioc": "TOG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "28"
+      ]
+    },
+    "capital": [
+      "Lomé"
+    ],
+    "altSpellings": [
+      "TG",
+      "Togolese",
+      "Togolese Republic",
+      "République Togolaise"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "トーゴ共和国",
+        "common": "トーゴ"
+      },
+      "zho": {
+        "official": "多哥共和國",
+        "common": "多哥"
+      }
+    },
+    "latlng": [
+      8.0,
+      1.16666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "area": 56785.0,
+    "demonyms": {
+      "eng": {
+        "f": "Togolese",
+        "m": "Togolese"
+      },
+      "fra": {
+        "f": "Togolaise",
+        "m": "Togolais"
+      }
+    },
+    "flag": "🇹🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192782"
+    },
+    "population": 8278737,
+    "gini": {
+      "2015": 43.1
+    },
+    "fifa": "TOG",
+    "car": {
+      "signs": [
+        "TG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tg.png",
+      "svg": "https://flagcdn.com/tg.svg",
+      "alt": "The flag of Togo is composed of five equal horizontal bands of green alternating with yellow. A red square bearing a five-pointed white star is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.14,
+        1.21
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        },
+        "swa": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        }
+      }
+    },
+    "tld": [
+      ".ke"
+    ],
+    "cca2": "KE",
+    "ccn3": "404",
+    "cca3": "KEN",
+    "cioc": "KEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "54"
+      ]
+    },
+    "capital": [
+      "Nairobi"
+    ],
+    "altSpellings": [
+      "KE",
+      "Republic of Kenya",
+      "Jamhuri ya Kenya"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ケニア共和国",
+        "common": "ケニア"
+      },
+      "zho": {
+        "official": "肯尼亞共和國",
+        "common": "肯尼亞"
+      }
+    },
+    "latlng": [
+      1.0,
+      38.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 580367.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kenyan",
+        "m": "Kenyan"
+      },
+      "fra": {
+        "f": "Kényane",
+        "m": "Kényan"
+      }
+    },
+    "flag": "🇰🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
+    },
+    "population": 53771300,
+    "gini": {
+      "2015": 40.8
+    },
+    "fifa": "KEN",
+    "car": {
+      "signs": [
+        "EAK"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ke.png",
+      "svg": "https://flagcdn.com/ke.svg",
+      "alt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ke.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -1.28,
+        36.82
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Rwanda",
+          "common": "Rwanda"
+        },
+        "fra": {
+          "official": "République rwandaise",
+          "common": "Rwanda"
+        },
+        "kin": {
+          "official": "Repubulika y'u Rwanda",
+          "common": "Rwanda"
+        }
+      }
+    },
+    "tld": [
+      ".rw"
+    ],
+    "cca2": "RW",
+    "ccn3": "646",
+    "cca3": "RWA",
+    "cioc": "RWA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "RWF": {
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "50"
+      ]
+    },
+    "capital": [
+      "Kigali"
+    ],
+    "altSpellings": [
+      "RW",
+      "Republic of Rwanda",
+      "Repubulika y'u Rwanda",
+      "République du Rwanda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ルワンダ共和国",
+        "common": "ルワンダ"
+      },
+      "zho": {
+        "official": "盧旺達共和國",
+        "common": "盧旺達"
+      }
+    },
+    "latlng": [
+      -2.0,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 26338.0,
+    "demonyms": {
+      "eng": {
+        "f": "Rwandan",
+        "m": "Rwandan"
+      },
+      "fra": {
+        "f": "Rwandaise",
+        "m": "Rwandais"
+      }
+    },
+    "flag": "🇷🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
+    },
+    "population": 12952209,
+    "gini": {
+      "2016": 43.7
+    },
+    "fifa": "RWA",
+    "car": {
+      "signs": [
+        "RWA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/rw.png",
+      "svg": "https://flagcdn.com/rw.svg",
+      "alt": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/rw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -1.95,
+        30.05
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia",
+      "nativeName": {
+        "afr": {
+          "official": "Republiek van Namibië",
+          "common": "Namibië"
+        },
+        "deu": {
+          "official": "Republik Namibia",
+          "common": "Namibia"
+        },
+        "eng": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "her": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "hgm": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "kwn": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "loz": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "ndo": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "tsn": {
+          "official": "Lefatshe la Namibia",
+          "common": "Namibia"
+        }
+      }
+    },
+    "tld": [
+      ".na"
+    ],
+    "cca2": "NA",
+    "ccn3": "516",
+    "cca3": "NAM",
+    "cioc": "NAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NAD": {
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "64"
+      ]
+    },
+    "capital": [
+      "Windhoek"
+    ],
+    "altSpellings": [
+      "NA",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ナミビア共和国",
+        "common": "ナミビア"
+      },
+      "zho": {
+        "official": "納米比亞共和國",
+        "common": "納米比亞"
+      }
+    },
+    "latlng": [
+      -22.0,
+      17.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 825615.0,
+    "demonyms": {
+      "eng": {
+        "f": "Namibian",
+        "m": "Namibian"
+      },
+      "fra": {
+        "f": "Namibienne",
+        "m": "Namibien"
+      }
+    },
+    "flag": "🇳🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+    },
+    "population": 2540916,
+    "gini": {
+      "2015": 59.1
+    },
+    "fifa": "NAM",
+    "car": {
+      "signs": [
+        "NAM"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/na.png",
+      "svg": "https://flagcdn.com/na.svg",
+      "alt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/na.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/na.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -22.57,
+        17.08
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Liberia",
+          "common": "Liberia"
+        }
+      }
+    },
+    "tld": [
+      ".lr"
+    ],
+    "cca2": "LR",
+    "ccn3": "430",
+    "cca3": "LBR",
+    "cioc": "LBR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LRD": {
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "31"
+      ]
+    },
+    "capital": [
+      "Monrovia"
+    ],
+    "altSpellings": [
+      "LR",
+      "Republic of Liberia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "リベリア共和国",
+        "common": "リベリア"
+      },
+      "zho": {
+        "official": "利比里亞共和國",
+        "common": "利比里亞"
+      }
+    },
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "area": 111369.0,
+    "demonyms": {
+      "eng": {
+        "f": "Liberian",
+        "m": "Liberian"
+      },
+      "fra": {
+        "f": "Libérienne",
+        "m": "Libérien"
+      }
+    },
+    "flag": "🇱🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
+    },
+    "population": 5057677,
+    "gini": {
+      "2016": 35.3
+    },
+    "fifa": "LBR",
+    "car": {
+      "signs": [
+        "LB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lr.png",
+      "svg": "https://flagcdn.com/lr.svg",
+      "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.3,
+        -10.8
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Zambia",
+          "common": "Zambia"
+        }
+      }
+    },
+    "tld": [
+      ".zm"
+    ],
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "cioc": "ZAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ZMW": {
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "60"
+      ]
+    },
+    "capital": [
+      "Lusaka"
+    ],
+    "altSpellings": [
+      "ZM",
+      "Republic of Zambia"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ザンビア共和国",
+        "common": "ザンビア"
+      },
+      "zho": {
+        "official": "贊比亞共和國",
+        "common": "贊比亞"
+      }
+    },
+    "latlng": [
+      -15.0,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "area": 752612.0,
+    "demonyms": {
+      "eng": {
+        "f": "Zambian",
+        "m": "Zambian"
+      },
+      "fra": {
+        "f": "Zambienne",
+        "m": "Zambien"
+      }
+    },
+    "flag": "🇿🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195271"
+    },
+    "population": 18383956,
+    "gini": {
+      "2015": 57.1
+    },
+    "fifa": "ZAM",
+    "car": {
+      "signs": [
+        "RNR"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/zm.png",
+      "svg": "https://flagcdn.com/zm.svg",
+      "alt": "The flag of Zambia has a green field, on the fly side of which is a soaring orange African fish eagle above a rectangular area divided into three equal vertical bands of red, black and orange."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/zm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -15.42,
+        28.28
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "nativeName": {
+        "fra": {
+          "official": "République du Niger",
+          "common": "Niger"
+        }
+      }
+    },
+    "tld": [
+      ".ne"
+    ],
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "cioc": "NIG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "27"
+      ]
+    },
+    "capital": [
+      "Niamey"
+    ],
+    "altSpellings": [
+      "NE",
+      "Nijar"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ニジェール共和国",
+        "common": "ニジェール"
+      },
+      "zho": {
+        "official": "尼日爾共和國",
+        "common": "尼日爾"
+      }
+    },
+    "latlng": [
+      16.0,
+      8.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nigerien",
+        "m": "Nigerien"
+      },
+      "fra": {
+        "f": "Nigérienne",
+        "m": "Nigérien"
+      }
+    },
+    "flag": "🇳🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+    },
+    "population": 24206636,
+    "gini": {
+      "2014": 34.3
+    },
+    "fifa": "NIG",
+    "car": {
+      "signs": [
+        "RN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ne.png",
+      "svg": "https://flagcdn.com/ne.svg",
+      "alt": "The flag of Niger features three equal horizontal bands of orange, white and green, with an orange circle centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.52,
+        2.12
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros",
+      "nativeName": {
+        "ara": {
+          "official": "الاتحاد القمري",
+          "common": "القمر‎"
+        },
+        "fra": {
+          "official": "Union des Comores",
+          "common": "Comores"
+        },
+        "zdj": {
+          "official": "Udzima wa Komori",
+          "common": "Komori"
+        }
+      }
+    },
+    "tld": [
+      ".km"
+    ],
+    "cca2": "KM",
+    "ccn3": "174",
+    "cca3": "COM",
+    "cioc": "COM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KMF": {
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "69"
+      ]
+    },
+    "capital": [
+      "Moroni"
+    ],
+    "altSpellings": [
+      "KM",
+      "Union of the Comoros",
+      "Union des Comores",
+      "Udzima wa Komori",
+      "al-Ittiḥād al-Qumurī"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コモロ連合",
+        "common": "コモロ"
+      },
+      "zho": {
+        "official": "科摩羅聯盟",
+        "common": "科摩羅"
+      }
+    },
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "landlocked": false,
+    "area": 1862.0,
+    "demonyms": {
+      "eng": {
+        "f": "Comoran",
+        "m": "Comoran"
+      },
+      "fra": {
+        "f": "Comorienne",
+        "m": "Comorien"
+      }
+    },
+    "flag": "🇰🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
+    },
+    "population": 869595,
+    "gini": {
+      "2014": 45.3
+    },
+    "fifa": "COM",
+    "car": {
+      "signs": [
+        "COM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/km.png",
+      "svg": "https://flagcdn.com/km.svg",
+      "alt": "The flag of Comoros is composed of four equal horizontal bands of yellow, white, red and blue, with a green isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a fly-side facing white crescent and four five-pointed white stars arranged in a vertical line along the opening of the crescent."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/km.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/km.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -11.7,
+        43.23
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
+      "nativeName": {
+        "por": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
+        },
+        "pov": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
+        }
+      }
+    },
+    "tld": [
+      ".gw"
+    ],
+    "cca2": "GW",
+    "ccn3": "624",
+    "cca3": "GNB",
+    "cioc": "GBS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "45"
+      ]
+    },
+    "capital": [
+      "Bissau"
+    ],
+    "altSpellings": [
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ギニアビサウ共和国",
+        "common": "ギニアビサウ"
+      },
+      "zho": {
+        "official": "幾內亞比紹共和國",
+        "common": "幾內亞比紹"
+      }
+    },
+    "latlng": [
+      12.0,
+      -15.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "area": 36125.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guinea-Bissauan",
+        "m": "Guinea-Bissauan"
+      },
+      "fra": {
+        "f": "Bissau-Guinéenne",
+        "m": "Bissau-Guinéen"
+      }
+    },
+    "flag": "🇬🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192776"
+    },
+    "population": 1967998,
+    "gini": {
+      "2010": 50.7
+    },
+    "fifa": "GNB",
+    "car": {
+      "signs": [
+        "RGB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gw.png",
+      "svg": "https://flagcdn.com/gw.svg",
+      "alt": "The flag of Guinea-Bissau features a red vertical band on its hoist side that takes up about two-fifth the width of the field, and two equal horizontal bands of yellow and green adjoining the vertical band. A five-pointed black star is centered in the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        11.85,
+        -15.58
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ghana",
+          "common": "Ghana"
+        }
+      }
+    },
+    "tld": [
+      ".gh"
+    ],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "33"
+      ]
+    },
+    "capital": [
+      "Accra"
+    ],
+    "altSpellings": [
+      "GH"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ガーナ共和国",
+        "common": "ガーナ"
+      },
+      "zho": {
+        "official": "加納共和國",
+        "common": "加納"
+      }
+    },
+    "latlng": [
+      8.0,
+      -2.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "area": 238533.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ghanaian",
+        "m": "Ghanaian"
+      },
+      "fra": {
+        "f": "Ghanéenne",
+        "m": "Ghanéen"
+      }
+    },
+    "flag": "🇬🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+    },
+    "population": 31072945,
+    "gini": {
+      "2016": 43.5
+    },
+    "fifa": "GHA",
+    "car": {
+      "signs": [
+        "GH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gh.png",
+      "svg": "https://flagcdn.com/gh.svg",
+      "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        5.55,
+        -0.22
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية تشاد",
+          "common": "تشاد‎"
+        },
+        "fra": {
+          "official": "République du Tchad",
+          "common": "Tchad"
+        }
+      }
+    },
+    "tld": [
+      ".td"
+    ],
+    "cca2": "TD",
+    "ccn3": "148",
+    "cca3": "TCD",
+    "cioc": "CHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "35"
+      ]
+    },
+    "capital": [
+      "N'Djamena"
+    ],
+    "altSpellings": [
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "チャド共和国",
+        "common": "チャド"
+      },
+      "zho": {
+        "official": "乍得共和國",
+        "common": "乍得"
+      }
+    },
+    "latlng": [
+      15.0,
+      19.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "area": 1284000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chadian",
+        "m": "Chadian"
+      },
+      "fra": {
+        "f": "Tchadienne",
+        "m": "Tchadien"
+      }
+    },
+    "flag": "🇹🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
+    },
+    "population": 16425859,
+    "gini": {
+      "2011": 43.3
+    },
+    "fifa": "CHA",
+    "car": {
+      "signs": [
+        "TCH",
+        "TD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/td.png",
+      "svg": "https://flagcdn.com/td.svg",
+      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/td.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.1,
+        15.03
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe",
+      "nativeName": {
+        "bwg": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "eng": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "kck": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "khi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ndc": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nde": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nya": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sna": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sot": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "toi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tsn": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tso": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ven": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "xho": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "zib": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        }
+      }
+    },
+    "tld": [
+      ".zw"
+    ],
+    "cca2": "ZW",
+    "ccn3": "716",
+    "cca3": "ZWE",
+    "cioc": "ZIM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ZWL": {
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "63"
+      ]
+    },
+    "capital": [
+      "Harare"
+    ],
+    "altSpellings": [
+      "ZW",
+      "Republic of Zimbabwe"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ジンバブエ共和国",
+        "common": "ジンバブエ"
+      },
+      "zho": {
+        "official": "津巴布韋共和國",
+        "common": "津巴布韋"
+      }
+    },
+    "latlng": [
+      -20.0,
+      30.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 390757.0,
+    "demonyms": {
+      "eng": {
+        "f": "Zimbabwean",
+        "m": "Zimbabwean"
+      },
+      "fra": {
+        "f": "Zimbabwéenne",
+        "m": "Zimbabwéen"
+      }
+    },
+    "flag": "🇿🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+    },
+    "population": 14862927,
+    "gini": {
+      "2019": 50.3
+    },
+    "fifa": "ZIM",
+    "car": {
+      "signs": [
+        "ZW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/zw.png",
+      "svg": "https://flagcdn.com/zw.svg",
+      "alt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe bird superimposed on a five-pointed red star is centered in the triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/zw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -17.82,
+        31.03
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island",
+      "nativeName": {
+        "fra": {
+          "official": "Ile de la Réunion",
+          "common": "La Réunion"
+        }
+      }
+    },
+    "tld": [
+      ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "capital": [
+      "Saint-Denis"
+    ],
+    "altSpellings": [
+      "RE",
+      "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "レユニオン島",
+        "common": "レユニオン"
+      },
+      "zho": {
+        "official": "留尼旺島",
+        "common": "留尼旺島"
+      }
+    },
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "landlocked": false,
+    "area": 2511.0,
+    "demonyms": {
+      "eng": {
+        "f": "Réunionese",
+        "m": "Réunionese"
+      },
+      "fra": {
+        "f": "Réunionnaise",
+        "m": "Réunionnais"
+      }
+    },
+    "flag": "🇷🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+    },
+    "population": 840974,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/re.png",
+      "svg": "https://flagcdn.com/re.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -20.88,
+        55.45
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)(4|7|8)\\d{2})$"
+    }
+  },
+  {
+    "name": {
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe",
+      "nativeName": {
+        "por": {
+          "official": "República Democrática do São Tomé e Príncipe",
+          "common": "São Tomé e Príncipe"
+        }
+      }
+    },
+    "tld": [
+      ".st"
+    ],
+    "cca2": "ST",
+    "ccn3": "678",
+    "cca3": "STP",
+    "cioc": "STP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "STN": {
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "39"
+      ]
+    },
+    "capital": [
+      "São Tomé"
+    ],
+    "altSpellings": [
+      "ST",
+      "Democratic Republic of São Tomé and Príncipe",
+      "Sao Tome and Principe",
+      "República Democrática de São Tomé e Príncipe"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サントメ·プリンシペ民主共和国",
+        "common": "サントメ・プリンシペ"
+      },
+      "zho": {
+        "official": "聖多美和普林西比民主共和國",
+        "common": "聖多美和普林西比"
+      }
+    },
+    "latlng": [
+      1.0,
+      7.0
+    ],
+    "landlocked": false,
+    "area": 964.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sao Tomean",
+        "m": "Sao Tomean"
+      },
+      "fra": {
+        "f": "Santoméenne",
+        "m": "Santoméen"
+      }
+    },
+    "flag": "🇸🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535880"
+    },
+    "population": 219161,
+    "gini": {
+      "2017": 56.3
+    },
+    "fifa": "STP",
+    "car": {
+      "signs": [
+        "STP"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/st.png",
+      "svg": "https://flagcdn.com/st.svg",
+      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/st.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/st.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        0.34,
+        6.73
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "tld": [
+      ".mw"
+    ],
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "cioc": "MAW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "65"
+      ]
+    },
+    "capital": [
+      "Lilongwe"
+    ],
+    "altSpellings": [
+      "MW",
+      "Republic of Malawi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マラウイ共和国",
+        "common": "マラウイ"
+      },
+      "zho": {
+        "official": "馬拉維共和國",
+        "common": "馬拉維"
+      }
+    },
+    "latlng": [
+      -13.5,
+      34.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malawian",
+        "m": "Malawian"
+      },
+      "fra": {
+        "f": "Malawienne",
+        "m": "Malawien"
+      }
+    },
+    "flag": "🇲🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+    },
+    "population": 19129955,
+    "gini": {
+      "2016": 44.7
+    },
+    "fifa": "MWI",
+    "car": {
+      "signs": [
+        "MW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mw.png",
+      "svg": "https://flagcdn.com/mw.svg",
+      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -13.97,
+        33.78
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia",
+      "nativeName": {
+        "amh": {
+          "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+          "common": "ኢትዮጵያ"
+        }
+      }
+    },
+    "tld": [
+      ".et"
+    ],
+    "cca2": "ET",
+    "ccn3": "231",
+    "cca3": "ETH",
+    "cioc": "ETH",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ETB": {
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "51"
+      ]
+    },
+    "capital": [
+      "Addis Ababa"
+    ],
+    "altSpellings": [
+      "ET",
+      "ʾĪtyōṗṗyā",
+      "Federal Democratic Republic of Ethiopia",
+      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "amh": "Amharic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エチオピア連邦民主共和国",
+        "common": "エチオピア"
+      },
+      "zho": {
+        "official": "埃塞俄比亞聯邦民主共和國",
+        "common": "埃塞俄比亞"
+      }
+    },
+    "latlng": [
+      8.0,
+      38.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "area": 1104300.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ethiopian",
+        "m": "Ethiopian"
+      },
+      "fra": {
+        "f": "Éthiopienne",
+        "m": "Éthiopien"
+      }
+    },
+    "flag": "🇪🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192800"
+    },
+    "population": 114963583,
+    "gini": {
+      "2015": 35.0
+    },
+    "fifa": "ETH",
+    "car": {
+      "signs": [
+        "ETH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/et.png",
+      "svg": "https://flagcdn.com/et.svg",
+      "alt": "The flag of Ethiopia is composed of three equal horizontal bands of green, yellow and red, with the national emblem superimposed at the center of the field. The national emblem comprises a light blue circle bearing a golden-yellow pentagram with single yellow rays emanating from the angles between the points of the pentagram."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/et.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/et.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.03,
+        38.7
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo",
+      "nativeName": {
+        "fra": {
+          "official": "République du Congo",
+          "common": "République du Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo",
+          "common": "Repubilika ya Kongo"
+        },
+        "lin": {
+          "official": "Republíki ya Kongó",
+          "common": "Republíki ya Kongó"
+        }
+      }
+    },
+    "tld": [
+      ".cg"
+    ],
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "cioc": "CGO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "42"
+      ]
+    },
+    "capital": [
+      "Brazzaville"
+    ],
+    "altSpellings": [
+      "CG",
+      "Congo",
+      "Congo-Brazzaville"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コンゴ共和国",
+        "common": "コンゴ共和国"
+      },
+      "zho": {
+        "official": "剛果共和國",
+        "common": "剛果"
+      }
+    },
+    "latlng": [
+      -1.0,
+      15.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "area": 342000.0,
+    "demonyms": {
+      "eng": {
+        "f": "Congolese",
+        "m": "Congolese"
+      },
+      "fra": {
+        "f": "Congolaise",
+        "m": "Congolais"
+      }
+    },
+    "flag": "🇨🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+    },
+    "population": 5657000,
+    "gini": {
+      "2011": 48.9
+    },
+    "fifa": "CGO",
+    "car": {
+      "signs": [
+        "RCB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cg.png",
+      "svg": "https://flagcdn.com/cg.svg",
+      "alt": "The flag of the Republic of the Congo features a yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -4.25,
+        15.28
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية جيبوتي",
+          "common": "جيبوتي‎"
+        },
+        "fra": {
+          "official": "République de Djibouti",
+          "common": "Djibouti"
+        }
+      }
+    },
+    "tld": [
+      ".dj"
+    ],
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "cioc": "DJI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DJF": {
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "53"
+      ]
+    },
+    "capital": [
+      "Djibouti"
+    ],
+    "altSpellings": [
+      "DJ",
+      "Jabuuti",
+      "Gabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti",
+      "Gabuutih Ummuuno",
+      "Jamhuuriyadda Jabuuti"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ジブチ共和国",
+        "common": "ジブチ"
+      },
+      "zho": {
+        "official": "吉布提共和國",
+        "common": "吉布提"
+      }
+    },
+    "latlng": [
+      11.5,
+      43.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "area": 23200.0,
+    "demonyms": {
+      "eng": {
+        "f": "Djibouti",
+        "m": "Djibouti"
+      },
+      "fra": {
+        "f": "Djiboutienne",
+        "m": "Djiboutien"
+      }
+    },
+    "flag": "🇩🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+    },
+    "population": 988002,
+    "gini": {
+      "2017": 41.6
+    },
+    "fifa": "DJI",
+    "car": {
+      "signs": [
+        "DJI"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dj.png",
+      "svg": "https://flagcdn.com/dj.svg",
+      "alt": "The flag of Djibouti is composed of two equal horizontal bands of light blue and light green, with a white isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a red five-pointed star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        11.58,
+        43.15
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Mauritius",
+          "common": "Mauritius"
+        },
+        "fra": {
+          "official": "République de Maurice",
+          "common": "Maurice"
+        },
+        "mfe": {
+          "official": "Republik Moris",
+          "common": "Moris"
+        }
+      }
+    },
+    "tld": [
+      ".mu"
+    ],
+    "cca2": "MU",
+    "ccn3": "480",
+    "cca3": "MUS",
+    "cioc": "MRI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MUR": {
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "30"
+      ]
+    },
+    "capital": [
+      "Port Louis"
+    ],
+    "altSpellings": [
+      "MU",
+      "Republic of Mauritius",
+      "République de Maurice"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モーリシャス共和国",
+        "common": "モーリシャス"
+      },
+      "zho": {
+        "official": "毛里求斯共和國",
+        "common": "毛里求斯"
+      }
+    },
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "landlocked": false,
+    "area": 2040.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mauritian",
+        "m": "Mauritian"
+      },
+      "fra": {
+        "f": "Mauricienne",
+        "m": "Mauricien"
+      }
+    },
+    "flag": "🇲🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/535828"
+    },
+    "population": 1265740,
+    "gini": {
+      "2017": 36.8
+    },
+    "fifa": "MRI",
+    "car": {
+      "signs": [
+        "MS"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mu.png",
+      "svg": "https://flagcdn.com/mu.svg",
+      "alt": "The flag of Mauritius is composed of four equal horizontal bands of red, blue, yellow and green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -20.15,
+        57.48
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique",
+      "nativeName": {
+        "por": {
+          "official": "República de Moçambique",
+          "common": "Moçambique"
+        }
+      }
+    },
+    "tld": [
+      ".mz"
+    ],
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "cioc": "MOZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MZN": {
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "58"
+      ]
+    },
+    "capital": [
+      "Maputo"
+    ],
+    "altSpellings": [
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モザンビーク共和国",
+        "common": "モザンビーク"
+      },
+      "zho": {
+        "official": "莫桑比克共和國",
+        "common": "莫桑比克"
+      }
+    },
+    "latlng": [
+      -18.25,
+      35.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 801590.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mozambican",
+        "m": "Mozambican"
+      },
+      "fra": {
+        "f": "Mozambicaine",
+        "m": "Mozambicain"
+      }
+    },
+    "flag": "🇲🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195273"
+    },
+    "population": 31255435,
+    "gini": {
+      "2014": 54.0
+    },
+    "fifa": "MOZ",
+    "car": {
+      "signs": [
+        "MOC"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mz.png",
+      "svg": "https://flagcdn.com/mz.svg",
+      "alt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -25.95,
+        32.58
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  }
+]

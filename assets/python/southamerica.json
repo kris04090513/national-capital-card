@@ -1,0 +1,1707 @@
+[
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "tld": [
+      ".co"
+    ],
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "cioc": "COL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "7"
+      ]
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コロンビア共和国",
+        "common": "コロンビア"
+      },
+      "zho": {
+        "official": "哥倫比亞共和國",
+        "common": "哥倫比亞"
+      }
+    },
+    "latlng": [
+      4,
+      -72
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748,
+    "demonyms": {
+      "eng": {
+        "f": "Colombian",
+        "m": "Colombian"
+      },
+      "fra": {
+        "f": "Colombienne",
+        "m": "Colombien"
+      }
+    },
+    "flag": "🇨🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    },
+    "population": 50882884,
+    "gini": {
+      "2019": 51.3
+    },
+    "fifa": "COL",
+    "car": {
+      "signs": [
+        "CO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.71,
+        -74.07
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana",
+      "nativeName": {
+        "fra": {
+          "official": "Guyane",
+          "common": "Guyane française"
+        }
+      }
+    },
+    "tld": [
+      ".gf"
+    ],
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "94"
+      ]
+    },
+    "capital": [
+      "Cayenne"
+    ],
+    "altSpellings": [
+      "GF",
+      "Guiana",
+      "Guyane"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ギアナ",
+        "common": "フランス領ギアナ"
+      },
+      "zho": {
+        "official": "法屬圭亞那",
+        "common": "法屬圭亞那"
+      }
+    },
+    "latlng": [
+      4,
+      -53
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "area": 83534,
+    "demonyms": {
+      "eng": {
+        "f": "Guianan",
+        "m": "Guianan"
+      },
+      "fra": {
+        "f": "Guyanaise",
+        "m": "Guyanais"
+      }
+    },
+    "flag": "🇬🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
+    },
+    "population": 254541,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gf.png",
+      "svg": "https://flagcdn.com/gf.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gf.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.94,
+        -52.33
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)3\\d{2})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "tld": [
+      ".ar"
+    ],
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "cioc": "ARG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "altSpellings": [
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アルゼンチン共和国",
+        "common": "アルゼンチン"
+      },
+      "zho": {
+        "official": "阿根廷共和國",
+        "common": "阿根廷"
+      }
+    },
+    "latlng": [
+      -34,
+      -64
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400,
+    "demonyms": {
+      "eng": {
+        "f": "Argentine",
+        "m": "Argentine"
+      },
+      "fra": {
+        "f": "Argentine",
+        "m": "Argentin"
+      }
+    },
+    "flag": "🇦🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+    },
+    "population": 45376763,
+    "gini": {
+      "2019": 42.9
+    },
+    "fifa": "ARG",
+    "car": {
+      "signs": [
+        "RA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -34.58,
+        -58.67
+      ]
+    },
+    "postalCode": {
+      "format": "@####@@@",
+      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Falkland Islands",
+          "common": "Falkland Islands"
+        }
+      }
+    },
+    "tld": [
+      ".fk"
+    ],
+    "cca2": "FK",
+    "ccn3": "238",
+    "cca3": "FLK",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "FKP": {
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "00"
+      ]
+    },
+    "capital": [
+      "Stanley"
+    ],
+    "altSpellings": [
+      "FK",
+      "Islas Malvinas",
+      "Falkland Islands (Malvinas)"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "フォークランド",
+        "common": "フォークランド（マルビナス）諸島"
+      },
+      "zho": {
+        "official": "福克蘭羣島",
+        "common": "福克蘭羣島"
+      }
+    },
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "landlocked": false,
+    "area": 12173,
+    "demonyms": {
+      "eng": {
+        "f": "Falkland Islander",
+        "m": "Falkland Islander"
+      },
+      "fra": {
+        "f": "Malouinne",
+        "m": "Malouin"
+      }
+    },
+    "flag": "🇫🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+    },
+    "population": 2563,
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fk.png",
+      "svg": "https://flagcdn.com/fk.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -51.7,
+        -57.85
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "nativeName": {
+        "aym": {
+          "official": "Wuliwya Suyu",
+          "common": "Wuliwya"
+        },
+        "grn": {
+          "official": "Tetã Volívia",
+          "common": "Volívia"
+        },
+        "que": {
+          "official": "Buliwya Mamallaqta",
+          "common": "Buliwya"
+        },
+        "spa": {
+          "official": "Estado Plurinacional de Bolivia",
+          "common": "Bolivia"
+        }
+      }
+    },
+    "tld": [
+      ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "capital": [
+      "Sucre"
+    ],
+    "altSpellings": [
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ボリビアの多民族国",
+        "common": "ボリビア多民族国"
+      },
+      "zho": {
+        "official": "多民族玻利維亞國",
+        "common": "玻利維亞"
+      }
+    },
+    "latlng": [
+      -17,
+      -65
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581,
+    "demonyms": {
+      "eng": {
+        "f": "Bolivian",
+        "m": "Bolivian"
+      },
+      "fra": {
+        "f": "Bolivienne",
+        "m": "Bolivien"
+      }
+    },
+    "flag": "🇧🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+    },
+    "population": 11673029,
+    "gini": {
+      "2019": 41.6
+    },
+    "fifa": "BOL",
+    "car": {
+      "signs": [
+        "BOL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bo.png",
+      "svg": "https://flagcdn.com/bo.svg",
+      "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -19.02,
+        -65.26
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "nativeName": {
+        "spa": {
+          "official": "República de Chile",
+          "common": "Chile"
+        }
+      }
+    },
+    "tld": [
+      ".cl"
+    ],
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "cioc": "CHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "altSpellings": [
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "チリ共和国",
+        "common": "チリ"
+      },
+      "zho": {
+        "official": "智利共和國",
+        "common": "智利"
+      }
+    },
+    "latlng": [
+      -30,
+      -71
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102,
+    "demonyms": {
+      "eng": {
+        "f": "Chilean",
+        "m": "Chilean"
+      },
+      "fra": {
+        "f": "Chilienne",
+        "m": "Chilien"
+      }
+    },
+    "flag": "🇨🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+    },
+    "population": 19116209,
+    "gini": {
+      "2017": 44.4
+    },
+    "fifa": "CHI",
+    "car": {
+      "signs": [
+        "RCH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg",
+      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -33.45,
+        -70.67
+      ]
+    },
+    "postalCode": {
+      "format": "#######",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "nativeName": {
+        "spa": {
+          "official": "República del Ecuador",
+          "common": "Ecuador"
+        }
+      }
+    },
+    "tld": [
+      ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "93"
+      ]
+    },
+    "capital": [
+      "Quito"
+    ],
+    "altSpellings": [
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エクアドル共和国",
+        "common": "エクアドル"
+      },
+      "zho": {
+        "official": "厄瓜多爾共和國",
+        "common": "厄瓜多爾"
+      }
+    },
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "area": 276841,
+    "demonyms": {
+      "eng": {
+        "f": "Ecuadorean",
+        "m": "Ecuadorean"
+      },
+      "fra": {
+        "f": "Équatorienne",
+        "m": "Équatorien"
+      }
+    },
+    "flag": "🇪🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+    },
+    "population": 17643060,
+    "gini": {
+      "2019": 45.7
+    },
+    "fifa": "ECU",
+    "car": {
+      "signs": [
+        "EC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ec.png",
+      "svg": "https://flagcdn.com/ec.svg",
+      "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -0.22,
+        -78.5
+      ]
+    },
+    "postalCode": {
+      "format": "@####@",
+      "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+    }
+  },
+  {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname",
+      "nativeName": {
+        "nld": {
+          "official": "Republiek Suriname",
+          "common": "Suriname"
+        }
+      }
+    },
+    "tld": [
+      ".sr"
+    ],
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "cioc": "SUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SRD": {
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "97"
+      ]
+    },
+    "capital": [
+      "Paramaribo"
+    ],
+    "altSpellings": [
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "translations": {
+      "jpn": {
+        "official": "スリナム共和国",
+        "common": "スリナム"
+      },
+      "zho": {
+        "official": "蘇里南共和國",
+        "common": "蘇里南"
+      }
+    },
+    "latlng": [
+      4,
+      -56
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "area": 163820,
+    "demonyms": {
+      "eng": {
+        "f": "Surinamer",
+        "m": "Surinamer"
+      },
+      "fra": {
+        "f": "Surinamaise",
+        "m": "Surinamais"
+      }
+    },
+    "flag": "🇸🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+    },
+    "population": 586634,
+    "gini": {
+      "1999": 57.9
+    },
+    "fifa": "SUR",
+    "car": {
+      "signs": [
+        "SME"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sr.png",
+      "svg": "https://flagcdn.com/sr.svg",
+      "alt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        5.83,
+        -55.17
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "nativeName": {
+        "grn": {
+          "official": "Tetã Paraguái",
+          "common": "Paraguái"
+        },
+        "spa": {
+          "official": "República de Paraguay",
+          "common": "Paraguay"
+        }
+      }
+    },
+    "tld": [
+      ".py"
+    ],
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "cioc": "PAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PYG": {
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "95"
+      ]
+    },
+    "capital": [
+      "Asunción"
+    ],
+    "altSpellings": [
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "パラグアイ共和国",
+        "common": "パラグアイ"
+      },
+      "zho": {
+        "official": "巴拉圭共和國",
+        "common": "巴拉圭"
+      }
+    },
+    "latlng": [
+      -23,
+      -58
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "area": 406752,
+    "demonyms": {
+      "eng": {
+        "f": "Paraguayan",
+        "m": "Paraguayan"
+      },
+      "fra": {
+        "f": "Paraguayenne",
+        "m": "Paraguayen"
+      }
+    },
+    "flag": "🇵🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+    },
+    "population": 7132530,
+    "gini": {
+      "2019": 45.7
+    },
+    "fifa": "PAR",
+    "car": {
+      "signs": [
+        "PY"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/py.png",
+      "svg": "https://flagcdn.com/py.svg",
+      "alt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/py.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -25.28,
+        -57.57
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "nativeName": {
+        "por": {
+          "official": "República Federativa do Brasil",
+          "common": "Brasil"
+        }
+      }
+    },
+    "tld": [
+      ".br"
+    ],
+    "cca2": "BR",
+    "ccn3": "076",
+    "cca3": "BRA",
+    "cioc": "BRA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "capital": [
+      "Brasília"
+    ],
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブラジル連邦共和国",
+        "common": "ブラジル"
+      },
+      "zho": {
+        "official": "巴西聯邦共和國",
+        "common": "巴西"
+      }
+    },
+    "latlng": [
+      -10,
+      -55
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "area": 8515767,
+    "demonyms": {
+      "eng": {
+        "f": "Brazilian",
+        "m": "Brazilian"
+      },
+      "fra": {
+        "f": "Brésilienne",
+        "m": "Brésilien"
+      }
+    },
+    "flag": "🇧🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+    },
+    "population": 212559409,
+    "gini": {
+      "2019": 53.4
+    },
+    "fifa": "BRA",
+    "car": {
+      "signs": [
+        "BR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -15.79,
+        -47.88
+      ]
+    },
+    "postalCode": {
+      "format": "#####-###",
+      "regex": "^(\\d{8})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela",
+      "nativeName": {
+        "spa": {
+          "official": "República Bolivariana de Venezuela",
+          "common": "Venezuela"
+        }
+      }
+    },
+    "tld": [
+      ".ve"
+    ],
+    "cca2": "VE",
+    "ccn3": "862",
+    "cca3": "VEN",
+    "cioc": "VEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "VES": {
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "8"
+      ]
+    },
+    "capital": [
+      "Caracas"
+    ],
+    "altSpellings": [
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "Venezuela, Bolivarian Republic of",
+      "República Bolivariana de Venezuela"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ベネズエラ·ボリバル共和国",
+        "common": "ベネズエラ・ボリバル共和国"
+      },
+      "zho": {
+        "official": "委內瑞拉玻利瓦爾共和國",
+        "common": "委內瑞拉"
+      }
+    },
+    "latlng": [
+      8,
+      -66
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "area": 916445,
+    "demonyms": {
+      "eng": {
+        "f": "Venezuelan",
+        "m": "Venezuelan"
+      },
+      "fra": {
+        "f": "Vénézuélienne",
+        "m": "Vénézuélien"
+      }
+    },
+    "flag": "🇻🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+    },
+    "population": 28435943,
+    "gini": {
+      "2006": 44.8
+    },
+    "fifa": "VEN",
+    "car": {
+      "signs": [
+        "YV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ve.png",
+      "svg": "https://flagcdn.com/ve.svg",
+      "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        10.48,
+        -66.87
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "nativeName": {
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
+        }
+      }
+    },
+    "tld": [
+      ".pe"
+    ],
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "cioc": "PER",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "Lima"
+    ],
+    "altSpellings": [
+      "PE",
+      "Republic of Peru",
+      "República del Perú"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ペルー共和国",
+        "common": "ペルー"
+      },
+      "zho": {
+        "official": "祕魯共和國",
+        "common": "祕魯"
+      }
+    },
+    "latlng": [
+      -10,
+      -76
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216,
+    "demonyms": {
+      "eng": {
+        "f": "Peruvian",
+        "m": "Peruvian"
+      },
+      "fra": {
+        "f": "Péruvienne",
+        "m": "Péruvien"
+      }
+    },
+    "flag": "🇵🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+    },
+    "population": 32971846,
+    "gini": {
+      "2019": 41.5
+    },
+    "fifa": "PER",
+    "car": {
+      "signs": [
+        "PE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -12.05,
+        -77.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana",
+      "nativeName": {
+        "eng": {
+          "official": "Co-operative Republic of Guyana",
+          "common": "Guyana"
+        }
+      }
+    },
+    "tld": [
+      ".gy"
+    ],
+    "cca2": "GY",
+    "ccn3": "328",
+    "cca3": "GUY",
+    "cioc": "GUY",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GYD": {
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "92"
+      ]
+    },
+    "capital": [
+      "Georgetown"
+    ],
+    "altSpellings": [
+      "GY",
+      "Co-operative Republic of Guyana"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ガイアナの協同共和国",
+        "common": "ガイアナ"
+      },
+      "zho": {
+        "official": "圭亞那共和國",
+        "common": "圭亞那"
+      }
+    },
+    "latlng": [
+      5,
+      -59
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "area": 214969,
+    "demonyms": {
+      "eng": {
+        "f": "Guyanese",
+        "m": "Guyanese"
+      },
+      "fra": {
+        "f": "Guyanienne",
+        "m": "Guyanien"
+      }
+    },
+    "flag": "🇬🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+    },
+    "population": 786559,
+    "gini": {
+      "1998": 45.1
+    },
+    "fifa": "GUY",
+    "car": {
+      "signs": [
+        "GUY"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gy.png",
+      "svg": "https://flagcdn.com/gy.svg",
+      "alt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.8,
+        -58.15
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "nativeName": {
+        "spa": {
+          "official": "República Oriental del Uruguay",
+          "common": "Uruguay"
+        }
+      }
+    },
+    "tld": [
+      ".uy"
+    ],
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "cioc": "URU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UYU": {
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "98"
+      ]
+    },
+    "capital": [
+      "Montevideo"
+    ],
+    "altSpellings": [
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ウルグアイ東方共和国",
+        "common": "ウルグアイ"
+      },
+      "zho": {
+        "official": "烏拉圭東岸共和國",
+        "common": "烏拉圭"
+      }
+    },
+    "latlng": [
+      -33,
+      -56
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "area": 181034,
+    "demonyms": {
+      "eng": {
+        "f": "Uruguayan",
+        "m": "Uruguayan"
+      },
+      "fra": {
+        "f": "Uruguayenne",
+        "m": "Uruguayen"
+      }
+    },
+    "flag": "🇺🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+    },
+    "population": 3473727,
+    "gini": {
+      "2019": 39.7
+    },
+    "fifa": "URU",
+    "car": {
+      "signs": [
+        "ROU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/uy.png",
+      "svg": "https://flagcdn.com/uy.svg",
+      "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/uy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -34.85,
+        -56.17
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  }
+]

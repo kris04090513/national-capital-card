@@ -1,0 +1,6106 @@
+[
+  {
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea",
+      "nativeName": {
+        "kor": {
+          "official": "대한민국",
+          "common": "한국"
+        }
+      }
+    },
+    "tld": [
+      ".kr",
+      ".한국"
+    ],
+    "cca2": "KR",
+    "ccn3": "410",
+    "cca3": "KOR",
+    "cioc": "KOR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KRW": {
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Seoul"
+    ],
+    "altSpellings": [
+      "KR",
+      "Korea, Republic of",
+      "Republic of Korea",
+      "남한",
+      "남조선"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "kor": "Korean"
+    },
+    "translations": {
+      "jpn": {
+        "official": "大韓民国",
+        "common": "韓国"
+      },
+      "zho": {
+        "official": "大韓民國",
+        "common": "韓國"
+      }
+    },
+    "latlng": [
+      37.0,
+      127.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "PRK"
+    ],
+    "area": 100210.0,
+    "demonyms": {
+      "eng": {
+        "f": "South Korean",
+        "m": "South Korean"
+      },
+      "fra": {
+        "f": "Sud-coréenne",
+        "m": "Sud-coréen"
+      }
+    },
+    "flag": "🇰🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+    },
+    "population": 51780579,
+    "gini": {
+      "2016": 31.4
+    },
+    "fifa": "KOR",
+    "car": {
+      "signs": [
+        "ROK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kr.png",
+      "svg": "https://flagcdn.com/kr.svg",
+      "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        37.55,
+        126.98
+      ]
+    },
+    "postalCode": {
+      "format": "SEOUL ###-###",
+      "regex": "^(?:SEOUL)*(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)",
+      "nativeName": {
+        "zho": {
+          "official": "中華民國",
+          "common": "台灣"
+        }
+      }
+    },
+    "tld": [
+      ".tw",
+      ".台灣",
+      ".台湾"
+    ],
+    "cca2": "TW",
+    "ccn3": "158",
+    "cca3": "TWN",
+    "cioc": "TPE",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "TWD": {
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "86"
+      ]
+    },
+    "capital": [
+      "Taipei"
+    ],
+    "altSpellings": [
+      "TW",
+      "Táiwān",
+      "Republic of China",
+      "中華民國",
+      "Zhōnghuá Mínguó",
+      "Chinese Taipei"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "zho": "Chinese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "中華民国",
+        "common": "台湾"
+      },
+      "zho": {
+        "official": "中華民國",
+        "common": "台灣"
+      }
+    },
+    "latlng": [
+      23.5,
+      121.0
+    ],
+    "landlocked": false,
+    "area": 36193.0,
+    "demonyms": {
+      "eng": {
+        "f": "Taiwanese",
+        "m": "Taiwanese"
+      },
+      "fra": {
+        "f": "Taïwanaise",
+        "m": "Taïwanais"
+      }
+    },
+    "flag": "🇹🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
+    },
+    "population": 23503349,
+    "fifa": "TPE",
+    "car": {
+      "signs": [
+        "RC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tw.png",
+      "svg": "https://flagcdn.com/tw.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        25.03,
+        121.52
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة الأردنية الهاشمية",
+          "common": "الأردن"
+        }
+      }
+    },
+    "tld": [
+      ".jo",
+      "الاردن."
+    ],
+    "cca2": "JO",
+    "ccn3": "400",
+    "cca3": "JOR",
+    "cioc": "JOR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "JOD": {
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "capital": [
+      "Amman"
+    ],
+    "altSpellings": [
+      "JO",
+      "Hashemite Kingdom of Jordan",
+      "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ヨルダン·ハシミテ王国",
+        "common": "ヨルダン"
+      },
+      "zho": {
+        "official": "約旦哈希姆王國",
+        "common": "約旦"
+      }
+    },
+    "latlng": [
+      31.0,
+      36.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "area": 89342.0,
+    "demonyms": {
+      "eng": {
+        "f": "Jordanian",
+        "m": "Jordanian"
+      },
+      "fra": {
+        "f": "Jordanienne",
+        "m": "Jordanien"
+      }
+    },
+    "flag": "🇯🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184818"
+    },
+    "population": 10203140,
+    "gini": {
+      "2010": 33.7
+    },
+    "fifa": "JOR",
+    "car": {
+      "signs": [
+        "HKJ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/jo.png",
+      "svg": "https://flagcdn.com/jo.svg",
+      "alt": "The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/jo.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/jo.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        31.95,
+        35.93
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal",
+      "nativeName": {
+        "nep": {
+          "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+          "common": "नेपाल"
+        }
+      }
+    },
+    "tld": [
+      ".np"
+    ],
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "cioc": "NEP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NPR": {
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "77"
+      ]
+    },
+    "capital": [
+      "Kathmandu"
+    ],
+    "altSpellings": [
+      "NP",
+      "Federal Democratic Republic of Nepal",
+      "Loktāntrik Ganatantra Nepāl"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "nep": "Nepali"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ネパール連邦民主共和国",
+        "common": "ネパール"
+      },
+      "zho": {
+        "official": "尼泊爾聯邦民主共和國",
+        "common": "尼泊爾"
+      }
+    },
+    "latlng": [
+      28.0,
+      84.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 147181.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nepalese",
+        "m": "Nepalese"
+      },
+      "fra": {
+        "f": "Népalaise",
+        "m": "Népalais"
+      }
+    },
+    "flag": "🇳🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+    },
+    "population": 29136808,
+    "gini": {
+      "2010": 32.8
+    },
+    "fifa": "NEP",
+    "car": {
+      "signs": [
+        "NEP"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:45"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/np.png",
+      "svg": "https://flagcdn.com/np.svg",
+      "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/np.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        27.72,
+        85.32
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand",
+      "nativeName": {
+        "tha": {
+          "official": "ราชอาณาจักรไทย",
+          "common": "ประเทศไทย"
+        }
+      }
+    },
+    "tld": [
+      ".th",
+      ".ไทย"
+    ],
+    "cca2": "TH",
+    "ccn3": "764",
+    "cca3": "THA",
+    "cioc": "THA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "THB": {
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Bangkok"
+    ],
+    "altSpellings": [
+      "TH",
+      "Prathet",
+      "Thai",
+      "Kingdom of Thailand",
+      "ราชอาณาจักรไทย",
+      "Ratcha Anachak Thai"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "tha": "Thai"
+    },
+    "translations": {
+      "jpn": {
+        "official": "タイ王国",
+        "common": "タイ"
+      },
+      "zho": {
+        "official": "泰王國",
+        "common": "泰國"
+      }
+    },
+    "latlng": [
+      15.0,
+      100.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "area": 513120.0,
+    "demonyms": {
+      "eng": {
+        "f": "Thai",
+        "m": "Thai"
+      },
+      "fra": {
+        "f": "Thaïlandaise",
+        "m": "Thaïlandais"
+      }
+    },
+    "flag": "🇹🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+    },
+    "population": 69799978,
+    "gini": {
+      "2019": 34.9
+    },
+    "fifa": "THA",
+    "car": {
+      "signs": [
+        "T"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/th.png",
+      "svg": "https://flagcdn.com/th.svg",
+      "alt": "The flag of Thailand is composed of five horizontal bands of red, white, blue, white and red, with the central blue band twice the height of the other four bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/th.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.75,
+        100.52
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan",
+      "nativeName": {
+        "kaz": {
+          "official": "Қазақстан Республикасы",
+          "common": "Қазақстан"
+        },
+        "rus": {
+          "official": "Республика Казахстан",
+          "common": "Казахстан"
+        }
+      }
+    },
+    "tld": [
+      ".kz",
+      ".қаз"
+    ],
+    "cca2": "KZ",
+    "ccn3": "398",
+    "cca3": "KAZ",
+    "cioc": "KAZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KZT": {
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    },
+    "idd": {
+      "root": "+7",
+      "suffixes": [
+        "6",
+        "7"
+      ]
+    },
+    "capital": [
+      "Nur-Sultan"
+    ],
+    "altSpellings": [
+      "KZ",
+      "Qazaqstan",
+      "Казахстан",
+      "Republic of Kazakhstan",
+      "Қазақстан Республикасы",
+      "Qazaqstan Respublïkası",
+      "Республика Казахстан",
+      "Respublika Kazakhstan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カザフスタン共和国",
+        "common": "カザフスタン"
+      },
+      "zho": {
+        "official": "哈薩克斯坦共和國",
+        "common": "哈薩克斯坦"
+      }
+    },
+    "latlng": [
+      48.0196,
+      66.9237
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "area": 2724900.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kazakhstani",
+        "m": "Kazakhstani"
+      },
+      "fra": {
+        "f": "Kazakhstanaise",
+        "m": "Kazakhstanais"
+      }
+    },
+    "flag": "🇰🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+    },
+    "population": 18754440,
+    "gini": {
+      "2018": 27.8
+    },
+    "fifa": "KAZ",
+    "car": {
+      "signs": [
+        "KZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kz.png",
+      "svg": "https://flagcdn.com/kz.svg",
+      "alt": "The flag of Kazakhstan has a turquoise field, at the center of which is a gold sun with thirty-two rays above a soaring golden steppe eagle. A thin vertical band displays a national ornamental pattern — koshkar-muiz — in gold near the hoist end."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        51.16,
+        71.45
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia",
+      "nativeName": {
+        "kat": {
+          "official": "საქართველო",
+          "common": "საქართველო"
+        }
+      }
+    },
+    "tld": [
+      ".ge"
+    ],
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "cioc": "GEO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GEL": {
+        "name": "lari",
+        "symbol": "₾"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "95"
+      ]
+    },
+    "capital": [
+      "Tbilisi"
+    ],
+    "altSpellings": [
+      "GE",
+      "Sakartvelo"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "kat": "Georgian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "グルジア",
+        "common": "グルジア"
+      },
+      "zho": {
+        "official": "格魯吉亞",
+        "common": "格魯吉亞"
+      }
+    },
+    "latlng": [
+      42.0,
+      43.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "area": 69700.0,
+    "demonyms": {
+      "eng": {
+        "f": "Georgian",
+        "m": "Georgian"
+      },
+      "fra": {
+        "f": "Géorgienne",
+        "m": "Géorgien"
+      }
+    },
+    "flag": "🇬🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+    },
+    "population": 3714000,
+    "gini": {
+      "2019": 35.9
+    },
+    "fifa": "GEO",
+    "car": {
+      "signs": [
+        "GE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ge.png",
+      "svg": "https://flagcdn.com/ge.svg",
+      "alt": "The flag of Georgia has a white field with a large centered red cross that extends to the edges and divides the field into four quarters. A small red Bolnur-Katskhuri cross is centered in each quarter."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ge.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.68,
+        44.83
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan",
+      "nativeName": {
+        "eng": {
+          "official": "Islamic Republic of Pakistan",
+          "common": "Pakistan"
+        },
+        "urd": {
+          "official": "اسلامی جمہوریۂ پاكستان",
+          "common": "پاكستان"
+        }
+      }
+    },
+    "tld": [
+      ".pk"
+    ],
+    "cca2": "PK",
+    "ccn3": "586",
+    "cca3": "PAK",
+    "cioc": "PAK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PKR": {
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Islamabad"
+    ],
+    "altSpellings": [
+      "PK",
+      "Pākistān",
+      "Islamic Republic of Pakistan",
+      "Islāmī Jumhūriya'eh Pākistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    },
+    "translations": {
+      "jpn": {
+        "official": "パキスタン",
+        "common": "パキスタン"
+      },
+      "zho": {
+        "official": "巴基斯坦伊斯蘭共和國",
+        "common": "巴基斯坦"
+      }
+    },
+    "latlng": [
+      30.0,
+      70.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "area": 881912.0,
+    "demonyms": {
+      "eng": {
+        "f": "Pakistani",
+        "m": "Pakistani"
+      },
+      "fra": {
+        "f": "Pakistanaise",
+        "m": "Pakistanais"
+      }
+    },
+    "flag": "🇵🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+    },
+    "population": 220892331,
+    "gini": {
+      "2018": 31.6
+    },
+    "fifa": "PAK",
+    "car": {
+      "signs": [
+        "PK"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pk.png",
+      "svg": "https://flagcdn.com/pk.svg",
+      "alt": "The flag of Pakistan is composed of a white vertical band on its hoist side that takes up about one-fourth the width of the field and a dark green rectangular area that spans the rest of the field. A white fly-side facing crescent and five-pointed star are centered in the dark green area."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        33.68,
+        73.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia",
+      "nativeName": {
+        "hye": {
+          "official": "Հայաստանի Հանրապետություն",
+          "common": "Հայաստան"
+        }
+      }
+    },
+    "tld": [
+      ".am"
+    ],
+    "cca2": "AM",
+    "ccn3": "051",
+    "cca3": "ARM",
+    "cioc": "ARM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AMD": {
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "74"
+      ]
+    },
+    "capital": [
+      "Yerevan"
+    ],
+    "altSpellings": [
+      "AM",
+      "Hayastan",
+      "Republic of Armenia",
+      "Հայաստանի Հանրապետություն"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "hye": "Armenian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アルメニア共和国",
+        "common": "アルメニア"
+      },
+      "zho": {
+        "official": "亞美尼亞共和國",
+        "common": "亞美尼亞"
+      }
+    },
+    "latlng": [
+      40.0,
+      45.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "area": 29743.0,
+    "demonyms": {
+      "eng": {
+        "f": "Armenian",
+        "m": "Armenian"
+      },
+      "fra": {
+        "f": "Arménienne",
+        "m": "Arménien"
+      }
+    },
+    "flag": "🇦🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+    },
+    "population": 2963234,
+    "gini": {
+      "2019": 29.9
+    },
+    "fifa": "ARM",
+    "car": {
+      "signs": [
+        "AM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/am.png",
+      "svg": "https://flagcdn.com/am.svg",
+      "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/am.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        40.17,
+        44.5
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia",
+      "nativeName": {
+        "ind": {
+          "official": "Republik Indonesia",
+          "common": "Indonesia"
+        }
+      }
+    },
+    "tld": [
+      ".id"
+    ],
+    "cca2": "ID",
+    "ccn3": "360",
+    "cca3": "IDN",
+    "cioc": "INA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "IDR": {
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Jakarta"
+    ],
+    "altSpellings": [
+      "ID",
+      "Republic of Indonesia",
+      "Republik Indonesia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "インドネシア共和国",
+        "common": "インドネシア"
+      },
+      "zho": {
+        "official": "印度尼西亞共和國",
+        "common": "印度尼西亞"
+      }
+    },
+    "latlng": [
+      -5.0,
+      120.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "area": 1904569.0,
+    "demonyms": {
+      "eng": {
+        "f": "Indonesian",
+        "m": "Indonesian"
+      },
+      "fra": {
+        "f": "Indonésienne",
+        "m": "Indonésien"
+      }
+    },
+    "flag": "🇮🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": 273523621,
+    "gini": {
+      "2019": 38.2
+    },
+    "fifa": "IDN",
+    "car": {
+      "signs": [
+        "RI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/id.png",
+      "svg": "https://flagcdn.com/id.svg",
+      "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/id.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -6.17,
+        106.82
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "nativeName": {
+        "jpn": {
+          "official": "日本",
+          "common": "日本"
+        }
+      }
+    },
+    "tld": [
+      ".jp",
+      ".みんな"
+    ],
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "cioc": "JPN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "Tokyo"
+    ],
+    "altSpellings": [
+      "JP",
+      "Nippon",
+      "Nihon"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "日本",
+        "common": "日本"
+      },
+      "zho": {
+        "official": "日本國",
+        "common": "日本"
+      }
+    },
+    "latlng": [
+      36.0,
+      138.0
+    ],
+    "landlocked": false,
+    "area": 377930.0,
+    "demonyms": {
+      "eng": {
+        "f": "Japanese",
+        "m": "Japanese"
+      },
+      "fra": {
+        "f": "Japonaise",
+        "m": "Japonais"
+      }
+    },
+    "flag": "🇯🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+    },
+    "population": 125836021,
+    "gini": {
+      "2013": 32.9
+    },
+    "fifa": "JPN",
+    "car": {
+      "signs": [
+        "J"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/jp.png",
+      "svg": "https://flagcdn.com/jp.svg",
+      "alt": "The flag of Japan features a crimson-red circle at the center of a white field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/jp.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        35.68,
+        139.75
+      ]
+    },
+    "postalCode": {
+      "format": "###-####",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic",
+      "nativeName": {
+        "lao": {
+          "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+          "common": "ສປປລາວ"
+        }
+      }
+    },
+    "tld": [
+      ".la"
+    ],
+    "cca2": "LA",
+    "ccn3": "418",
+    "cca3": "LAO",
+    "cioc": "LAO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LAK": {
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "56"
+      ]
+    },
+    "capital": [
+      "Vientiane"
+    ],
+    "altSpellings": [
+      "LA",
+      "Lao",
+      "Lao People's Democratic Republic",
+      "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "lao": "Lao"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ラオス人民民主共和国",
+        "common": "ラオス人民民主共和国"
+      },
+      "zho": {
+        "official": "老撾人民民主共和國",
+        "common": "老撾"
+      }
+    },
+    "latlng": [
+      18.0,
+      105.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "area": 236800.0,
+    "demonyms": {
+      "eng": {
+        "f": "Laotian",
+        "m": "Laotian"
+      },
+      "fra": {
+        "f": "Laotienne",
+        "m": "Laotien"
+      }
+    },
+    "flag": "🇱🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+    },
+    "population": 7275556,
+    "gini": {
+      "2018": 38.8
+    },
+    "fifa": "LAO",
+    "car": {
+      "signs": [
+        "LAO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/la.png",
+      "svg": "https://flagcdn.com/la.svg",
+      "alt": "The flag of Laos is composed of three horizontal bands of red, blue and red. The blue band is twice the height of the red bands and bears a white circle at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/la.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.97,
+        102.6
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اللبنانية",
+          "common": "لبنان"
+        },
+        "fra": {
+          "official": "République libanaise",
+          "common": "Liban"
+        }
+      }
+    },
+    "tld": [
+      ".lb"
+    ],
+    "cca2": "LB",
+    "ccn3": "422",
+    "cca3": "LBN",
+    "cioc": "LBN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LBP": {
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "61"
+      ]
+    },
+    "capital": [
+      "Beirut"
+    ],
+    "altSpellings": [
+      "LB",
+      "Lebanese Republic",
+      "Al-Jumhūrīyah Al-Libnānīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "レバノン共和国",
+        "common": "レバノン"
+      },
+      "zho": {
+        "official": "黎巴嫩共和國",
+        "common": "黎巴嫩"
+      }
+    },
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "area": 10452.0,
+    "demonyms": {
+      "eng": {
+        "f": "Lebanese",
+        "m": "Lebanese"
+      },
+      "fra": {
+        "f": "Libanaise",
+        "m": "Libanais"
+      }
+    },
+    "flag": "🇱🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+    },
+    "population": 6825442,
+    "gini": {
+      "2011": 31.8
+    },
+    "fifa": "LBN",
+    "car": {
+      "signs": [
+        "RL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lb.png",
+      "svg": "https://flagcdn.com/lb.svg",
+      "alt": "The flag of Lebanon is composed of three horizontal bands of red, white and red. The white band is twice the height of the red bands and bears a green Lebanese Cedar tree at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        33.87,
+        35.5
+      ]
+    },
+    "postalCode": {
+      "format": "#### ####|####",
+      "regex": "^(\\d{4}(\\d{4})?)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Philippines",
+          "common": "Philippines"
+        },
+        "fil": {
+          "official": "Republic of the Philippines",
+          "common": "Pilipinas"
+        }
+      }
+    },
+    "tld": [
+      ".ph"
+    ],
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "cioc": "PHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PHP": {
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Manila"
+    ],
+    "altSpellings": [
+      "PH",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "translations": {
+      "jpn": {
+        "official": "フィリピン共和国",
+        "common": "フィリピン"
+      },
+      "zho": {
+        "official": "菲律賓共和國",
+        "common": "菲律賓"
+      }
+    },
+    "latlng": [
+      13.0,
+      122.0
+    ],
+    "landlocked": false,
+    "area": 342353.0,
+    "demonyms": {
+      "eng": {
+        "f": "Filipino",
+        "m": "Filipino"
+      },
+      "fra": {
+        "f": "Philippine",
+        "m": "Philippin"
+      }
+    },
+    "flag": "🇵🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    },
+    "population": 109581085,
+    "gini": {
+      "2018": 42.3
+    },
+    "fifa": "PHI",
+    "car": {
+      "signs": [
+        "RP"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ph.png",
+      "svg": "https://flagcdn.com/ph.svg",
+      "alt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.6,
+        120.97
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain",
+      "nativeName": {
+        "ara": {
+          "official": "مملكة البحرين",
+          "common": "‏البحرين"
+        }
+      }
+    },
+    "tld": [
+      ".bh"
+    ],
+    "cca2": "BH",
+    "ccn3": "048",
+    "cca3": "BHR",
+    "cioc": "BHR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BHD": {
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "73"
+      ]
+    },
+    "capital": [
+      "Manama"
+    ],
+    "altSpellings": [
+      "BH",
+      "Kingdom of Bahrain",
+      "Mamlakat al-Baḥrayn"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バーレーン王国",
+        "common": "バーレーン"
+      },
+      "zho": {
+        "official": "巴林王國",
+        "common": "巴林"
+      }
+    },
+    "latlng": [
+      26.0,
+      50.55
+    ],
+    "landlocked": false,
+    "area": 765.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bahraini",
+        "m": "Bahraini"
+      },
+      "fra": {
+        "f": "Bahreïnienne",
+        "m": "Bahreïnien"
+      }
+    },
+    "flag": "🇧🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/378734"
+    },
+    "population": 1701583,
+    "fifa": "BHR",
+    "car": {
+      "signs": [
+        "BRN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bh.png",
+      "svg": "https://flagcdn.com/bh.svg",
+      "alt": "The flag of Bahrain has a red field. On the hoist side, it features a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by five adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        26.23,
+        50.57
+      ]
+    },
+    "postalCode": {
+      "format": "####|###",
+      "regex": "^(\\d{3}\\d?)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "nativeName": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "tld": [
+      ".qa",
+      "قطر."
+    ],
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "QAR": {
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "74"
+      ]
+    },
+    "capital": [
+      "Doha"
+    ],
+    "altSpellings": [
+      "QA",
+      "State of Qatar",
+      "Dawlat Qaṭar"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カタール国",
+        "common": "カタール"
+      },
+      "zho": {
+        "official": "卡塔爾國",
+        "common": "卡塔爾"
+      }
+    },
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "landlocked": false,
+    "borders": [
+      "SAU"
+    ],
+    "area": 11586.0,
+    "demonyms": {
+      "eng": {
+        "f": "Qatari",
+        "m": "Qatari"
+      },
+      "fra": {
+        "f": "Qatarienne",
+        "m": "Qatarien"
+      }
+    },
+    "flag": "🇶🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305095"
+    },
+    "population": 2881060,
+    "fifa": "QAT",
+    "car": {
+      "signs": [
+        "Q"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/qa.png",
+      "svg": "https://flagcdn.com/qa.svg",
+      "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/qa.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        25.28,
+        51.53
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan",
+      "nativeName": {
+        "rus": {
+          "official": "Республика Таджикистан",
+          "common": "Таджикистан"
+        },
+        "tgk": {
+          "official": "Ҷумҳурии Тоҷикистон",
+          "common": "Тоҷикистон"
+        }
+      }
+    },
+    "tld": [
+      ".tj"
+    ],
+    "cca2": "TJ",
+    "ccn3": "762",
+    "cca3": "TJK",
+    "cioc": "TJK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TJS": {
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "92"
+      ]
+    },
+    "capital": [
+      "Dushanbe"
+    ],
+    "altSpellings": [
+      "TJ",
+      "Toçikiston",
+      "Republic of Tajikistan",
+      "Ҷумҳурии Тоҷикистон",
+      "Çumhuriyi Toçikiston"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    },
+    "translations": {
+      "jpn": {
+        "official": "タジキスタン共和国",
+        "common": "タジキスタン"
+      },
+      "zho": {
+        "official": "塔吉克斯坦共和國",
+        "common": "塔吉克斯坦"
+      }
+    },
+    "latlng": [
+      39.0,
+      71.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "area": 143100.0,
+    "demonyms": {
+      "eng": {
+        "f": "Tadzhik",
+        "m": "Tadzhik"
+      },
+      "fra": {
+        "f": "Tadjike",
+        "m": "Tadjike"
+      }
+    },
+    "flag": "🇹🇯",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+    },
+    "population": 9537642,
+    "gini": {
+      "2015": 34.0
+    },
+    "fifa": "TJK",
+    "car": {
+      "signs": [
+        "TJ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tj.png",
+      "svg": "https://flagcdn.com/tj.svg",
+      "alt": "The flag of Tajikistan is composed of three horizontal bands of red, white and green in the ratio of 2:3:2. A golden-yellow crown surmounted by an arc of seven five-pointed golden-yellow stars is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        38.55,
+        68.77
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "nativeName": {
+        "zho": {
+          "official": "中华人民共和国",
+          "common": "中国"
+        }
+      }
+    },
+    "tld": [
+      ".cn",
+      ".中国",
+      ".中國",
+      ".公司",
+      ".网络"
+    ],
+    "cca2": "CN",
+    "ccn3": "156",
+    "cca3": "CHN",
+    "cioc": "CHN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Beijing"
+    ],
+    "altSpellings": [
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "zho": "Chinese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "中華人民共和国",
+        "common": "中国"
+      }
+    },
+    "latlng": [
+      35.0,
+      105.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "area": 9706961.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chinese",
+        "m": "Chinese"
+      },
+      "fra": {
+        "f": "Chinoise",
+        "m": "Chinois"
+      }
+    },
+    "flag": "🇨🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+    },
+    "population": 1402112000,
+    "gini": {
+      "2016": 38.5
+    },
+    "fifa": "CHN",
+    "car": {
+      "signs": [
+        "RC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        39.92,
+        116.38
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية اليمنية",
+          "common": "اليَمَن"
+        }
+      }
+    },
+    "tld": [
+      ".ye"
+    ],
+    "cca2": "YE",
+    "ccn3": "887",
+    "cca3": "YEM",
+    "cioc": "YEM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "YER": {
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "67"
+      ]
+    },
+    "capital": [
+      "Sana'a"
+    ],
+    "altSpellings": [
+      "YE",
+      "Yemeni Republic",
+      "al-Jumhūriyyah al-Yamaniyyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "イエメン共和国",
+        "common": "イエメン"
+      },
+      "zho": {
+        "official": "也門共和國",
+        "common": "也門"
+      }
+    },
+    "latlng": [
+      15.0,
+      48.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 527968.0,
+    "demonyms": {
+      "eng": {
+        "f": "Yemeni",
+        "m": "Yemeni"
+      },
+      "fra": {
+        "f": "Yéménite",
+        "m": "Yéménite"
+      }
+    },
+    "flag": "🇾🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305092"
+    },
+    "population": 29825968,
+    "gini": {
+      "2014": 36.7
+    },
+    "fifa": "YEM",
+    "car": {
+      "signs": [
+        "YAR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ye.png",
+      "svg": "https://flagcdn.com/ye.svg",
+      "alt": "The flag of Yemen is composed of three equal horizontal bands of red, white and black."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ye.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        15.37,
+        44.19
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of India",
+          "common": "India"
+        },
+        "hin": {
+          "official": "भारत गणराज्य",
+          "common": "भारत"
+        },
+        "tam": {
+          "official": "இந்தியக் குடியரசு",
+          "common": "இந்தியா"
+        }
+      }
+    },
+    "tld": [
+      ".in"
+    ],
+    "cca2": "IN",
+    "ccn3": "356",
+    "cca3": "IND",
+    "cioc": "IND",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "New Delhi"
+    ],
+    "altSpellings": [
+      "IN",
+      "Bhārat",
+      "Republic of India",
+      "Bharat Ganrajya",
+      "இந்தியா"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    },
+    "translations": {
+      "jpn": {
+        "official": "インド共和国",
+        "common": "インド"
+      },
+      "zho": {
+        "official": "印度共和國",
+        "common": "印度"
+      }
+    },
+    "latlng": [
+      20.0,
+      77.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "area": 3287590.0,
+    "demonyms": {
+      "eng": {
+        "f": "Indian",
+        "m": "Indian"
+      },
+      "fra": {
+        "f": "Indienne",
+        "m": "Indien"
+      }
+    },
+    "flag": "🇮🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+    },
+    "population": 1380004385,
+    "gini": {
+      "2011": 35.7
+    },
+    "fifa": "IND",
+    "car": {
+      "signs": [
+        "IND"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/in.png",
+      "svg": "https://flagcdn.com/in.svg",
+      "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/in.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/in.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        28.6,
+        77.2
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait",
+      "nativeName": {
+        "ara": {
+          "official": "دولة الكويت",
+          "common": "الكويت"
+        }
+      }
+    },
+    "tld": [
+      ".kw"
+    ],
+    "cca2": "KW",
+    "ccn3": "414",
+    "cca3": "KWT",
+    "cioc": "KUW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KWD": {
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "65"
+      ]
+    },
+    "capital": [
+      "Kuwait City"
+    ],
+    "altSpellings": [
+      "KW",
+      "State of Kuwait",
+      "Dawlat al-Kuwait"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "クウェート国",
+        "common": "クウェート"
+      },
+      "zho": {
+        "official": "科威特國",
+        "common": "科威特"
+      }
+    },
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "area": 17818.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kuwaiti",
+        "m": "Kuwaiti"
+      },
+      "fra": {
+        "f": "Koweïtienne",
+        "m": "Koweïtien"
+      }
+    },
+    "flag": "🇰🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305099"
+    },
+    "population": 4270563,
+    "fifa": "KUW",
+    "car": {
+      "signs": [
+        "KWT"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kw.png",
+      "svg": "https://flagcdn.com/kw.svg",
+      "alt": "The flag of Kuwait is composed of three equal horizontal bands of green, white and red, with a black trapezium superimposed on the hoist side of the field. This trapezium has its base on the hoist end and spans about one-fourth the width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kw.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        29.37,
+        47.97
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic",
+      "nativeName": {
+        "ara": {
+          "official": "الجمهورية العربية السورية",
+          "common": "سوريا"
+        }
+      }
+    },
+    "tld": [
+      ".sy",
+      "سوريا."
+    ],
+    "cca2": "SY",
+    "ccn3": "760",
+    "cca3": "SYR",
+    "cioc": "SYR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SYP": {
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "63"
+      ]
+    },
+    "capital": [
+      "Damascus"
+    ],
+    "altSpellings": [
+      "SY",
+      "Syrian Arab Republic",
+      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "シリアアラブ共和国",
+        "common": "シリア・アラブ共和国"
+      },
+      "zho": {
+        "official": "敘利亞阿拉伯共和國",
+        "common": "敘利亞"
+      }
+    },
+    "latlng": [
+      35.0,
+      38.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "area": 185180.0,
+    "demonyms": {
+      "eng": {
+        "f": "Syrian",
+        "m": "Syrian"
+      },
+      "fra": {
+        "f": "Syrienne",
+        "m": "Syrien"
+      }
+    },
+    "flag": "🇸🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184840"
+    },
+    "population": 17500657,
+    "gini": {
+      "2003": 37.5
+    },
+    "fifa": "SYR",
+    "car": {
+      "signs": [
+        "SYR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sy.png",
+      "svg": "https://flagcdn.com/sy.svg",
+      "alt": "The flag of Syria is composed of three equal horizontal bands of red, white and black. At the center of the white band are two small five-pointed green stars arranged in a horizontal line."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        33.5,
+        36.3
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives",
+      "nativeName": {
+        "div": {
+          "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+          "common": "ދިވެހިރާއްޖޭގެ"
+        }
+      }
+    },
+    "tld": [
+      ".mv"
+    ],
+    "cca2": "MV",
+    "ccn3": "462",
+    "cca3": "MDV",
+    "cioc": "MDV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MVR": {
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "60"
+      ]
+    },
+    "capital": [
+      "Malé"
+    ],
+    "altSpellings": [
+      "MV",
+      "Maldive Islands",
+      "Republic of the Maldives",
+      "Dhivehi Raajjeyge Jumhooriyya"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "div": "Maldivian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モルディブ共和国",
+        "common": "モルディブ"
+      },
+      "zho": {
+        "official": "馬爾代夫共和國",
+        "common": "馬爾代夫"
+      }
+    },
+    "latlng": [
+      3.25,
+      73.0
+    ],
+    "landlocked": false,
+    "area": 300.0,
+    "demonyms": {
+      "eng": {
+        "f": "Maldivan",
+        "m": "Maldivan"
+      },
+      "fra": {
+        "f": "Maldivienne",
+        "m": "Maldivien"
+      }
+    },
+    "flag": "🇲🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+    },
+    "population": 540542,
+    "gini": {
+      "2016": 31.3
+    },
+    "fifa": "MDV",
+    "car": {
+      "signs": [
+        "MV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mv.png",
+      "svg": "https://flagcdn.com/mv.svg",
+      "alt": "The flag of Maldives has a red field, at the center of which is a large green rectangle bearing a fly-side facing white crescent."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        4.17,
+        73.51
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan",
+      "nativeName": {
+        "rus": {
+          "official": "Республика Узбекистан",
+          "common": "Узбекистан"
+        },
+        "uzb": {
+          "official": "O'zbekiston Respublikasi",
+          "common": "O‘zbekiston"
+        }
+      }
+    },
+    "tld": [
+      ".uz"
+    ],
+    "cca2": "UZ",
+    "ccn3": "860",
+    "cca3": "UZB",
+    "cioc": "UZB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UZS": {
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "98"
+      ]
+    },
+    "capital": [
+      "Tashkent"
+    ],
+    "altSpellings": [
+      "UZ",
+      "Republic of Uzbekistan",
+      "O‘zbekiston Respublikasi",
+      "Ўзбекистон Республикаси"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ウズベキスタン共和国",
+        "common": "ウズベキスタン"
+      },
+      "zho": {
+        "official": "烏茲別克斯坦共和國",
+        "common": "烏茲別克斯坦"
+      }
+    },
+    "latlng": [
+      41.0,
+      64.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "area": 447400.0,
+    "demonyms": {
+      "eng": {
+        "f": "Uzbekistani",
+        "m": "Uzbekistani"
+      },
+      "fra": {
+        "f": "Ouzbèke",
+        "m": "Ouzbèke"
+      }
+    },
+    "flag": "🇺🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+    },
+    "population": 34232050,
+    "gini": {
+      "2003": 35.3
+    },
+    "fifa": "UZB",
+    "car": {
+      "signs": [
+        "UZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/uz.png",
+      "svg": "https://flagcdn.com/uz.svg",
+      "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.32,
+        69.25
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran",
+      "nativeName": {
+        "fas": {
+          "official": "جمهوری اسلامی ایران",
+          "common": "ایران"
+        }
+      }
+    },
+    "tld": [
+      ".ir",
+      "ایران."
+    ],
+    "cca2": "IR",
+    "ccn3": "364",
+    "cca3": "IRN",
+    "cioc": "IRI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "IRR": {
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "8"
+      ]
+    },
+    "capital": [
+      "Tehran"
+    ],
+    "altSpellings": [
+      "IR",
+      "Islamic Republic of Iran",
+      "Iran, Islamic Republic of",
+      "Jomhuri-ye Eslāmi-ye Irān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "fas": "Persian (Farsi)"
+    },
+    "translations": {
+      "jpn": {
+        "official": "イラン·イスラム共和国",
+        "common": "イラン・イスラム共和国"
+      },
+      "zho": {
+        "official": "伊朗伊斯蘭共和國",
+        "common": "伊朗"
+      }
+    },
+    "latlng": [
+      32.0,
+      53.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "area": 1648195.0,
+    "demonyms": {
+      "eng": {
+        "f": "Iranian",
+        "m": "Iranian"
+      },
+      "fra": {
+        "f": "Iranienne",
+        "m": "Iranien"
+      }
+    },
+    "flag": "🇮🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304938"
+    },
+    "population": 83992953,
+    "gini": {
+      "2018": 42.0
+    },
+    "fifa": "IRN",
+    "car": {
+      "signs": [
+        "IR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ir.png",
+      "svg": "https://flagcdn.com/ir.svg",
+      "alt": "The flag of Iran is composed of three equal horizontal bands of green, white and red. A red emblem of Iran is centered in the white band and Arabic inscriptions in white span the bottom edge of the green band and the top edge of the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg"
+    },
+    "startOfWeek": "saturday",
+    "capitalInfo": {
+      "latlng": [
+        35.7,
+        51.42
+      ]
+    },
+    "postalCode": {
+      "format": "##########",
+      "regex": "^(\\d{10})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar",
+      "nativeName": {
+        "mya": {
+          "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+          "common": "မြန်မာ"
+        }
+      }
+    },
+    "tld": [
+      ".mm"
+    ],
+    "cca2": "MM",
+    "ccn3": "104",
+    "cca3": "MMR",
+    "cioc": "MYA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MMK": {
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "capital": [
+      "Naypyidaw"
+    ],
+    "altSpellings": [
+      "MM",
+      "Burma",
+      "Republic of the Union of Myanmar",
+      "Pyidaunzu Thanmăda Myăma Nainngandaw"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "mya": "Burmese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ミャンマー連邦共和国",
+        "common": "ミャンマー"
+      },
+      "zho": {
+        "official": "緬甸聯邦共和國",
+        "common": "緬甸"
+      }
+    },
+    "latlng": [
+      22.0,
+      98.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "area": 676578.0,
+    "demonyms": {
+      "eng": {
+        "f": "Burmese",
+        "m": "Burmese"
+      },
+      "fra": {
+        "f": "Birmane",
+        "m": "Birman"
+      }
+    },
+    "flag": "🇲🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/50371"
+    },
+    "population": 54409794,
+    "gini": {
+      "2017": 30.7
+    },
+    "fifa": "MYA",
+    "car": {
+      "signs": [
+        "BUR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+06:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mm.png",
+      "svg": "https://flagcdn.com/mm.svg",
+      "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        19.76,
+        96.07
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka",
+      "nativeName": {
+        "sin": {
+          "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+          "common": "ශ්‍රී ලංකාව"
+        },
+        "tam": {
+          "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+          "common": "இலங்கை"
+        }
+      }
+    },
+    "tld": [
+      ".lk",
+      ".இலங்கை",
+      ".ලංකා"
+    ],
+    "cca2": "LK",
+    "ccn3": "144",
+    "cca3": "LKA",
+    "cioc": "SRI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "LKR": {
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs  රු"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Sri Jayawardenepura Kotte"
+    ],
+    "altSpellings": [
+      "LK",
+      "ilaṅkai",
+      "Democratic Socialist Republic of Sri Lanka"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "translations": {
+      "jpn": {
+        "official": "スリランカ民主社会主義共和国",
+        "common": "スリランカ"
+      },
+      "zho": {
+        "official": "斯里蘭卡民主社會主義共和國",
+        "common": "斯里蘭卡"
+      }
+    },
+    "latlng": [
+      7.0,
+      81.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IND"
+    ],
+    "area": 65610.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sri Lankan",
+        "m": "Sri Lankan"
+      },
+      "fra": {
+        "f": "Sri-lankaise",
+        "m": "Sri-lankais"
+      }
+    },
+    "flag": "🇱🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
+    },
+    "population": 21919000,
+    "gini": {
+      "2016": 39.3
+    },
+    "fifa": "SRI",
+    "car": {
+      "signs": [
+        "CL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lk.png",
+      "svg": "https://flagcdn.com/lk.svg",
+      "alt": "The flag of Sri Lanka features two large adjacent but separate rectangular areas, centered on a golden-yellow field. The smaller hoist-side rectangle is divided into two equal vertical bands of teal and orange, and the larger fly-side rectangle is maroon with a centered golden-yellow lion holding a Kastane sword in its right fore-paw and four golden-yellow Bo leaves, one in each corner."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.89,
+        79.9
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan",
+      "nativeName": {
+        "dzo": {
+          "official": "འབྲུག་རྒྱལ་ཁབ་",
+          "common": "འབྲུག་ཡུལ་"
+        }
+      }
+    },
+    "tld": [
+      ".bt"
+    ],
+    "cca2": "BT",
+    "ccn3": "064",
+    "cca3": "BTN",
+    "cioc": "BHU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BTN": {
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "75"
+      ]
+    },
+    "capital": [
+      "Thimphu"
+    ],
+    "altSpellings": [
+      "BT",
+      "Kingdom of Bhutan"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "dzo": "Dzongkha"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブータン王国",
+        "common": "ブータン"
+      },
+      "zho": {
+        "official": "不丹王國",
+        "common": "不丹"
+      }
+    },
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 38394.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bhutanese",
+        "m": "Bhutanese"
+      },
+      "fra": {
+        "f": "Bhoutanaise",
+        "m": "Bhoutanais"
+      }
+    },
+    "flag": "🇧🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184629"
+    },
+    "population": 771612,
+    "gini": {
+      "2017": 37.4
+    },
+    "fifa": "BHU",
+    "car": {
+      "signs": [
+        "BHT"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bt.png",
+      "svg": "https://flagcdn.com/bt.svg",
+      "alt": "The flag of Bhutan is divided diagonally, from the lower hoist-side corner to the upper fly-side corner, into an upper yellow and a lower orange triangle. A fly-side facing white dragon holding four jewels in its claws is situated along the boundary of the two triangles."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        27.47,
+        89.63
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine",
+      "nativeName": {
+        "ara": {
+          "official": "دولة فلسطين",
+          "common": "فلسطين"
+        }
+      }
+    },
+    "tld": [
+      ".ps",
+      "فلسطين."
+    ],
+    "cca2": "PS",
+    "ccn3": "275",
+    "cca3": "PSE",
+    "cioc": "PLE",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      "JOD": {
+        "name": "Jordanian dinar",
+        "symbol": "JD"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "70"
+      ]
+    },
+    "capital": [
+      "Ramallah",
+      "Jerusalem"
+    ],
+    "altSpellings": [
+      "PS",
+      "Palestine, State of",
+      "State of Palestine",
+      "Dawlat Filasṭin"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "パレスチナ自治政府",
+        "common": "パレスチナ"
+      },
+      "zho": {
+        "official": "巴勒斯坦國",
+        "common": "巴勒斯坦"
+      }
+    },
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "area": 6220.0,
+    "demonyms": {
+      "eng": {
+        "f": "Palestinian",
+        "m": "Palestinian"
+      },
+      "fra": {
+        "f": "Palestinienne",
+        "m": "Palestinien"
+      }
+    },
+    "flag": "🇵🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+    },
+    "population": 4803269,
+    "gini": {
+      "2016": 33.7
+    },
+    "fifa": "PLE",
+    "car": {
+      "signs": [
+        "PS"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ps.png",
+      "svg": "https://flagcdn.com/ps.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ps.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        31.9,
+        35.2
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "nativeName": {
+        "ben": {
+          "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+          "common": "বাংলাদেশ"
+        }
+      }
+    },
+    "tld": [
+      ".bd"
+    ],
+    "cca2": "BD",
+    "ccn3": "050",
+    "cca3": "BGD",
+    "cioc": "BAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BDT": {
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "80"
+      ]
+    },
+    "capital": [
+      "Dhaka"
+    ],
+    "altSpellings": [
+      "BD",
+      "People's Republic of Bangladesh",
+      "Gônôprôjatôntri Bangladesh"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "ben": "Bengali"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バングラデシュ人民共和国",
+        "common": "バングラデシュ"
+      },
+      "zho": {
+        "official": "孟加拉人民共和國",
+        "common": "孟加拉國"
+      }
+    },
+    "latlng": [
+      24.0,
+      90.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "area": 147570.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bangladeshi",
+        "m": "Bangladeshi"
+      },
+      "fra": {
+        "f": "Bangladaise",
+        "m": "Bangladais"
+      }
+    },
+    "flag": "🇧🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+    },
+    "population": 164689383,
+    "gini": {
+      "2016": 32.4
+    },
+    "fifa": "BAN",
+    "car": {
+      "signs": [
+        "BD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bd.png",
+      "svg": "https://flagcdn.com/bd.svg",
+      "alt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bd.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        23.72,
+        90.4
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Singapore",
+          "common": "Singapore"
+        },
+        "zho": {
+          "official": "新加坡共和国",
+          "common": "新加坡"
+        },
+        "msa": {
+          "official": "Republik Singapura",
+          "common": "Singapura"
+        },
+        "tam": {
+          "official": "சிங்கப்பூர் குடியரசு",
+          "common": "சிங்கப்பூர்"
+        }
+      }
+    },
+    "tld": [
+      ".sg",
+      ".新加坡",
+      ".சிங்கப்பூர்"
+    ],
+    "cca2": "SG",
+    "ccn3": "702",
+    "cca3": "SGP",
+    "cioc": "SGP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "capital": [
+      "Singapore"
+    ],
+    "altSpellings": [
+      "SG",
+      "Singapura",
+      "Republik Singapura",
+      "新加坡共和国"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "translations": {
+      "jpn": {
+        "official": "シンガポール共和国",
+        "common": "シンガポール"
+      },
+      "zho": {
+        "official": "新加坡共和国",
+        "common": "新加坡"
+      }
+    },
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "landlocked": false,
+    "area": 710.0,
+    "demonyms": {
+      "eng": {
+        "f": "Singaporean",
+        "m": "Singaporean"
+      },
+      "fra": {
+        "f": "Singapourienne",
+        "m": "Singapourien"
+      }
+    },
+    "flag": "🇸🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536780"
+    },
+    "population": 5685807,
+    "fifa": "SIN",
+    "car": {
+      "signs": [
+        "SGP"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sg.png",
+      "svg": "https://flagcdn.com/sg.svg",
+      "alt": "The flag of Singapore is composed of two equal horizontal bands of red and white. On the hoist side of the red band is a fly-side facing white crescent which partially encloses five small five-pointed white stars arranged in the shape of a pentagon."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        1.28,
+        103.85
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey",
+      "nativeName": {
+        "tur": {
+          "official": "Türkiye Cumhuriyeti",
+          "common": "Türkiye"
+        }
+      }
+    },
+    "tld": [
+      ".tr"
+    ],
+    "cca2": "TR",
+    "ccn3": "792",
+    "cca3": "TUR",
+    "cioc": "TUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "altSpellings": [
+      "TR",
+      "Turkiye",
+      "Republic of Turkey",
+      "Türkiye Cumhuriyeti"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "tur": "Turkish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "トルコ共和国",
+        "common": "トルコ"
+      },
+      "zho": {
+        "official": "土耳其共和國",
+        "common": "土耳其"
+      }
+    },
+    "latlng": [
+      39.0,
+      35.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "area": 783562.0,
+    "demonyms": {
+      "eng": {
+        "f": "Turkish",
+        "m": "Turkish"
+      },
+      "fra": {
+        "f": "Turque",
+        "m": "Turc"
+      }
+    },
+    "flag": "🇹🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+    },
+    "population": 84339067,
+    "gini": {
+      "2019": 41.9
+    },
+    "fifa": "TUR",
+    "car": {
+      "signs": [
+        "TR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        39.93,
+        32.87
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "nativeName": {
+        "ara": {
+          "official": "الإمارات العربية المتحدة",
+          "common": "دولة الإمارات العربية المتحدة"
+        }
+      }
+    },
+    "tld": [
+      ".ae",
+      "امارات."
+    ],
+    "cca2": "AE",
+    "ccn3": "784",
+    "cca3": "ARE",
+    "cioc": "UAE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AED": {
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "71"
+      ]
+    },
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "altSpellings": [
+      "AE",
+      "UAE",
+      "Emirates"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アラブ首長国連邦",
+        "common": "アラブ首長国連邦"
+      },
+      "zho": {
+        "official": "阿拉伯聯合酋長國",
+        "common": "阿拉伯聯合酋長國"
+      }
+    },
+    "latlng": [
+      24.0,
+      54.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 83600.0,
+    "demonyms": {
+      "eng": {
+        "f": "Emirati",
+        "m": "Emirati"
+      },
+      "fra": {
+        "f": "Emirienne",
+        "m": "Emirien"
+      }
+    },
+    "flag": "🇦🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+    },
+    "population": 9890400,
+    "gini": {
+      "2018": 26.0
+    },
+    "fifa": "UAE",
+    "car": {
+      "signs": [
+        "UAE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ae.png",
+      "svg": "https://flagcdn.com/ae.svg",
+      "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        24.47,
+        54.37
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan",
+      "nativeName": {
+        "prs": {
+          "official": "جمهوری اسلامی افغانستان",
+          "common": "افغانستان"
+        },
+        "pus": {
+          "official": "د افغانستان اسلامي جمهوریت",
+          "common": "افغانستان"
+        },
+        "tuk": {
+          "official": "Owganystan Yslam Respublikasy",
+          "common": "Owganystan"
+        }
+      }
+    },
+    "tld": [
+      ".af"
+    ],
+    "cca2": "AF",
+    "ccn3": "004",
+    "cca3": "AFG",
+    "cioc": "AFG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AFN": {
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Kabul"
+    ],
+    "altSpellings": [
+      "AF",
+      "Afġānistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アフガニスタン·イスラム共和国",
+        "common": "アフガニスタン"
+      },
+      "zho": {
+        "official": "阿富汗伊斯蘭共和國",
+        "common": "阿富汗"
+      }
+    },
+    "latlng": [
+      33.0,
+      65.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "area": 652230.0,
+    "demonyms": {
+      "eng": {
+        "f": "Afghan",
+        "m": "Afghan"
+      },
+      "fra": {
+        "f": "Afghane",
+        "m": "Afghan"
+      }
+    },
+    "flag": "🇦🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/303427"
+    },
+    "population": 40218234,
+    "fifa": "AFG",
+    "car": {
+      "signs": [
+        "AFG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:30"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "alt": "The flag of the Islamic Emirate of Afghanistan has a white field with Arabic inscriptions — the Shahada — in black across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/af.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/af.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        34.52,
+        69.18
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste",
+      "nativeName": {
+        "por": {
+          "official": "República Democrática de Timor-Leste",
+          "common": "Timor-Leste"
+        },
+        "tet": {
+          "official": "Repúblika Demokrátika Timór-Leste",
+          "common": "Timór-Leste"
+        }
+      }
+    },
+    "tld": [
+      ".tl"
+    ],
+    "cca2": "TL",
+    "ccn3": "626",
+    "cca3": "TLS",
+    "cioc": "TLS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "70"
+      ]
+    },
+    "capital": [
+      "Dili"
+    ],
+    "altSpellings": [
+      "TL",
+      "East Timor",
+      "Democratic Republic of Timor-Leste",
+      "República Democrática de Timor-Leste",
+      "Repúblika Demokrátika Timór-Leste",
+      "Timór Lorosa'e",
+      "Timor Lorosae"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    },
+    "translations": {
+      "jpn": {
+        "official": "東ティモール民主共和国",
+        "common": "東ティモール"
+      },
+      "zho": {
+        "official": "東帝汶民主共和國",
+        "common": "東帝汶"
+      }
+    },
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "IDN"
+    ],
+    "area": 14874.0,
+    "demonyms": {
+      "eng": {
+        "f": "East Timorese",
+        "m": "East Timorese"
+      },
+      "fra": {
+        "f": "Est-timoraise",
+        "m": "Est-timorais"
+      }
+    },
+    "flag": "🇹🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+    },
+    "population": 1318442,
+    "gini": {
+      "2014": 28.7
+    },
+    "fifa": "TLS",
+    "car": {
+      "signs": [
+        "TL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tl.png",
+      "svg": "https://flagcdn.com/tl.svg",
+      "alt": "The flag of Timor-Leste has a red field with two isosceles triangles which share a common base on the hoist end. The smaller black triangle, which bears a five-pointed white star at its center and spans one-third the width of the field, is superimposed on the larger yellow triangle that extends to the center of the field."
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -8.58,
+        125.6
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam",
+      "nativeName": {
+        "vie": {
+          "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "common": "Việt Nam"
+        }
+      }
+    },
+    "tld": [
+      ".vn"
+    ],
+    "cca2": "VN",
+    "ccn3": "704",
+    "cca3": "VNM",
+    "cioc": "VIE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Hanoi"
+    ],
+    "altSpellings": [
+      "VN",
+      "Socialist Republic of Vietnam",
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+      "Viet Nam"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ベトナム社会主義共和国",
+        "common": "ベトナム"
+      },
+      "zho": {
+        "official": "越南社會主義共和國",
+        "common": "越南"
+      }
+    },
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "area": 331212.0,
+    "demonyms": {
+      "eng": {
+        "f": "Vietnamese",
+        "m": "Vietnamese"
+      },
+      "fra": {
+        "f": "Vietnamienne",
+        "m": "Vietnamien"
+      }
+    },
+    "flag": "🇻🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
+    },
+    "population": 97338583,
+    "gini": {
+      "2018": 35.7
+    },
+    "fifa": "VIE",
+    "car": {
+      "signs": [
+        "VN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vn.png",
+      "svg": "https://flagcdn.com/vn.svg",
+      "alt": "The flag of Vietnam features a large five-pointed yellow star on a red field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        21.03,
+        105.85
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "nativeName": {
+        "khm": {
+          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "common": "Kâmpŭchéa"
+        }
+      }
+    },
+    "tld": [
+      ".kh"
+    ],
+    "cca2": "KH",
+    "ccn3": "116",
+    "cca3": "KHM",
+    "cioc": "CAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KHR": {
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "55"
+      ]
+    },
+    "capital": [
+      "Phnom Penh"
+    ],
+    "altSpellings": [
+      "KH",
+      "Kingdom of Cambodia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "khm": "Khmer"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カンボジア王国",
+        "common": "カンボジア"
+      },
+      "zho": {
+        "official": "柬埔寨王國",
+        "common": "柬埔寨"
+      }
+    },
+    "latlng": [
+      13.0,
+      105.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "area": 181035.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cambodian",
+        "m": "Cambodian"
+      },
+      "fra": {
+        "f": "Cambodgienne",
+        "m": "Cambodgien"
+      }
+    },
+    "flag": "🇰🇭",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49898"
+    },
+    "population": 16718971,
+    "fifa": "CAM",
+    "car": {
+      "signs": [
+        "K"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kh.png",
+      "svg": "https://flagcdn.com/kh.svg",
+      "alt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        11.55,
+        104.92
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq",
+      "nativeName": {
+        "ara": {
+          "official": "جمهورية العراق",
+          "common": "العراق"
+        },
+        "arc": {
+          "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+          "common": "ܩܘܼܛܢܵܐ"
+        },
+        "ckb": {
+          "official": "کۆماری عێراق",
+          "common": "کۆماری"
+        }
+      }
+    },
+    "tld": [
+      ".iq"
+    ],
+    "cca2": "IQ",
+    "ccn3": "368",
+    "cca3": "IRQ",
+    "cioc": "IRQ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "IQD": {
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "64"
+      ]
+    },
+    "capital": [
+      "Baghdad"
+    ],
+    "altSpellings": [
+      "IQ",
+      "Republic of Iraq",
+      "Jumhūriyyat al-‘Irāq"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    },
+    "translations": {
+      "jpn": {
+        "official": "イラク共和国",
+        "common": "イラク"
+      },
+      "zho": {
+        "official": "伊拉克共和國",
+        "common": "伊拉克"
+      }
+    },
+    "latlng": [
+      33.0,
+      44.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "area": 438317.0,
+    "demonyms": {
+      "eng": {
+        "f": "Iraqi",
+        "m": "Iraqi"
+      },
+      "fra": {
+        "f": "Irakienne",
+        "m": "Irakien"
+      }
+    },
+    "flag": "🇮🇶",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304934"
+    },
+    "population": 40222503,
+    "gini": {
+      "2012": 29.5
+    },
+    "fifa": "IRQ",
+    "car": {
+      "signs": [
+        "IRQ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/iq.png",
+      "svg": "https://flagcdn.com/iq.svg",
+      "alt": "The flag of Iraq is composed of three equal horizontal bands of red, white and black. In the central white band are Arabic inscriptions in green."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/iq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/iq.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        33.33,
+        44.4
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "nativeName": {
+        "msa": {
+          "official": "Nation of Brunei, Abode Damai",
+          "common": "Negara Brunei Darussalam"
+        }
+      }
+    },
+    "tld": [
+      ".bn"
+    ],
+    "cca2": "BN",
+    "ccn3": "096",
+    "cca3": "BRN",
+    "cioc": "BRU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BND": {
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "73"
+      ]
+    },
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "altSpellings": [
+      "BN",
+      "Brunei Darussalam",
+      "Nation of Brunei",
+      "the Abode of Peace"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "msa": "Malay"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブルネイ、平和の精舎の国家",
+        "common": "ブルネイ・ダルサラーム"
+      },
+      "zho": {
+        "official": "文萊和平之國",
+        "common": "文萊"
+      }
+    },
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "MYS"
+    ],
+    "area": 5765.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bruneian",
+        "m": "Bruneian"
+      },
+      "fra": {
+        "f": "Brunéienne",
+        "m": "Brunéien"
+      }
+    },
+    "flag": "🇧🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2103120"
+    },
+    "population": 437483,
+    "fifa": "BRU",
+    "car": {
+      "signs": [
+        "BRU"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bn.png",
+      "svg": "https://flagcdn.com/bn.svg",
+      "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.88,
+        114.93
+      ]
+    },
+    "postalCode": {
+      "format": "@@####",
+      "regex": "^([A-Z]{2}\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic",
+      "nativeName": {
+        "kir": {
+          "official": "Кыргыз Республикасы",
+          "common": "Кыргызстан"
+        },
+        "rus": {
+          "official": "Кыргызская Республика",
+          "common": "Киргизия"
+        }
+      }
+    },
+    "tld": [
+      ".kg"
+    ],
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "cioc": "KGZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KGS": {
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "96"
+      ]
+    },
+    "capital": [
+      "Bishkek"
+    ],
+    "altSpellings": [
+      "KG",
+      "Киргизия",
+      "Kyrgyz Republic",
+      "Кыргыз Республикасы",
+      "Kyrgyz Respublikasy"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "キルギス共和国",
+        "common": "キルギス"
+      },
+      "zho": {
+        "official": "吉爾吉斯斯坦共和國",
+        "common": "吉爾吉斯斯坦"
+      }
+    },
+    "latlng": [
+      41.0,
+      75.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "area": 199951.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kirghiz",
+        "m": "Kirghiz"
+      },
+      "fra": {
+        "f": "Kirghize",
+        "m": "Kirghize"
+      }
+    },
+    "flag": "🇰🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/178009"
+    },
+    "population": 6591600,
+    "gini": {
+      "2019": 29.7
+    },
+    "fifa": "KGZ",
+    "car": {
+      "signs": [
+        "KS"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kg.png",
+      "svg": "https://flagcdn.com/kg.svg",
+      "alt": "The flag of Kyrgyzstan features a yellow sun with forty rays at the center of a red field. At the center of the sun is a stylized depiction of a tunduk."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        42.87,
+        74.6
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan",
+      "nativeName": {
+        "aze": {
+          "official": "Azərbaycan Respublikası",
+          "common": "Azərbaycan"
+        }
+      }
+    },
+    "tld": [
+      ".az"
+    ],
+    "cca2": "AZ",
+    "ccn3": "031",
+    "cca3": "AZE",
+    "cioc": "AZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "AZN": {
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "94"
+      ]
+    },
+    "capital": [
+      "Baku"
+    ],
+    "altSpellings": [
+      "AZ",
+      "Republic of Azerbaijan",
+      "Azərbaycan Respublikası"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "aze": "Azerbaijani"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アゼルバイジャン共和国",
+        "common": "アゼルバイジャン"
+      },
+      "zho": {
+        "official": "阿塞拜疆共和國",
+        "common": "阿塞拜疆"
+      }
+    },
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "area": 86600.0,
+    "demonyms": {
+      "eng": {
+        "f": "Azerbaijani",
+        "m": "Azerbaijani"
+      },
+      "fra": {
+        "f": "Azerbaïdjanaise",
+        "m": "Azerbaïdjanais"
+      }
+    },
+    "flag": "🇦🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+    },
+    "population": 10110116,
+    "gini": {
+      "2005": 26.6
+    },
+    "fifa": "AZE",
+    "car": {
+      "signs": [
+        "AZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/az.png",
+      "svg": "https://flagcdn.com/az.svg",
+      "alt": "The flag of Azerbaijan features three equal horizontal bands of blue, red and green, with a white fly-side facing crescent and eight-pointed star centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/az.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        40.38,
+        49.87
+      ]
+    },
+    "postalCode": {
+      "format": "AZ ####",
+      "regex": "^(?:AZ)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+      "nativeName": {
+        "eng": {
+          "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+          "common": "Hong Kong"
+        },
+        "zho": {
+          "official": "中华人民共和国香港特别行政区",
+          "common": "香港"
+        }
+      }
+    },
+    "tld": [
+      ".hk",
+      ".香港"
+    ],
+    "cca2": "HK",
+    "ccn3": "344",
+    "cca3": "HKG",
+    "cioc": "HKG",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "HKD": {
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "52"
+      ]
+    },
+    "capital": [
+      "City of Victoria"
+    ],
+    "altSpellings": [
+      "HK"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "中華人民共和国香港特別行政区",
+        "common": "香港"
+      }
+    },
+    "latlng": [
+      22.267,
+      114.188
+    ],
+    "landlocked": false,
+    "borders": [
+      "CHN"
+    ],
+    "area": 1104.0,
+    "demonyms": {
+      "eng": {
+        "f": "Hong Konger",
+        "m": "Hong Konger"
+      },
+      "fra": {
+        "f": "Hongkongaise",
+        "m": "Hongkongais"
+      }
+    },
+    "flag": "🇭🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
+    },
+    "population": 7500700,
+    "fifa": "HKG",
+    "car": {
+      "signs": [
+        "HK"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hk.png",
+      "svg": "https://flagcdn.com/hk.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        22.267,
+        114.188
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "tld": [
+      ".my"
+    ],
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "cioc": "MAS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "altSpellings": [
+      "MY"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マレーシア",
+        "common": "マレーシア"
+      },
+      "zho": {
+        "official": "馬來西亞",
+        "common": "馬來西亞"
+      }
+    },
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "area": 330803.0,
+    "demonyms": {
+      "eng": {
+        "f": "Malaysian",
+        "m": "Malaysian"
+      },
+      "fra": {
+        "f": "Malaisienne",
+        "m": "Malaisien"
+      }
+    },
+    "flag": "🇲🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+    },
+    "population": 32365998,
+    "gini": {
+      "2015": 41.1
+    },
+    "fifa": "MAS",
+    "car": {
+      "signs": [
+        "MAL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/my.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        3.17,
+        101.7
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia",
+      "nativeName": {
+        "mon": {
+          "official": "Монгол улс",
+          "common": "Монгол улс"
+        }
+      }
+    },
+    "tld": [
+      ".mn"
+    ],
+    "cca2": "MN",
+    "ccn3": "496",
+    "cca3": "MNG",
+    "cioc": "MGL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MNT": {
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "76"
+      ]
+    },
+    "capital": [
+      "Ulan Bator"
+    ],
+    "altSpellings": [
+      "MN"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "mon": "Mongolian"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モンゴル",
+        "common": "モンゴル"
+      },
+      "zho": {
+        "official": "蒙古",
+        "common": "蒙古"
+      }
+    },
+    "latlng": [
+      46.0,
+      105.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "area": 1564110.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mongolian",
+        "m": "Mongolian"
+      },
+      "fra": {
+        "f": "Mongole",
+        "m": "Mongol"
+      }
+    },
+    "flag": "🇲🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/161033"
+    },
+    "population": 3278292,
+    "gini": {
+      "2018": 32.7
+    },
+    "fifa": "MNG",
+    "car": {
+      "signs": [
+        "MGL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mn.png",
+      "svg": "https://flagcdn.com/mn.svg",
+      "alt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        47.92,
+        106.91
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة العربية السعودية",
+          "common": "العربية السعودية"
+        }
+      }
+    },
+    "tld": [
+      ".sa",
+      ".السعودية"
+    ],
+    "cca2": "SA",
+    "ccn3": "682",
+    "cca3": "SAU",
+    "cioc": "KSA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SAR": {
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "66"
+      ]
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "altSpellings": [
+      "Saudi",
+      "SA",
+      "Kingdom of Saudi Arabia",
+      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サウジアラビア王国",
+        "common": "サウジアラビア"
+      },
+      "zho": {
+        "official": "沙特阿拉伯王國",
+        "common": "沙特阿拉伯"
+      }
+    },
+    "latlng": [
+      25.0,
+      45.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "area": 2149690.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saudi Arabian",
+        "m": "Saudi Arabian"
+      },
+      "fra": {
+        "f": "Saoudienne",
+        "m": "Saoudien"
+      }
+    },
+    "flag": "🇸🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
+    },
+    "population": 34813867,
+    "fifa": "KSA",
+    "car": {
+      "signs": [
+        "SA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sa.png",
+      "svg": "https://flagcdn.com/sa.svg",
+      "alt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sa.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        24.65,
+        46.7
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan",
+      "nativeName": {
+        "rus": {
+          "official": "Туркменистан",
+          "common": "Туркмения"
+        },
+        "tuk": {
+          "official": "Türkmenistan",
+          "common": "Türkmenistan"
+        }
+      }
+    },
+    "tld": [
+      ".tm"
+    ],
+    "cca2": "TM",
+    "ccn3": "795",
+    "cca3": "TKM",
+    "cioc": "TKM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TMT": {
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "93"
+      ]
+    },
+    "capital": [
+      "Ashgabat"
+    ],
+    "altSpellings": [
+      "TM"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    },
+    "translations": {
+      "jpn": {
+        "official": "トルクメニスタン",
+        "common": "トルクメニスタン"
+      },
+      "zho": {
+        "official": "土庫曼斯坦",
+        "common": "土庫曼斯坦"
+      }
+    },
+    "latlng": [
+      40.0,
+      60.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "area": 488100.0,
+    "demonyms": {
+      "eng": {
+        "f": "Turkmen",
+        "m": "Turkmen"
+      },
+      "fra": {
+        "f": "Turkmène",
+        "m": "Turkmène"
+      }
+    },
+    "flag": "🇹🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+    },
+    "population": 6031187,
+    "gini": {
+      "1998": 40.8
+    },
+    "fifa": "TKM",
+    "car": {
+      "signs": [
+        "TM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tm.png",
+      "svg": "https://flagcdn.com/tm.svg",
+      "alt": "The flag of Turkmenistan has a green field. It features a red vertical band, bearing five carpet guls stacked above two crossed olive branches, near the hoist end of the field. Just to the fly side of the vertical band near the top edge of the field is a hoist-side facing white crescent and five small five-pointed white stars placed just outside the crescent opening."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        37.95,
+        58.38
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "nativeName": {
+        "kor": {
+          "official": "조선민주주의인민공화국",
+          "common": "조선"
+        }
+      }
+    },
+    "tld": [
+      ".kp"
+    ],
+    "cca2": "KP",
+    "ccn3": "408",
+    "cca3": "PRK",
+    "cioc": "PRK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "KPW": {
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "50"
+      ]
+    },
+    "capital": [
+      "Pyongyang"
+    ],
+    "altSpellings": [
+      "KP",
+      "Democratic People's Republic of Korea",
+      "DPRK",
+      "조선민주주의인민공화국",
+      "Chosŏn Minjujuŭi Inmin Konghwaguk",
+      "Korea, Democratic People's Republic of",
+      "북한",
+      "북조선"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "kor": "Korean"
+    },
+    "translations": {
+      "jpn": {
+        "official": "朝鮮民主主義人民共和国",
+        "common": "朝鮮民主主義人民共和国"
+      },
+      "zho": {
+        "official": "朝鮮人民民主共和國",
+        "common": "朝鮮"
+      }
+    },
+    "latlng": [
+      40.0,
+      127.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "area": 120538.0,
+    "demonyms": {
+      "eng": {
+        "f": "North Korean",
+        "m": "North Korean"
+      },
+      "fra": {
+        "f": "Nord-coréenne",
+        "m": "Nord-coréen"
+      }
+    },
+    "flag": "🇰🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192734"
+    },
+    "population": 25778815,
+    "fifa": "PRK",
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kp.png",
+      "svg": "https://flagcdn.com/kp.svg",
+      "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kp.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        39.02,
+        125.75
+      ]
+    },
+    "postalCode": {
+      "format": "###-###",
+      "regex": "^(\\d{6})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel",
+      "nativeName": {
+        "ara": {
+          "official": "دولة إسرائيل",
+          "common": "إسرائيل"
+        },
+        "heb": {
+          "official": "מדינת ישראל",
+          "common": "ישראל"
+        }
+      }
+    },
+    "tld": [
+      ".il"
+    ],
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "cioc": "ISR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "72"
+      ]
+    },
+    "capital": [
+      "Jerusalem"
+    ],
+    "altSpellings": [
+      "IL",
+      "State of Israel",
+      "Medīnat Yisrā'el"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "translations": {
+      "jpn": {
+        "official": "イスラエル国",
+        "common": "イスラエル"
+      },
+      "zho": {
+        "official": "以色列國",
+        "common": "以色列"
+      }
+    },
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "landlocked": false,
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "area": 20770.0,
+    "demonyms": {
+      "eng": {
+        "f": "Israeli",
+        "m": "Israeli"
+      },
+      "fra": {
+        "f": "Israélienne",
+        "m": "Israélien"
+      }
+    },
+    "flag": "🇮🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    },
+    "population": 9216900,
+    "gini": {
+      "2016": 39.0
+    },
+    "fifa": "ISR",
+    "car": {
+      "signs": [
+        "IL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg",
+      "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        31.77,
+        35.23
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman",
+      "nativeName": {
+        "ara": {
+          "official": "سلطنة عمان",
+          "common": "عمان"
+        }
+      }
+    },
+    "tld": [
+      ".om"
+    ],
+    "cca2": "OM",
+    "ccn3": "512",
+    "cca3": "OMN",
+    "cioc": "OMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "OMR": {
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    },
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "capital": [
+      "Muscat"
+    ],
+    "altSpellings": [
+      "OM",
+      "Sultanate of Oman",
+      "Salṭanat ʻUmān"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "オマーン·スルタン国",
+        "common": "オマーン"
+      },
+      "zho": {
+        "official": "阿曼蘇丹國",
+        "common": "阿曼"
+      }
+    },
+    "latlng": [
+      21.0,
+      57.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "area": 309500.0,
+    "demonyms": {
+      "eng": {
+        "f": "Omani",
+        "m": "Omani"
+      },
+      "fra": {
+        "f": "Omanaise",
+        "m": "Omanais"
+      }
+    },
+    "flag": "🇴🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/305138"
+    },
+    "population": 5106622,
+    "fifa": "OMA",
+    "car": {
+      "signs": [
+        "OM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/om.png",
+      "svg": "https://flagcdn.com/om.svg",
+      "alt": "The flag of Oman features a red vertical band on the hoist side that takes up about one-fourth the width of the field, and three equal horizontal bands of white, red and green adjoining the vertical band. At the top of the vertical band is the white emblem of Oman."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/om.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/om.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        23.62,
+        58.58
+      ]
+    },
+    "postalCode": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China",
+      "nativeName": {
+        "por": {
+          "official": "Região Administrativa Especial de Macau da República Popular da China",
+          "common": "Macau"
+        },
+        "zho": {
+          "official": "中华人民共和国澳门特别行政区",
+          "common": "澳门"
+        }
+      }
+    },
+    "tld": [
+      ".mo"
+    ],
+    "cca2": "MO",
+    "ccn3": "446",
+    "cca3": "MAC",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "MOP": {
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    },
+    "idd": {
+      "root": "+8",
+      "suffixes": [
+        "53"
+      ]
+    },
+    "altSpellings": [
+      "MO",
+      "澳门",
+      "Macao",
+      "Macao Special Administrative Region of the People's Republic of China",
+      "中華人民共和國澳門特別行政區",
+      "Região Administrativa Especial de Macau da República Popular da China"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "中華人民共和国マカオ特別行政区",
+        "common": "マカオ"
+      },
+      "zho": {
+        "official": "中華人民共和国澳門特別行政区",
+        "common": "澳門"
+      }
+    },
+    "latlng": [
+      22.16666666,
+      113.55
+    ],
+    "landlocked": false,
+    "borders": [
+      "CHN"
+    ],
+    "area": 30.0,
+    "demonyms": {
+      "eng": {
+        "f": "Macanese",
+        "m": "Macanese"
+      },
+      "fra": {
+        "f": "Macanaise",
+        "m": "Macanais"
+      }
+    },
+    "flag": "🇲🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
+    },
+    "population": 649342,
+    "fifa": "MAC",
+    "car": {
+      "signs": [
+        "MO"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mo.png",
+      "svg": "https://flagcdn.com/mo.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mo.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {}
+  }
+]

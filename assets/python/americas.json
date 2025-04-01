@@ -1,0 +1,6712 @@
+[
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "tld": [
+      ".co"
+    ],
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "cioc": "COL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "7"
+      ]
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コロンビア共和国",
+        "common": "コロンビア"
+      },
+      "zho": {
+        "official": "哥倫比亞共和國",
+        "common": "哥倫比亞"
+      }
+    },
+    "latlng": [
+      4.0,
+      -72.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748.0,
+    "demonyms": {
+      "eng": {
+        "f": "Colombian",
+        "m": "Colombian"
+      },
+      "fra": {
+        "f": "Colombienne",
+        "m": "Colombien"
+      }
+    },
+    "flag": "🇨🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    },
+    "population": 50882884,
+    "gini": {
+      "2019": 51.3
+    },
+    "fifa": "COL",
+    "car": {
+      "signs": [
+        "CO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.71,
+        -74.07
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Curaçao",
+      "official": "Country of Curaçao",
+      "nativeName": {
+        "eng": {
+          "official": "Country of Curaçao",
+          "common": "Curaçao"
+        },
+        "nld": {
+          "official": "Land Curaçao",
+          "common": "Curaçao"
+        },
+        "pap": {
+          "official": "Pais Kòrsou",
+          "common": "Pais Kòrsou"
+        }
+      }
+    },
+    "tld": [
+      ".cw"
+    ],
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "99"
+      ]
+    },
+    "capital": [
+      "Willemstad"
+    ],
+    "altSpellings": [
+      "CW",
+      "Curacao",
+      "Kòrsou",
+      "Country of Curaçao",
+      "Land Curaçao",
+      "Pais Kòrsou"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "translations": {
+      "zho": {
+        "official": "庫拉索",
+        "common": "庫拉索"
+      }
+    },
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "landlocked": false,
+    "area": 444.0,
+    "demonyms": {
+      "eng": {
+        "f": "Curaçaoan",
+        "m": "Curaçaoan"
+      },
+      "fra": {
+        "f": "Curacienne",
+        "m": "Curacien"
+      }
+    },
+    "flag": "🇨🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
+    },
+    "population": 155014,
+    "fifa": "CUW",
+    "car": {
+      "signs": [
+        "CW"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cw.png",
+      "svg": "https://flagcdn.com/cw.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.1,
+        -68.92
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana",
+      "nativeName": {
+        "fra": {
+          "official": "Guyane",
+          "common": "Guyane française"
+        }
+      }
+    },
+    "tld": [
+      ".gf"
+    ],
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "94"
+      ]
+    },
+    "capital": [
+      "Cayenne"
+    ],
+    "altSpellings": [
+      "GF",
+      "Guiana",
+      "Guyane"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ギアナ",
+        "common": "フランス領ギアナ"
+      },
+      "zho": {
+        "official": "法屬圭亞那",
+        "common": "法屬圭亞那"
+      }
+    },
+    "latlng": [
+      4.0,
+      -53.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "area": 83534.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guianan",
+        "m": "Guianan"
+      },
+      "fra": {
+        "f": "Guyanaise",
+        "m": "Guyanais"
+      }
+    },
+    "flag": "🇬🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
+    },
+    "population": 254541,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gf.png",
+      "svg": "https://flagcdn.com/gf.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gf.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        4.94,
+        -52.33
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)3\\d{2})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada",
+      "nativeName": {
+        "eng": {
+          "official": "Grenada",
+          "common": "Grenada"
+        }
+      }
+    },
+    "tld": [
+      ".gd"
+    ],
+    "cca2": "GD",
+    "ccn3": "308",
+    "cca3": "GRD",
+    "cioc": "GRN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "473"
+      ]
+    },
+    "capital": [
+      "St. George's"
+    ],
+    "altSpellings": [
+      "GD"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "グレナダ",
+        "common": "グレナダ"
+      },
+      "zho": {
+        "official": "格林納達",
+        "common": "格林納達"
+      }
+    },
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "landlocked": false,
+    "area": 344.0,
+    "demonyms": {
+      "eng": {
+        "f": "Grenadian",
+        "m": "Grenadian"
+      },
+      "fra": {
+        "f": "Grenadienne",
+        "m": "Grenadien"
+      }
+    },
+    "flag": "🇬🇩",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550727"
+    },
+    "population": 112519,
+    "fifa": "GRN",
+    "car": {
+      "signs": [
+        "WG"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gd.png",
+      "svg": "https://flagcdn.com/gd.svg",
+      "alt": "The flag of Grenada features a large central rectangular area surrounded by a red border, with three five-pointed yellow stars centered on the top and bottom borders. The central rectangle is divided diagonally into four alternating triangular areas of yellow at the top and bottom and green on the hoist and fly sides, and a five-pointed yellow star on a red circle is superimposed at its center. A symbolic nutmeg pod is situated on the green hoist-side triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        32.38,
+        -64.68
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten",
+      "nativeName": {
+        "eng": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        },
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "nld": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        }
+      }
+    },
+    "tld": [
+      ".sx"
+    ],
+    "cca2": "SX",
+    "ccn3": "534",
+    "cca3": "SXM",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "721"
+      ]
+    },
+    "capital": [
+      "Philipsburg"
+    ],
+    "altSpellings": [
+      "SX",
+      "Sint Maarten (Dutch part)"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "translations": {
+      "jpn": {
+        "official": "シントマールテン島",
+        "common": "シント・マールテン"
+      },
+      "zho": {
+        "official": "聖馬丁島",
+        "common": "聖馬丁島"
+      }
+    },
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "landlocked": false,
+    "borders": [
+      "MAF"
+    ],
+    "area": 34.0,
+    "demonyms": {
+      "eng": {
+        "f": "St. Maartener",
+        "m": "St. Maartener"
+      },
+      "fra": {
+        "f": "Saint-Martinoise",
+        "m": "Saint-Martinois"
+      }
+    },
+    "flag": "🇸🇽",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1231790"
+    },
+    "population": 40812,
+    "car": {
+      "signs": [
+        "SX"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sx.png",
+      "svg": "https://flagcdn.com/sx.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.02,
+        -63.03
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "tld": [
+      ".ar"
+    ],
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "cioc": "ARG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Buenos Aires"
+    ],
+    "altSpellings": [
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アルゼンチン共和国",
+        "common": "アルゼンチン"
+      },
+      "zho": {
+        "official": "阿根廷共和國",
+        "common": "阿根廷"
+      }
+    },
+    "latlng": [
+      -34.0,
+      -64.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400.0,
+    "demonyms": {
+      "eng": {
+        "f": "Argentine",
+        "m": "Argentine"
+      },
+      "fra": {
+        "f": "Argentine",
+        "m": "Argentin"
+      }
+    },
+    "flag": "🇦🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+    },
+    "population": 45376763,
+    "gini": {
+      "2019": 42.9
+    },
+    "fifa": "ARG",
+    "car": {
+      "signs": [
+        "RA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -34.58,
+        -58.67
+      ]
+    },
+    "postalCode": {
+      "format": "@####@@@",
+      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Turks and Caicos Islands",
+          "common": "Turks and Caicos Islands"
+        }
+      }
+    },
+    "tld": [
+      ".tc"
+    ],
+    "cca2": "TC",
+    "ccn3": "796",
+    "cca3": "TCA",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "649"
+      ]
+    },
+    "capital": [
+      "Cockburn Town"
+    ],
+    "altSpellings": [
+      "TC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "タークス·カイコス諸島",
+        "common": "タークス・カイコス諸島"
+      },
+      "zho": {
+        "official": "特克斯和凱科斯羣島",
+        "common": "特克斯和凱科斯羣島"
+      }
+    },
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "landlocked": false,
+    "area": 948.0,
+    "demonyms": {
+      "eng": {
+        "f": "Turks and Caicos Islander",
+        "m": "Turks and Caicos Islander"
+      }
+    },
+    "flag": "🇹🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547479"
+    },
+    "population": 38718,
+    "fifa": "TCA",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tc.png",
+      "svg": "https://flagcdn.com/tc.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        21.46,
+        -71.14
+      ]
+    },
+    "postalCode": {
+      "format": "TKCA 1ZZ",
+      "regex": "^(TKCA 1ZZ)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of Dominica",
+          "common": "Dominica"
+        }
+      }
+    },
+    "tld": [
+      ".dm"
+    ],
+    "cca2": "DM",
+    "ccn3": "212",
+    "cca3": "DMA",
+    "cioc": "DMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "767"
+      ]
+    },
+    "capital": [
+      "Roseau"
+    ],
+    "altSpellings": [
+      "DM",
+      "Dominique",
+      "Wai‘tu kubuli",
+      "Commonwealth of Dominica"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ドミニカ国",
+        "common": "ドミニカ国"
+      },
+      "zho": {
+        "official": "多米尼加共和國",
+        "common": "多米尼加"
+      }
+    },
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "landlocked": false,
+    "area": 751.0,
+    "demonyms": {
+      "eng": {
+        "f": "Dominican",
+        "m": "Dominican"
+      },
+      "fra": {
+        "f": "Dominiquaise",
+        "m": "Dominiquais"
+      }
+    },
+    "flag": "🇩🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+    },
+    "population": 71991,
+    "fifa": "DMA",
+    "car": {
+      "signs": [
+        "WD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dm.png",
+      "svg": "https://flagcdn.com/dm.svg",
+      "alt": "The flag of Dominica has a green field with a large centered tricolor cross. The vertical and horizontal parts of the cross each comprise three bands of yellow, black and white. A red circle, bearing a hoist-side facing purple Sisserou parrot standing on a twig and encircled by ten five-pointed yellow-edged green stars, is superimposed at the center of the cross."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        15.3,
+        -61.4
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands",
+      "nativeName": {
+        "eng": {
+          "official": "United States Minor Outlying Islands",
+          "common": "United States Minor Outlying Islands"
+        }
+      }
+    },
+    "tld": [
+      ".us"
+    ],
+    "cca2": "UM",
+    "ccn3": "581",
+    "cca3": "UMI",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "capital": [
+      "Washington DC"
+    ],
+    "altSpellings": [
+      "UM"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アメリカ合衆国外諸島",
+        "common": "合衆国領有小離島"
+      },
+      "zho": {
+        "official": "美國本土外小島嶼",
+        "common": "美國本土外小島嶼"
+      }
+    },
+    "latlng": [
+      19.3,
+      166.633333
+    ],
+    "landlocked": false,
+    "area": 34.2,
+    "demonyms": {
+      "eng": {
+        "f": "American Islander",
+        "m": "American Islander"
+      }
+    },
+    "flag": "🇺🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
+    },
+    "population": 300,
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/um.png",
+      "svg": "https://flagcdn.com/um.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {}
+  },
+  {
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica",
+      "nativeName": {
+        "spa": {
+          "official": "República de Costa Rica",
+          "common": "Costa Rica"
+        }
+      }
+    },
+    "tld": [
+      ".cr"
+    ],
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "cioc": "CRC",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CRC": {
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "06"
+      ]
+    },
+    "capital": [
+      "San José"
+    ],
+    "altSpellings": [
+      "CR",
+      "Republic of Costa Rica",
+      "República de Costa Rica"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "コスタリカ共和国",
+        "common": "コスタリカ"
+      },
+      "zho": {
+        "official": "哥斯達黎加共和國",
+        "common": "哥斯達黎加"
+      }
+    },
+    "latlng": [
+      10.0,
+      -84.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "area": 51100.0,
+    "demonyms": {
+      "eng": {
+        "f": "Costa Rican",
+        "m": "Costa Rican"
+      },
+      "fra": {
+        "f": "Costaricaine",
+        "m": "Costaricain"
+      }
+    },
+    "flag": "🇨🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+    },
+    "population": 5094114,
+    "gini": {
+      "2019": 48.2
+    },
+    "fifa": "CRC",
+    "car": {
+      "signs": [
+        "CR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cr.png",
+      "svg": "https://flagcdn.com/cr.svg",
+      "alt": "The flag of Costa Rica is composed of five horizontal bands of blue, white, red, white and blue. The central red band is twice the height of the other four bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        9.93,
+        -84.09
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti",
+      "nativeName": {
+        "fra": {
+          "official": "République d'Haïti",
+          "common": "Haïti"
+        },
+        "hat": {
+          "official": "Repiblik Ayiti",
+          "common": "Ayiti"
+        }
+      }
+    },
+    "tld": [
+      ".ht"
+    ],
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "cioc": "HAI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "HTG": {
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "09"
+      ]
+    },
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "altSpellings": [
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ハイチ共和国",
+        "common": "ハイチ"
+      },
+      "zho": {
+        "official": "海地共和國",
+        "common": "海地"
+      }
+    },
+    "latlng": [
+      19.0,
+      -72.41666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "DOM"
+    ],
+    "area": 27750.0,
+    "demonyms": {
+      "eng": {
+        "f": "Haitian",
+        "m": "Haitian"
+      },
+      "fra": {
+        "f": "Haïtienne",
+        "m": "Haïtien"
+      }
+    },
+    "flag": "🇭🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307829"
+    },
+    "population": 11402533,
+    "gini": {
+      "2012": 41.1
+    },
+    "fifa": "HAI",
+    "car": {
+      "signs": [
+        "RH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ht.png",
+      "svg": "https://flagcdn.com/ht.svg",
+      "alt": "The flag of Haiti is composed of two equal horizontal bands of blue and red. A white square bearing the national coat of arms is superimposed at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ht.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ht.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.53,
+        -72.33
+      ]
+    },
+    "postalCode": {
+      "format": "HT####",
+      "regex": "^(?:HT)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados",
+      "nativeName": {
+        "eng": {
+          "official": "Barbados",
+          "common": "Barbados"
+        }
+      }
+    },
+    "tld": [
+      ".bb"
+    ],
+    "cca2": "BB",
+    "ccn3": "052",
+    "cca3": "BRB",
+    "cioc": "BAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BBD": {
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "246"
+      ]
+    },
+    "capital": [
+      "Bridgetown"
+    ],
+    "altSpellings": [
+      "BB"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バルバドス",
+        "common": "バルバドス"
+      },
+      "zho": {
+        "official": "巴巴多斯",
+        "common": "巴巴多斯"
+      }
+    },
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "landlocked": false,
+    "area": 430.0,
+    "demonyms": {
+      "eng": {
+        "f": "Barbadian",
+        "m": "Barbadian"
+      },
+      "fra": {
+        "f": "Barbadienne",
+        "m": "Barbadien"
+      }
+    },
+    "flag": "🇧🇧",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
+    },
+    "population": 287371,
+    "fifa": "BRB",
+    "car": {
+      "signs": [
+        "BDS"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bb.png",
+      "svg": "https://flagcdn.com/bb.svg",
+      "alt": "The flag of Barbados is composed of three equal vertical bands of ultramarine, gold and ultramarine. The head of a black trident is centered in the gold band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.1,
+        -59.62
+      ]
+    },
+    "postalCode": {
+      "format": "BB#####",
+      "regex": "^(?:BB)*(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras",
+      "nativeName": {
+        "spa": {
+          "official": "República de Honduras",
+          "common": "Honduras"
+        }
+      }
+    },
+    "tld": [
+      ".hn"
+    ],
+    "cca2": "HN",
+    "ccn3": "340",
+    "cca3": "HND",
+    "cioc": "HON",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "HNL": {
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "04"
+      ]
+    },
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "altSpellings": [
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ホンジュラス共和国",
+        "common": "ホンジュラス"
+      },
+      "zho": {
+        "official": "洪都拉斯共和國",
+        "common": "洪都拉斯"
+      }
+    },
+    "latlng": [
+      15.0,
+      -86.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "area": 112492.0,
+    "demonyms": {
+      "eng": {
+        "f": "Honduran",
+        "m": "Honduran"
+      },
+      "fra": {
+        "f": "Hondurienne",
+        "m": "Hondurien"
+      }
+    },
+    "flag": "🇭🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+    },
+    "population": 9904608,
+    "gini": {
+      "2019": 48.2
+    },
+    "fifa": "HON",
+    "car": {
+      "signs": [
+        "HN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hn.png",
+      "svg": "https://flagcdn.com/hn.svg",
+      "alt": "The flag of Honduras is composed of three equal horizontal bands of turquoise, white and turquoise, with five small five-pointed turquoise stars arranged in a quincuncial pattern at the center of the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.1,
+        -87.22
+      ]
+    },
+    "postalCode": {
+      "format": "@@####",
+      "regex": "^([A-Z]{2}\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of Puerto Rico",
+          "common": "Puerto Rico"
+        },
+        "spa": {
+          "official": "Estado Libre Asociado de Puerto Rico",
+          "common": "Puerto Rico"
+        }
+      }
+    },
+    "tld": [
+      ".pr"
+    ],
+    "cca2": "PR",
+    "ccn3": "630",
+    "cca3": "PRI",
+    "cioc": "PUR",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "787",
+        "939"
+      ]
+    },
+    "capital": [
+      "San Juan"
+    ],
+    "altSpellings": [
+      "PR",
+      "Commonwealth of Puerto Rico",
+      "Estado Libre Asociado de Puerto Rico"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "プエルトリコのコモンウェルス",
+        "common": "プエルトリコ"
+      },
+      "zho": {
+        "official": "波多黎各聯邦",
+        "common": "波多黎各"
+      }
+    },
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "landlocked": false,
+    "area": 8870.0,
+    "demonyms": {
+      "eng": {
+        "f": "Puerto Rican",
+        "m": "Puerto Rican"
+      },
+      "fra": {
+        "f": "Portoricaine",
+        "m": "Portoricain"
+      }
+    },
+    "flag": "🇵🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
+    },
+    "population": 3194034,
+    "fifa": "PUR",
+    "car": {
+      "signs": [
+        "USA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pr.png",
+      "svg": "https://flagcdn.com/pr.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.47,
+        -66.12
+      ]
+    },
+    "postalCode": {
+      "format": "#####-####",
+      "regex": "^(\\d{9})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Falkland Islands",
+          "common": "Falkland Islands"
+        }
+      }
+    },
+    "tld": [
+      ".fk"
+    ],
+    "cca2": "FK",
+    "ccn3": "238",
+    "cca3": "FLK",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "FKP": {
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "00"
+      ]
+    },
+    "capital": [
+      "Stanley"
+    ],
+    "altSpellings": [
+      "FK",
+      "Islas Malvinas",
+      "Falkland Islands (Malvinas)"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "フォークランド",
+        "common": "フォークランド（マルビナス）諸島"
+      },
+      "zho": {
+        "official": "福克蘭羣島",
+        "common": "福克蘭羣島"
+      }
+    },
+    "latlng": [
+      -51.75,
+      -59.0
+    ],
+    "landlocked": false,
+    "area": 12173.0,
+    "demonyms": {
+      "eng": {
+        "f": "Falkland Islander",
+        "m": "Falkland Islander"
+      },
+      "fra": {
+        "f": "Malouinne",
+        "m": "Malouin"
+      }
+    },
+    "flag": "🇫🇰",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+    },
+    "population": 2563,
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fk.png",
+      "svg": "https://flagcdn.com/fk.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fk.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -51.7,
+        -57.85
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis",
+      "nativeName": {
+        "eng": {
+          "official": "Federation of Saint Christopher and Nevis",
+          "common": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "tld": [
+      ".kn"
+    ],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "cioc": "SKN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "869"
+      ]
+    },
+    "capital": [
+      "Basseterre"
+    ],
+    "altSpellings": [
+      "KN",
+      "Federation of Saint Christopher and Nevis"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セントクリストファーNevis連盟",
+        "common": "セントクリストファー・ネイビス"
+      },
+      "zho": {
+        "official": "聖克里斯托弗和尼維斯聯邦",
+        "common": "聖基茨和尼維斯"
+      }
+    },
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "landlocked": false,
+    "area": 261.0,
+    "demonyms": {
+      "eng": {
+        "f": "Kittitian or Nevisian",
+        "m": "Kittitian or Nevisian"
+      },
+      "fra": {
+        "f": "Kittitienne-et-nevicienne",
+        "m": "Kittitien-et-nevicien"
+      }
+    },
+    "flag": "🇰🇳",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536899"
+    },
+    "population": 53192,
+    "fifa": "SKN",
+    "car": {
+      "signs": [
+        "KN"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kn.png",
+      "svg": "https://flagcdn.com/kn.svg",
+      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/kn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.3,
+        -62.72
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Lucia",
+          "common": "Saint Lucia"
+        }
+      }
+    },
+    "tld": [
+      ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "758"
+      ]
+    },
+    "capital": [
+      "Castries"
+    ],
+    "altSpellings": [
+      "LC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セントルシア",
+        "common": "セントルシア"
+      },
+      "zho": {
+        "official": "聖盧西亞",
+        "common": "聖盧西亞"
+      }
+    },
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "landlocked": false,
+    "area": 616.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Lucian",
+        "m": "Saint Lucian"
+      },
+      "fra": {
+        "f": "Saint-Lucienne",
+        "m": "Saint-Lucien"
+      }
+    },
+    "flag": "🇱🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    },
+    "population": 183629,
+    "gini": {
+      "2016": 51.2
+    },
+    "fifa": "LCA",
+    "car": {
+      "signs": [
+        "WL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lc.png",
+      "svg": "https://flagcdn.com/lc.svg",
+      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.0,
+        -61.0
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba",
+      "nativeName": {
+        "nld": {
+          "official": "Bonaire, Sint Eustatius en Saba",
+          "common": "Caribisch Nederland"
+        },
+        "pap": {
+          "official": "Boneiru, Sint Eustatius y Saba",
+          "common": "Boneiru, Sint Eustatius y Saba"
+        }
+      }
+    },
+    "tld": [
+      ".bq",
+      ".nl"
+    ],
+    "cca2": "BQ",
+    "ccn3": "535",
+    "cca3": "BES",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "99"
+      ]
+    },
+    "capital": [
+      "Kralendijk"
+    ],
+    "altSpellings": [
+      "BES islands"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ボネール、シント・ユースタティウスおよびサバ",
+        "common": "ボネール、シント・ユースタティウスおよびサバ"
+      },
+      "zho": {
+        "official": "荷蘭加勒比區",
+        "common": "荷蘭加勒比區"
+      }
+    },
+    "latlng": [
+      12.18,
+      -68.25
+    ],
+    "landlocked": false,
+    "area": 328.0,
+    "demonyms": {
+      "eng": {
+        "f": "Dutch",
+        "m": "Dutch"
+      },
+      "fra": {
+        "f": "Néerlandaise",
+        "m": "Néerlandais"
+      }
+    },
+    "flag": "🇧🇶",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
+    },
+    "population": 25987,
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bq.png",
+      "svg": "https://flagcdn.com/bq.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.14,
+        -68.27
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "nativeName": {
+        "aym": {
+          "official": "Wuliwya Suyu",
+          "common": "Wuliwya"
+        },
+        "grn": {
+          "official": "Tetã Volívia",
+          "common": "Volívia"
+        },
+        "que": {
+          "official": "Buliwya Mamallaqta",
+          "common": "Buliwya"
+        },
+        "spa": {
+          "official": "Estado Plurinacional de Bolivia",
+          "common": "Bolivia"
+        }
+      }
+    },
+    "tld": [
+      ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "capital": [
+      "Sucre"
+    ],
+    "altSpellings": [
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ボリビアの多民族国",
+        "common": "ボリビア多民族国"
+      },
+      "zho": {
+        "official": "多民族玻利維亞國",
+        "common": "玻利維亞"
+      }
+    },
+    "latlng": [
+      -17.0,
+      -65.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bolivian",
+        "m": "Bolivian"
+      },
+      "fra": {
+        "f": "Bolivienne",
+        "m": "Bolivien"
+      }
+    },
+    "flag": "🇧🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+    },
+    "population": 11673029,
+    "gini": {
+      "2019": 41.6
+    },
+    "fifa": "BOL",
+    "car": {
+      "signs": [
+        "BOL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bo.png",
+      "svg": "https://flagcdn.com/bo.svg",
+      "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -19.02,
+        -65.26
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "nativeName": {
+        "spa": {
+          "official": "República de Chile",
+          "common": "Chile"
+        }
+      }
+    },
+    "tld": [
+      ".cl"
+    ],
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "cioc": "CHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "6"
+      ]
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "altSpellings": [
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "チリ共和国",
+        "common": "チリ"
+      },
+      "zho": {
+        "official": "智利共和國",
+        "common": "智利"
+      }
+    },
+    "latlng": [
+      -30.0,
+      -71.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102.0,
+    "demonyms": {
+      "eng": {
+        "f": "Chilean",
+        "m": "Chilean"
+      },
+      "fra": {
+        "f": "Chilienne",
+        "m": "Chilien"
+      }
+    },
+    "flag": "🇨🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+    },
+    "population": 19116209,
+    "gini": {
+      "2017": 44.4
+    },
+    "fifa": "CHI",
+    "car": {
+      "signs": [
+        "RCH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg",
+      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -33.45,
+        -70.67
+      ]
+    },
+    "postalCode": {
+      "format": "#######",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "nativeName": {
+        "eng": {
+          "official": "United States of America",
+          "common": "United States"
+        }
+      }
+    },
+    "tld": [
+      ".us"
+    ],
+    "cca2": "US",
+    "ccn3": "840",
+    "cca3": "USA",
+    "cioc": "USA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "201",
+        "202",
+        "203",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "224",
+        "225",
+        "227",
+        "228",
+        "229",
+        "231",
+        "234",
+        "239",
+        "240",
+        "248",
+        "251",
+        "252",
+        "253",
+        "254",
+        "256",
+        "260",
+        "262",
+        "267",
+        "269",
+        "270",
+        "272",
+        "274",
+        "276",
+        "281",
+        "283",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "307",
+        "308",
+        "309",
+        "310",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "323",
+        "325",
+        "327",
+        "330",
+        "331",
+        "334",
+        "336",
+        "337",
+        "339",
+        "346",
+        "347",
+        "351",
+        "352",
+        "360",
+        "361",
+        "364",
+        "380",
+        "385",
+        "386",
+        "401",
+        "402",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408",
+        "409",
+        "410",
+        "412",
+        "413",
+        "414",
+        "415",
+        "417",
+        "419",
+        "423",
+        "424",
+        "425",
+        "430",
+        "432",
+        "434",
+        "435",
+        "440",
+        "442",
+        "443",
+        "447",
+        "458",
+        "463",
+        "464",
+        "469",
+        "470",
+        "475",
+        "478",
+        "479",
+        "480",
+        "484",
+        "501",
+        "502",
+        "503",
+        "504",
+        "505",
+        "507",
+        "508",
+        "509",
+        "510",
+        "512",
+        "513",
+        "515",
+        "516",
+        "517",
+        "518",
+        "520",
+        "530",
+        "531",
+        "534",
+        "539",
+        "540",
+        "541",
+        "551",
+        "559",
+        "561",
+        "562",
+        "563",
+        "564",
+        "567",
+        "570",
+        "571",
+        "573",
+        "574",
+        "575",
+        "580",
+        "585",
+        "586",
+        "601",
+        "602",
+        "603",
+        "605",
+        "606",
+        "607",
+        "608",
+        "609",
+        "610",
+        "612",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618",
+        "619",
+        "620",
+        "623",
+        "626",
+        "628",
+        "629",
+        "630",
+        "631",
+        "636",
+        "641",
+        "646",
+        "650",
+        "651",
+        "657",
+        "660",
+        "661",
+        "662",
+        "667",
+        "669",
+        "678",
+        "681",
+        "682",
+        "701",
+        "702",
+        "703",
+        "704",
+        "706",
+        "707",
+        "708",
+        "712",
+        "713",
+        "714",
+        "715",
+        "716",
+        "717",
+        "718",
+        "719",
+        "720",
+        "724",
+        "725",
+        "727",
+        "730",
+        "731",
+        "732",
+        "734",
+        "737",
+        "740",
+        "743",
+        "747",
+        "754",
+        "757",
+        "760",
+        "762",
+        "763",
+        "765",
+        "769",
+        "770",
+        "772",
+        "773",
+        "774",
+        "775",
+        "779",
+        "781",
+        "785",
+        "786",
+        "801",
+        "802",
+        "803",
+        "804",
+        "805",
+        "806",
+        "808",
+        "810",
+        "812",
+        "813",
+        "814",
+        "815",
+        "816",
+        "817",
+        "818",
+        "828",
+        "830",
+        "831",
+        "832",
+        "843",
+        "845",
+        "847",
+        "848",
+        "850",
+        "854",
+        "856",
+        "857",
+        "858",
+        "859",
+        "860",
+        "862",
+        "863",
+        "864",
+        "865",
+        "870",
+        "872",
+        "878",
+        "901",
+        "903",
+        "904",
+        "906",
+        "907",
+        "908",
+        "909",
+        "910",
+        "912",
+        "913",
+        "914",
+        "915",
+        "916",
+        "917",
+        "918",
+        "919",
+        "920",
+        "925",
+        "928",
+        "929",
+        "930",
+        "931",
+        "934",
+        "936",
+        "937",
+        "938",
+        "940",
+        "941",
+        "947",
+        "949",
+        "951",
+        "952",
+        "954",
+        "956",
+        "959",
+        "970",
+        "971",
+        "972",
+        "973",
+        "975",
+        "978",
+        "979",
+        "980",
+        "984",
+        "985",
+        "989"
+      ]
+    },
+    "capital": [
+      "Washington, D.C."
+    ],
+    "altSpellings": [
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アメリカ合衆国",
+        "common": "アメリカ合衆国"
+      },
+      "zho": {
+        "official": "美利堅合衆國",
+        "common": "美國"
+      }
+    },
+    "latlng": [
+      38.0,
+      -97.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "area": 9372610.0,
+    "demonyms": {
+      "eng": {
+        "f": "American",
+        "m": "American"
+      },
+      "fra": {
+        "f": "Américaine",
+        "m": "Américain"
+      }
+    },
+    "flag": "🇺🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+    },
+    "population": 329484123,
+    "gini": {
+      "2018": 41.4
+    },
+    "fifa": "USA",
+    "car": {
+      "signs": [
+        "USA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/us.png",
+      "svg": "https://flagcdn.com/us.svg",
+      "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/us.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        38.89,
+        -77.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####-####",
+      "regex": "^\\d{5}(-\\d{4})?$"
+    }
+  },
+  {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe",
+      "nativeName": {
+        "fra": {
+          "official": "Guadeloupe",
+          "common": "Guadeloupe"
+        }
+      }
+    },
+    "tld": [
+      ".gp"
+    ],
+    "cca2": "GP",
+    "ccn3": "312",
+    "cca3": "GLP",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ]
+    },
+    "capital": [
+      "Basse-Terre"
+    ],
+    "altSpellings": [
+      "GP",
+      "Gwadloup"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "グアドループ島",
+        "common": "グアドループ"
+      },
+      "zho": {
+        "official": "瓜德羅普島",
+        "common": "瓜德羅普島"
+      }
+    },
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "landlocked": false,
+    "area": 1628.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guadeloupian",
+        "m": "Guadeloupian"
+      },
+      "fra": {
+        "f": "Guadeloupéenne",
+        "m": "Guadeloupéen"
+      }
+    },
+    "flag": "🇬🇵",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
+    },
+    "population": 400132,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gp.png",
+      "svg": "https://flagcdn.com/gp.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gp.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        16.03,
+        -61.73
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "nativeName": {
+        "spa": {
+          "official": "Estados Unidos Mexicanos",
+          "common": "México"
+        }
+      }
+    },
+    "tld": [
+      ".mx"
+    ],
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "cioc": "MEX",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "altSpellings": [
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "メキシコ合衆国",
+        "common": "メキシコ"
+      },
+      "zho": {
+        "official": "墨西哥合衆國",
+        "common": "墨西哥"
+      }
+    },
+    "latlng": [
+      23.0,
+      -102.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "area": 1964375.0,
+    "demonyms": {
+      "eng": {
+        "f": "Mexican",
+        "m": "Mexican"
+      },
+      "fra": {
+        "f": "Mexicaine",
+        "m": "Mexicain"
+      }
+    },
+    "flag": "🇲🇽",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+    },
+    "population": 128932753,
+    "gini": {
+      "2018": 45.4
+    },
+    "fifa": "MEX",
+    "car": {
+      "signs": [
+        "MEX"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        19.43,
+        -99.13
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines",
+      "nativeName": {
+        "eng": {
+          "official": "Saint Vincent and the Grenadines",
+          "common": "Saint Vincent and the Grenadines"
+        }
+      }
+    },
+    "tld": [
+      ".vc"
+    ],
+    "cca2": "VC",
+    "ccn3": "670",
+    "cca3": "VCT",
+    "cioc": "VIN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "784"
+      ]
+    },
+    "capital": [
+      "Kingstown"
+    ],
+    "altSpellings": [
+      "VC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "セントビンセントおよびグレナディーン諸島",
+        "common": "セントビンセントおよびグレナディーン諸島"
+      },
+      "zho": {
+        "official": "聖文森特和格林納丁斯",
+        "common": "聖文森特和格林納丁斯"
+      }
+    },
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "landlocked": false,
+    "area": 389.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Vincentian",
+        "m": "Saint Vincentian"
+      },
+      "fra": {
+        "f": "Vincentaise",
+        "m": "Vincentais"
+      }
+    },
+    "flag": "🇻🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+    },
+    "population": 110947,
+    "fifa": "VIN",
+    "car": {
+      "signs": [
+        "WV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vc.png",
+      "svg": "https://flagcdn.com/vc.svg",
+      "alt": "The flag of Saint Vincent and the Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.13,
+        -61.22
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda",
+      "nativeName": {
+        "eng": {
+          "official": "Bermuda",
+          "common": "Bermuda"
+        }
+      }
+    },
+    "tld": [
+      ".bm"
+    ],
+    "cca2": "BM",
+    "ccn3": "060",
+    "cca3": "BMU",
+    "cioc": "BER",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "BMD": {
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "441"
+      ]
+    },
+    "capital": [
+      "Hamilton"
+    ],
+    "altSpellings": [
+      "BM",
+      "The Islands of Bermuda",
+      "The Bermudas",
+      "Somers Isles"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バミューダ",
+        "common": "バミューダ"
+      },
+      "zho": {
+        "official": "百慕大",
+        "common": "百慕大"
+      }
+    },
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "landlocked": false,
+    "area": 54.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bermudian",
+        "m": "Bermudian"
+      },
+      "fra": {
+        "f": "Bermudienne",
+        "m": "Bermudien"
+      }
+    },
+    "flag": "🇧🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1993208"
+    },
+    "population": 63903,
+    "fifa": "BER",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bm.png",
+      "svg": "https://flagcdn.com/bm.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        32.28,
+        -64.78
+      ]
+    },
+    "postalCode": {
+      "format": "@@ ##",
+      "regex": "^([A-Z]{2}\\d{2})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "nativeName": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "tld": [
+      ".do"
+    ],
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "cioc": "DOM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "DOP": {
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "809",
+        "829",
+        "849"
+      ]
+    },
+    "capital": [
+      "Santo Domingo"
+    ],
+    "altSpellings": [
+      "DO"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ドミニカ共和国",
+        "common": "ドミニカ共和国"
+      },
+      "zho": {
+        "official": "多明尼加共和國",
+        "common": "多明尼加"
+      }
+    },
+    "latlng": [
+      19.0,
+      -70.66666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "HTI"
+    ],
+    "area": 48671.0,
+    "demonyms": {
+      "eng": {
+        "f": "Dominican",
+        "m": "Dominican"
+      },
+      "fra": {
+        "f": "Dominicaine",
+        "m": "Dominicain"
+      }
+    },
+    "flag": "🇩🇴",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+    },
+    "population": 10847904,
+    "gini": {
+      "2019": 41.9
+    },
+    "fifa": "DOM",
+    "car": {
+      "signs": [
+        "DOM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/do.png",
+      "svg": "https://flagcdn.com/do.svg",
+      "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.47,
+        -69.9
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala",
+      "nativeName": {
+        "spa": {
+          "official": "República de Guatemala",
+          "common": "Guatemala"
+        }
+      }
+    },
+    "tld": [
+      ".gt"
+    ],
+    "cca2": "GT",
+    "ccn3": "320",
+    "cca3": "GTM",
+    "cioc": "GUA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GTQ": {
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "02"
+      ]
+    },
+    "capital": [
+      "Guatemala City"
+    ],
+    "altSpellings": [
+      "GT"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "グアテマラ共和国",
+        "common": "グアテマラ"
+      },
+      "zho": {
+        "official": "危地馬拉共和國",
+        "common": "危地馬拉"
+      }
+    },
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "landlocked": false,
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "area": 108889.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guatemalan",
+        "m": "Guatemalan"
+      },
+      "fra": {
+        "f": "Guatémaltèque",
+        "m": "Guatémaltèque"
+      }
+    },
+    "flag": "🇬🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+    },
+    "population": 16858333,
+    "gini": {
+      "2014": 48.3
+    },
+    "fifa": "GUA",
+    "car": {
+      "signs": [
+        "GCA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gt.png",
+      "svg": "https://flagcdn.com/gt.svg",
+      "alt": "The flag of Guatemala is composed of three equal vertical bands of light blue, white and light blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.62,
+        -90.52
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "nativeName": {
+        "spa": {
+          "official": "República del Ecuador",
+          "common": "Ecuador"
+        }
+      }
+    },
+    "tld": [
+      ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "93"
+      ]
+    },
+    "capital": [
+      "Quito"
+    ],
+    "altSpellings": [
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エクアドル共和国",
+        "common": "エクアドル"
+      },
+      "zho": {
+        "official": "厄瓜多爾共和國",
+        "common": "厄瓜多爾"
+      }
+    },
+    "latlng": [
+      -2.0,
+      -77.5
+    ],
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "area": 276841.0,
+    "demonyms": {
+      "eng": {
+        "f": "Ecuadorean",
+        "m": "Ecuadorean"
+      },
+      "fra": {
+        "f": "Équatorienne",
+        "m": "Équatorien"
+      }
+    },
+    "flag": "🇪🇨",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+    },
+    "population": 17643060,
+    "gini": {
+      "2019": 45.7
+    },
+    "fifa": "ECU",
+    "car": {
+      "signs": [
+        "EC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ec.png",
+      "svg": "https://flagcdn.com/ec.svg",
+      "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -0.22,
+        -78.5
+      ]
+    },
+    "postalCode": {
+      "format": "@####@",
+      "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+    }
+  },
+  {
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique",
+      "nativeName": {
+        "fra": {
+          "official": "Martinique",
+          "common": "Martinique"
+        }
+      }
+    },
+    "tld": [
+      ".mq"
+    ],
+    "cca2": "MQ",
+    "ccn3": "474",
+    "cca3": "MTQ",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "96"
+      ]
+    },
+    "capital": [
+      "Fort-de-France"
+    ],
+    "altSpellings": [
+      "MQ"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "マルティニーク島",
+        "common": "マルティニーク"
+      },
+      "zho": {
+        "official": "馬提尼克",
+        "common": "馬提尼克"
+      }
+    },
+    "latlng": [
+      14.666667,
+      -61.0
+    ],
+    "landlocked": false,
+    "area": 1128.0,
+    "demonyms": {
+      "eng": {
+        "f": "Martinican",
+        "m": "Martinican"
+      },
+      "fra": {
+        "f": "Martiniquaise",
+        "m": "Martiniquais"
+      }
+    },
+    "flag": "🇲🇶",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
+    },
+    "population": 378243,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mq.png",
+      "svg": "https://flagcdn.com/mq.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        14.6,
+        -61.08
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname",
+      "nativeName": {
+        "nld": {
+          "official": "Republiek Suriname",
+          "common": "Suriname"
+        }
+      }
+    },
+    "tld": [
+      ".sr"
+    ],
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "cioc": "SUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "SRD": {
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "97"
+      ]
+    },
+    "capital": [
+      "Paramaribo"
+    ],
+    "altSpellings": [
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "translations": {
+      "jpn": {
+        "official": "スリナム共和国",
+        "common": "スリナム"
+      },
+      "zho": {
+        "official": "蘇里南共和國",
+        "common": "蘇里南"
+      }
+    },
+    "latlng": [
+      4.0,
+      -56.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "area": 163820.0,
+    "demonyms": {
+      "eng": {
+        "f": "Surinamer",
+        "m": "Surinamer"
+      },
+      "fra": {
+        "f": "Surinamaise",
+        "m": "Surinamais"
+      }
+    },
+    "flag": "🇸🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+    },
+    "population": 586634,
+    "gini": {
+      "1999": 57.9
+    },
+    "fifa": "SUR",
+    "car": {
+      "signs": [
+        "SME"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sr.png",
+      "svg": "https://flagcdn.com/sr.svg",
+      "alt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        5.83,
+        -55.17
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Barthélemy",
+      "official": "Collectivity of Saint Barthélemy",
+      "nativeName": {
+        "fra": {
+          "official": "Collectivité de Saint-Barthélemy",
+          "common": "Saint-Barthélemy"
+        }
+      }
+    },
+    "tld": [
+      ".bl"
+    ],
+    "cca2": "BL",
+    "ccn3": "652",
+    "cca3": "BLM",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ]
+    },
+    "capital": [
+      "Gustavia"
+    ],
+    "altSpellings": [
+      "BL",
+      "St. Barthelemy",
+      "Collectivity of Saint Barthélemy",
+      "Collectivité de Saint-Barthélemy"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サン·バルテルミー島の集合体",
+        "common": "サン・バルテルミー"
+      },
+      "zho": {
+        "official": "聖巴泰勒米集體",
+        "common": "聖巴泰勒米"
+      }
+    },
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "landlocked": false,
+    "area": 21.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Barthélemy Islander",
+        "m": "Saint Barthélemy Islander"
+      },
+      "fra": {
+        "f": "Barthéloméenne",
+        "m": "Barthéloméen"
+      }
+    },
+    "flag": "🇧🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Mc7GqH466S7AAk297",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7552779"
+    },
+    "population": 4255,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bl.png",
+      "svg": "https://flagcdn.com/bl.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.88,
+        -62.85
+      ]
+    },
+    "postalCode": {
+      "format": "### ###"
+    }
+  },
+  {
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of the Bahamas",
+          "common": "Bahamas"
+        }
+      }
+    },
+    "tld": [
+      ".bs"
+    ],
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "cioc": "BAH",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BSD": {
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "242"
+      ]
+    },
+    "capital": [
+      "Nassau"
+    ],
+    "altSpellings": [
+      "BS",
+      "Commonwealth of the Bahamas"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バハマ",
+        "common": "バハマ"
+      },
+      "zho": {
+        "official": "巴哈馬聯邦",
+        "common": "巴哈馬"
+      }
+    },
+    "latlng": [
+      25.0343,
+      -77.3963
+    ],
+    "landlocked": false,
+    "area": 13943.0,
+    "demonyms": {
+      "eng": {
+        "f": "Bahamian",
+        "m": "Bahamian"
+      },
+      "fra": {
+        "f": "Bahamienne",
+        "m": "Bahamien"
+      }
+    },
+    "flag": "🇧🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
+    },
+    "population": 393248,
+    "fifa": "BAH",
+    "car": {
+      "signs": [
+        "BS"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bs.png",
+      "svg": "https://flagcdn.com/bs.svg",
+      "alt": "The flag of the Bahamas is composed of three equal horizontal bands of aquamarine, yellow and aquamarine, with a black equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        25.08,
+        -77.35
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "nativeName": {
+        "grn": {
+          "official": "Tetã Paraguái",
+          "common": "Paraguái"
+        },
+        "spa": {
+          "official": "República de Paraguay",
+          "common": "Paraguay"
+        }
+      }
+    },
+    "tld": [
+      ".py"
+    ],
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "cioc": "PAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PYG": {
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "95"
+      ]
+    },
+    "capital": [
+      "Asunción"
+    ],
+    "altSpellings": [
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "パラグアイ共和国",
+        "common": "パラグアイ"
+      },
+      "zho": {
+        "official": "巴拉圭共和國",
+        "common": "巴拉圭"
+      }
+    },
+    "latlng": [
+      -23.0,
+      -58.0
+    ],
+    "landlocked": true,
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "area": 406752.0,
+    "demonyms": {
+      "eng": {
+        "f": "Paraguayan",
+        "m": "Paraguayan"
+      },
+      "fra": {
+        "f": "Paraguayenne",
+        "m": "Paraguayen"
+      }
+    },
+    "flag": "🇵🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+    },
+    "population": 7132530,
+    "gini": {
+      "2019": 45.7
+    },
+    "fifa": "PAR",
+    "car": {
+      "signs": [
+        "PY"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/py.png",
+      "svg": "https://flagcdn.com/py.svg",
+      "alt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/py.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -25.28,
+        -57.57
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Virgin Islands",
+          "common": "British Virgin Islands"
+        }
+      }
+    },
+    "tld": [
+      ".vg"
+    ],
+    "cca2": "VG",
+    "ccn3": "092",
+    "cca3": "VGB",
+    "cioc": "IVB",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "284"
+      ]
+    },
+    "capital": [
+      "Road Town"
+    ],
+    "altSpellings": [
+      "VG",
+      "Virgin Islands, British"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "バージン諸島",
+        "common": "イギリス領ヴァージン諸島"
+      },
+      "zho": {
+        "official": "英屬維爾京羣島",
+        "common": "英屬維爾京羣島"
+      }
+    },
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "landlocked": false,
+    "area": 151.0,
+    "demonyms": {
+      "eng": {
+        "f": "Virgin Islander",
+        "m": "Virgin Islander"
+      }
+    },
+    "flag": "🇻🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
+    },
+    "population": 30237,
+    "fifa": "VGB",
+    "car": {
+      "signs": [
+        "BVI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vg.png",
+      "svg": "https://flagcdn.com/vg.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.42,
+        -64.62
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "nativeName": {
+        "por": {
+          "official": "República Federativa do Brasil",
+          "common": "Brasil"
+        }
+      }
+    },
+    "tld": [
+      ".br"
+    ],
+    "cca2": "BR",
+    "ccn3": "076",
+    "cca3": "BRA",
+    "cioc": "BRA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "capital": [
+      "Brasília"
+    ],
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ブラジル連邦共和国",
+        "common": "ブラジル"
+      },
+      "zho": {
+        "official": "巴西聯邦共和國",
+        "common": "巴西"
+      }
+    },
+    "latlng": [
+      -10.0,
+      -55.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "area": 8515767.0,
+    "demonyms": {
+      "eng": {
+        "f": "Brazilian",
+        "m": "Brazilian"
+      },
+      "fra": {
+        "f": "Brésilienne",
+        "m": "Brésilien"
+      }
+    },
+    "flag": "🇧🇷",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+    },
+    "population": 212559409,
+    "gini": {
+      "2019": 53.4
+    },
+    "fifa": "BRA",
+    "car": {
+      "signs": [
+        "BR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -15.79,
+        -47.88
+      ]
+    },
+    "postalCode": {
+      "format": "#####-###",
+      "regex": "^(\\d{8})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Belize",
+      "official": "Belize",
+      "nativeName": {
+        "bjz": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "eng": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "spa": {
+          "official": "Belice",
+          "common": "Belice"
+        }
+      }
+    },
+    "tld": [
+      ".bz"
+    ],
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "cioc": "BIZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "BZD": {
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "01"
+      ]
+    },
+    "capital": [
+      "Belmopan"
+    ],
+    "altSpellings": [
+      "BZ"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ベリーズ",
+        "common": "ベリーズ"
+      },
+      "zho": {
+        "official": "伯利茲",
+        "common": "伯利茲"
+      }
+    },
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "area": 22966.0,
+    "demonyms": {
+      "eng": {
+        "f": "Belizean",
+        "m": "Belizean"
+      },
+      "fra": {
+        "f": "Bélizienne",
+        "m": "Bélizien"
+      }
+    },
+    "flag": "🇧🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+    },
+    "population": 397621,
+    "gini": {
+      "1999": 53.3
+    },
+    "fifa": "BLZ",
+    "car": {
+      "signs": [
+        "BH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bz.png",
+      "svg": "https://flagcdn.com/bz.svg",
+      "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.25,
+        -88.77
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela",
+      "nativeName": {
+        "spa": {
+          "official": "República Bolivariana de Venezuela",
+          "common": "Venezuela"
+        }
+      }
+    },
+    "tld": [
+      ".ve"
+    ],
+    "cca2": "VE",
+    "ccn3": "862",
+    "cca3": "VEN",
+    "cioc": "VEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "VES": {
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "8"
+      ]
+    },
+    "capital": [
+      "Caracas"
+    ],
+    "altSpellings": [
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "Venezuela, Bolivarian Republic of",
+      "República Bolivariana de Venezuela"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ベネズエラ·ボリバル共和国",
+        "common": "ベネズエラ・ボリバル共和国"
+      },
+      "zho": {
+        "official": "委內瑞拉玻利瓦爾共和國",
+        "common": "委內瑞拉"
+      }
+    },
+    "latlng": [
+      8.0,
+      -66.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "area": 916445.0,
+    "demonyms": {
+      "eng": {
+        "f": "Venezuelan",
+        "m": "Venezuelan"
+      },
+      "fra": {
+        "f": "Vénézuélienne",
+        "m": "Vénézuélien"
+      }
+    },
+    "flag": "🇻🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+    },
+    "population": 28435943,
+    "gini": {
+      "2006": 44.8
+    },
+    "fifa": "VEN",
+    "car": {
+      "signs": [
+        "YV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ve.png",
+      "svg": "https://flagcdn.com/ve.svg",
+      "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        10.48,
+        -66.87
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "nativeName": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "tld": [
+      ".sv"
+    ],
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "cioc": "ESA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "03"
+      ]
+    },
+    "capital": [
+      "San Salvador"
+    ],
+    "altSpellings": [
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "エルサルバドル共和国",
+        "common": "エルサルバドル"
+      },
+      "zho": {
+        "official": "薩爾瓦多共和國",
+        "common": "薩爾瓦多"
+      }
+    },
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "area": 21041.0,
+    "demonyms": {
+      "eng": {
+        "f": "Salvadoran",
+        "m": "Salvadoran"
+      },
+      "fra": {
+        "f": "Salvadorienne",
+        "m": "Salvadorien"
+      }
+    },
+    "flag": "🇸🇻",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+    },
+    "population": 6486201,
+    "gini": {
+      "2019": 38.8
+    },
+    "fifa": "SLV",
+    "car": {
+      "signs": [
+        "ES"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sv.png",
+      "svg": "https://flagcdn.com/sv.svg",
+      "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        13.7,
+        -89.2
+      ]
+    },
+    "postalCode": {
+      "format": "CP ####",
+      "regex": "^(?:CP)*(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "nativeName": {
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
+        }
+      }
+    },
+    "tld": [
+      ".pe"
+    ],
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "cioc": "PER",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "1"
+      ]
+    },
+    "capital": [
+      "Lima"
+    ],
+    "altSpellings": [
+      "PE",
+      "Republic of Peru",
+      "República del Perú"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ペルー共和国",
+        "common": "ペルー"
+      },
+      "zho": {
+        "official": "祕魯共和國",
+        "common": "祕魯"
+      }
+    },
+    "latlng": [
+      -10.0,
+      -76.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216.0,
+    "demonyms": {
+      "eng": {
+        "f": "Peruvian",
+        "m": "Peruvian"
+      },
+      "fra": {
+        "f": "Péruvienne",
+        "m": "Péruvien"
+      }
+    },
+    "flag": "🇵🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+    },
+    "population": 32971846,
+    "gini": {
+      "2019": 41.5
+    },
+    "fifa": "PER",
+    "car": {
+      "signs": [
+        "PE"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -12.05,
+        -77.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Trinidad and Tobago",
+          "common": "Trinidad and Tobago"
+        }
+      }
+    },
+    "tld": [
+      ".tt"
+    ],
+    "cca2": "TT",
+    "ccn3": "780",
+    "cca3": "TTO",
+    "cioc": "TTO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "TTD": {
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "868"
+      ]
+    },
+    "capital": [
+      "Port of Spain"
+    ],
+    "altSpellings": [
+      "TT",
+      "Republic of Trinidad and Tobago"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "トリニダード·トバゴ共和国",
+        "common": "トリニダード・トバゴ"
+      },
+      "zho": {
+        "official": "特立尼達和多巴哥共和國",
+        "common": "特立尼達和多巴哥"
+      }
+    },
+    "latlng": [
+      10.6918,
+      -61.2225
+    ],
+    "landlocked": false,
+    "area": 5130.0,
+    "demonyms": {
+      "eng": {
+        "f": "Trinidadian",
+        "m": "Trinidadian"
+      },
+      "fra": {
+        "f": "Trinidadienne",
+        "m": "Trinidadien"
+      }
+    },
+    "flag": "🇹🇹",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555717"
+    },
+    "population": 1399491,
+    "gini": {
+      "1992": 40.3
+    },
+    "fifa": "TRI",
+    "car": {
+      "signs": [
+        "TT"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tt.png",
+      "svg": "https://flagcdn.com/tt.svg",
+      "alt": "The flag of Trinidad and Tobago has a red field with a white-edged black diagonal band that extends from the upper hoist-side corner to the lower fly-side corner of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        10.65,
+        -61.52
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland",
+      "nativeName": {
+        "kal": {
+          "official": "Kalaallit Nunaat",
+          "common": "Kalaallit Nunaat"
+        }
+      }
+    },
+    "tld": [
+      ".gl"
+    ],
+    "cca2": "GL",
+    "ccn3": "304",
+    "cca3": "GRL",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "DKK": {
+        "name": "krone",
+        "symbol": "kr."
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "99"
+      ]
+    },
+    "capital": [
+      "Nuuk"
+    ],
+    "altSpellings": [
+      "GL",
+      "Grønland"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "translations": {
+      "jpn": {
+        "official": "グリーンランド",
+        "common": "グリーンランド"
+      },
+      "zho": {
+        "official": "格陵蘭",
+        "common": "格陵蘭"
+      }
+    },
+    "latlng": [
+      72.0,
+      -40.0
+    ],
+    "landlocked": false,
+    "area": 2166086.0,
+    "demonyms": {
+      "eng": {
+        "f": "Greenlandic",
+        "m": "Greenlandic"
+      },
+      "fra": {
+        "f": "Groenlandaise",
+        "m": "Groenlandais"
+      }
+    },
+    "flag": "🇬🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
+    },
+    "population": 56367,
+    "car": {
+      "signs": [
+        "DK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gl.png",
+      "svg": "https://flagcdn.com/gl.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        64.18,
+        -51.75
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana",
+      "nativeName": {
+        "eng": {
+          "official": "Co-operative Republic of Guyana",
+          "common": "Guyana"
+        }
+      }
+    },
+    "tld": [
+      ".gy"
+    ],
+    "cca2": "GY",
+    "ccn3": "328",
+    "cca3": "GUY",
+    "cioc": "GUY",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "GYD": {
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "92"
+      ]
+    },
+    "capital": [
+      "Georgetown"
+    ],
+    "altSpellings": [
+      "GY",
+      "Co-operative Republic of Guyana"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ガイアナの協同共和国",
+        "common": "ガイアナ"
+      },
+      "zho": {
+        "official": "圭亞那共和國",
+        "common": "圭亞那"
+      }
+    },
+    "latlng": [
+      5.0,
+      -59.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "area": 214969.0,
+    "demonyms": {
+      "eng": {
+        "f": "Guyanese",
+        "m": "Guyanese"
+      },
+      "fra": {
+        "f": "Guyanienne",
+        "m": "Guyanien"
+      }
+    },
+    "flag": "🇬🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+    },
+    "population": 786559,
+    "gini": {
+      "1998": 45.1
+    },
+    "fifa": "GUY",
+    "car": {
+      "signs": [
+        "GUY"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gy.png",
+      "svg": "https://flagcdn.com/gy.svg",
+      "alt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        6.8,
+        -58.15
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica",
+      "nativeName": {
+        "eng": {
+          "official": "Jamaica",
+          "common": "Jamaica"
+        },
+        "jam": {
+          "official": "Jamaica",
+          "common": "Jamaica"
+        }
+      }
+    },
+    "tld": [
+      ".jm"
+    ],
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "cioc": "JAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "JMD": {
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "876"
+      ]
+    },
+    "capital": [
+      "Kingston"
+    ],
+    "altSpellings": [
+      "JM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ジャマイカ",
+        "common": "ジャマイカ"
+      },
+      "zho": {
+        "official": "牙買加",
+        "common": "牙買加"
+      }
+    },
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "landlocked": false,
+    "area": 10991.0,
+    "demonyms": {
+      "eng": {
+        "f": "Jamaican",
+        "m": "Jamaican"
+      },
+      "fra": {
+        "f": "Jamaïcaine",
+        "m": "Jamaïcain"
+      }
+    },
+    "flag": "🇯🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+    },
+    "population": 2961161,
+    "gini": {
+      "2004": 45.5
+    },
+    "fifa": "JAM",
+    "car": {
+      "signs": [
+        "JA"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/jm.png",
+      "svg": "https://flagcdn.com/jm.svg",
+      "alt": "The flag of Jamaica is divided by a gold diagonal cross into four alternating triangular areas of green at the top and bottom, and black on the hoist and fly sides"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.99702,
+        -76.79358
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba",
+      "nativeName": {
+        "nld": {
+          "official": "Aruba",
+          "common": "Aruba"
+        },
+        "pap": {
+          "official": "Aruba",
+          "common": "Aruba"
+        }
+      }
+    },
+    "tld": [
+      ".aw"
+    ],
+    "cca2": "AW",
+    "ccn3": "533",
+    "cca3": "ABW",
+    "cioc": "ARU",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "AWG": {
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    },
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "97"
+      ]
+    },
+    "capital": [
+      "Oranjestad"
+    ],
+    "altSpellings": [
+      "AW"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アルバ",
+        "common": "アルバ"
+      },
+      "zho": {
+        "official": "阿魯巴",
+        "common": "阿魯巴"
+      }
+    },
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "landlocked": false,
+    "area": 180.0,
+    "demonyms": {
+      "eng": {
+        "f": "Aruban",
+        "m": "Aruban"
+      },
+      "fra": {
+        "f": "Arubaise",
+        "m": "Arubais"
+      }
+    },
+    "flag": "🇦🇼",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1231749"
+    },
+    "population": 106766,
+    "fifa": "ARU",
+    "car": {
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/aw.png",
+      "svg": "https://flagcdn.com/aw.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/aw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/aw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.52,
+        -70.03
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands",
+      "nativeName": {
+        "eng": {
+          "official": "Cayman Islands",
+          "common": "Cayman Islands"
+        }
+      }
+    },
+    "tld": [
+      ".ky"
+    ],
+    "cca2": "KY",
+    "ccn3": "136",
+    "cca3": "CYM",
+    "cioc": "CAY",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "KYD": {
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "345"
+      ]
+    },
+    "capital": [
+      "George Town"
+    ],
+    "altSpellings": [
+      "KY"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ケイマン諸島",
+        "common": "ケイマン諸島"
+      },
+      "zho": {
+        "official": "開曼羣島",
+        "common": "開曼羣島"
+      }
+    },
+    "latlng": [
+      19.3133,
+      -81.2546
+    ],
+    "landlocked": false,
+    "area": 264.0,
+    "demonyms": {
+      "eng": {
+        "f": "Caymanian",
+        "m": "Caymanian"
+      },
+      "fra": {
+        "f": "Caïmanienne",
+        "m": "Caïmanien"
+      }
+    },
+    "flag": "🇰🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
+    },
+    "population": 65720,
+    "fifa": "CAY",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ky.png",
+      "svg": "https://flagcdn.com/ky.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ky.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        19.3,
+        -81.38
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "nativeName": {
+        "spa": {
+          "official": "República de Cuba",
+          "common": "Cuba"
+        }
+      }
+    },
+    "tld": [
+      ".cu"
+    ],
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "cioc": "CUB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CUC": {
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      "CUP": {
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "capital": [
+      "Havana"
+    ],
+    "altSpellings": [
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "キューバ共和国",
+        "common": "キューバ"
+      },
+      "zho": {
+        "official": "古巴共和國",
+        "common": "古巴"
+      }
+    },
+    "latlng": [
+      21.5,
+      -80.0
+    ],
+    "landlocked": false,
+    "area": 109884.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cuban",
+        "m": "Cuban"
+      },
+      "fra": {
+        "f": "Cubaine",
+        "m": "Cubain"
+      }
+    },
+    "flag": "🇨🇺",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+    },
+    "population": 11326616,
+    "fifa": "CUB",
+    "car": {
+      "signs": [
+        "C"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg",
+      "alt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        23.12,
+        -82.35
+      ]
+    },
+    "postalCode": {
+      "format": "CP #####",
+      "regex": "^(?:CP)*(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "nativeName": {
+        "spa": {
+          "official": "República Oriental del Uruguay",
+          "common": "Uruguay"
+        }
+      }
+    },
+    "tld": [
+      ".uy"
+    ],
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "cioc": "URU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "UYU": {
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "98"
+      ]
+    },
+    "capital": [
+      "Montevideo"
+    ],
+    "altSpellings": [
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ウルグアイ東方共和国",
+        "common": "ウルグアイ"
+      },
+      "zho": {
+        "official": "烏拉圭東岸共和國",
+        "common": "烏拉圭"
+      }
+    },
+    "latlng": [
+      -33.0,
+      -56.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "area": 181034.0,
+    "demonyms": {
+      "eng": {
+        "f": "Uruguayan",
+        "m": "Uruguayan"
+      },
+      "fra": {
+        "f": "Uruguayenne",
+        "m": "Uruguayen"
+      }
+    },
+    "flag": "🇺🇾",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+    },
+    "population": 3473727,
+    "gini": {
+      "2019": 39.7
+    },
+    "fifa": "URU",
+    "car": {
+      "signs": [
+        "ROU"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/uy.png",
+      "svg": "https://flagcdn.com/uy.svg",
+      "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/uy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        -34.85,
+        -56.17
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin",
+      "nativeName": {
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        }
+      }
+    },
+    "tld": [
+      ".fr",
+      ".gp"
+    ],
+    "cca2": "MF",
+    "ccn3": "663",
+    "cca3": "MAF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ]
+    },
+    "capital": [
+      "Marigot"
+    ],
+    "altSpellings": [
+      "MF",
+      "Collectivity of Saint Martin",
+      "Collectivité de Saint-Martin",
+      "Saint Martin (French part)"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サンマルタン島",
+        "common": "サン・マルタン（フランス領）"
+      },
+      "zho": {
+        "official": "聖馬丁",
+        "common": "聖馬丁"
+      }
+    },
+    "latlng": [
+      18.0708,
+      63.0501
+    ],
+    "landlocked": false,
+    "borders": [
+      "SXM"
+    ],
+    "area": 53.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint Martin Islander",
+        "m": "Saint Martin Islander"
+      },
+      "fra": {
+        "f": "Saint-Martinoise",
+        "m": "Saint-Martinois"
+      }
+    },
+    "flag": "🇲🇫",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/63064"
+    },
+    "population": 38659,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mf.png",
+      "svg": "https://flagcdn.com/mf.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.07,
+        -63.08
+      ]
+    },
+    "postalCode": {
+      "format": "### ###"
+    }
+  },
+  {
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda",
+      "nativeName": {
+        "eng": {
+          "official": "Antigua and Barbuda",
+          "common": "Antigua and Barbuda"
+        }
+      }
+    },
+    "tld": [
+      ".ag"
+    ],
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "cioc": "ANT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "268"
+      ]
+    },
+    "capital": [
+      "Saint John's"
+    ],
+    "altSpellings": [
+      "AG"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アンチグアバーブーダ",
+        "common": "アンティグア・バーブーダ"
+      },
+      "zho": {
+        "official": "安提瓜和巴布達",
+        "common": "安提瓜和巴布達"
+      }
+    },
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "landlocked": false,
+    "area": 442.0,
+    "demonyms": {
+      "eng": {
+        "f": "Antiguan, Barbudan",
+        "m": "Antiguan, Barbudan"
+      },
+      "fra": {
+        "f": "Antiguaise et barbudienne",
+        "m": "Antiguaise et barbudien"
+      }
+    },
+    "flag": "🇦🇬",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
+    },
+    "population": 97928,
+    "fifa": "ATG",
+    "car": {
+      "signs": [
+        "AG"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ag.png",
+      "svg": "https://flagcdn.com/ag.svg",
+      "alt": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        17.12,
+        -61.85
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "nativeName": {
+        "eng": {
+          "official": "Canada",
+          "common": "Canada"
+        },
+        "fra": {
+          "official": "Canada",
+          "common": "Canada"
+        }
+      }
+    },
+    "tld": [
+      ".ca"
+    ],
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "cioc": "CAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "CAD": {
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        ""
+      ]
+    },
+    "capital": [
+      "Ottawa"
+    ],
+    "altSpellings": [
+      "CA"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "カナダ",
+        "common": "カナダ"
+      },
+      "zho": {
+        "official": "加拿大",
+        "common": "加拿大"
+      }
+    },
+    "latlng": [
+      60.0,
+      -95.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "USA"
+    ],
+    "area": 9984670.0,
+    "demonyms": {
+      "eng": {
+        "f": "Canadian",
+        "m": "Canadian"
+      },
+      "fra": {
+        "f": "Canadienne",
+        "m": "Canadien"
+      }
+    },
+    "flag": "🇨🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+    },
+    "population": 38005238,
+    "gini": {
+      "2017": 33.3
+    },
+    "fifa": "CAN",
+    "car": {
+      "signs": [
+        "CDN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ca.png",
+      "svg": "https://flagcdn.com/ca.svg",
+      "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [
+        45.42,
+        -75.7
+      ]
+    },
+    "postalCode": {
+      "format": "@#@ #@#",
+      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+    }
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "nativeName": {
+        "spa": {
+          "official": "República de Panamá",
+          "common": "Panamá"
+        }
+      }
+    },
+    "tld": [
+      ".pa"
+    ],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "PAB": {
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "07"
+      ]
+    },
+    "capital": [
+      "Panama City"
+    ],
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "パナマ共和国",
+        "common": "パナマ"
+      },
+      "zho": {
+        "official": "巴拿馬共和國",
+        "common": "巴拿馬"
+      }
+    },
+    "latlng": [
+      9.0,
+      -80.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417.0,
+    "demonyms": {
+      "eng": {
+        "f": "Panamanian",
+        "m": "Panamanian"
+      },
+      "fra": {
+        "f": "Panaméenne",
+        "m": "Panaméen"
+      }
+    },
+    "flag": "🇵🇦",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    },
+    "population": 4314768,
+    "gini": {
+      "2019": 49.8
+    },
+    "fifa": "PAN",
+    "car": {
+      "signs": [
+        "PA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pa.png",
+      "svg": "https://flagcdn.com/pa.svg",
+      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        8.97,
+        -79.53
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat",
+      "nativeName": {
+        "eng": {
+          "official": "Montserrat",
+          "common": "Montserrat"
+        }
+      }
+    },
+    "tld": [
+      ".ms"
+    ],
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "664"
+      ]
+    },
+    "capital": [
+      "Plymouth"
+    ],
+    "altSpellings": [
+      "MS"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "モントセラト",
+        "common": "モントセラト"
+      },
+      "zho": {
+        "official": "蒙特塞拉特",
+        "common": "蒙特塞拉特"
+      }
+    },
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "landlocked": false,
+    "area": 102.0,
+    "demonyms": {
+      "eng": {
+        "f": "Montserratian",
+        "m": "Montserratian"
+      },
+      "fra": {
+        "f": "Montserratienne",
+        "m": "Montserratien"
+      }
+    },
+    "flag": "🇲🇸",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
+    },
+    "population": 4922,
+    "fifa": "MSR",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ms.png",
+      "svg": "https://flagcdn.com/ms.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ms.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        16.7,
+        -62.22
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "nativeName": {
+        "spa": {
+          "official": "República de Nicaragua",
+          "common": "Nicaragua"
+        }
+      }
+    },
+    "tld": [
+      ".ni"
+    ],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "cioc": "NCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NIO": {
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "05"
+      ]
+    },
+    "capital": [
+      "Managua"
+    ],
+    "altSpellings": [
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "jpn": {
+        "official": "ニカラグア共和国",
+        "common": "ニカラグア"
+      },
+      "zho": {
+        "official": "尼加拉瓜共和國",
+        "common": "尼加拉瓜"
+      }
+    },
+    "latlng": [
+      13.0,
+      -85.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373.0,
+    "demonyms": {
+      "eng": {
+        "f": "Nicaraguan",
+        "m": "Nicaraguan"
+      },
+      "fra": {
+        "f": "Nicaraguayenne",
+        "m": "Nicaraguayen"
+      }
+    },
+    "flag": "🇳🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    },
+    "population": 6624554,
+    "gini": {
+      "2014": 46.2
+    },
+    "fifa": "NCA",
+    "car": {
+      "signs": [
+        "NIC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ni.png",
+      "svg": "https://flagcdn.com/ni.svg",
+      "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        12.13,
+        -86.25
+      ]
+    },
+    "postalCode": {
+      "format": "###-###-#",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint Pierre and Miquelon",
+      "nativeName": {
+        "fra": {
+          "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+          "common": "Saint-Pierre-et-Miquelon"
+        }
+      }
+    },
+    "tld": [
+      ".pm"
+    ],
+    "cca2": "PM",
+    "ccn3": "666",
+    "cca3": "SPM",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "08"
+      ]
+    },
+    "capital": [
+      "Saint-Pierre"
+    ],
+    "altSpellings": [
+      "PM",
+      "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "jpn": {
+        "official": "サンピエール島·ミクロン島",
+        "common": "サンピエール島・ミクロン島"
+      },
+      "zho": {
+        "official": "聖皮埃爾和密克隆",
+        "common": "聖皮埃爾和密克隆"
+      }
+    },
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "landlocked": false,
+    "area": 242.0,
+    "demonyms": {
+      "eng": {
+        "f": "Saint-Pierrais, Miquelonnais",
+        "m": "Saint-Pierrais, Miquelonnais"
+      },
+      "fra": {
+        "f": "Saint-Pierraise, Miquelonaise",
+        "m": "Saint-Pierrais, Miquelonais"
+      }
+    },
+    "flag": "🇵🇲",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
+    },
+    "population": 6069,
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pm.png",
+      "svg": "https://flagcdn.com/pm.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        46.77,
+        -56.18
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(97500)$"
+    }
+  },
+  {
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States",
+      "nativeName": {
+        "eng": {
+          "official": "Virgin Islands of the United States",
+          "common": "United States Virgin Islands"
+        }
+      }
+    },
+    "tld": [
+      ".vi"
+    ],
+    "cca2": "VI",
+    "ccn3": "850",
+    "cca3": "VIR",
+    "cioc": "ISV",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "340"
+      ]
+    },
+    "capital": [
+      "Charlotte Amalie"
+    ],
+    "altSpellings": [
+      "VI",
+      "Virgin Islands, U.S."
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "米国のバージン諸島",
+        "common": "アメリカ領ヴァージン諸島"
+      },
+      "zho": {
+        "official": "美屬維爾京羣島",
+        "common": "美屬維爾京羣島"
+      }
+    },
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "landlocked": false,
+    "area": 347.0,
+    "demonyms": {
+      "eng": {
+        "f": "Virgin Islander",
+        "m": "Virgin Islander"
+      }
+    },
+    "flag": "🇻🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+      "openStreetMaps": "openstreetmap.org/relation/286898"
+    },
+    "population": 106290,
+    "fifa": "VIR",
+    "car": {
+      "signs": [
+        "USA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vi.png",
+      "svg": "https://flagcdn.com/vi.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.35,
+        -64.93
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla",
+      "nativeName": {
+        "eng": {
+          "official": "Anguilla",
+          "common": "Anguilla"
+        }
+      }
+    },
+    "tld": [
+      ".ai"
+    ],
+    "cca2": "AI",
+    "ccn3": "660",
+    "cca3": "AIA",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "264"
+      ]
+    },
+    "capital": [
+      "The Valley"
+    ],
+    "altSpellings": [
+      "AI"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "jpn": {
+        "official": "アングィラ",
+        "common": "アンギラ"
+      },
+      "zho": {
+        "official": "安圭拉",
+        "common": "安圭拉"
+      }
+    },
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "landlocked": false,
+    "area": 91.0,
+    "demonyms": {
+      "eng": {
+        "f": "Anguillian",
+        "m": "Anguillian"
+      },
+      "fra": {
+        "f": "Anguillane",
+        "m": "Anguillan"
+      }
+    },
+    "flag": "🇦🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
+    },
+    "population": 13452,
+    "fifa": "AIA",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ai.png",
+      "svg": "https://flagcdn.com/ai.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ai.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        18.22,
+        -63.05
+      ]
+    }
+  }
+]

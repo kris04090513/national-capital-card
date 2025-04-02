@@ -7,7 +7,8 @@ import { CardComponent } from './component/card/card.component';
 import { AsiaPageComponent } from './view/asia-page/asia-page.component';
 import { WorldMapComponent } from './view/world-map/world-map.component';
 import { CountryListComponent } from './component/country-list/country-list.component';
-import { HttpClientModule } from '@angular/common/http'
+import { HttpClientModule } from '@angular/common/http';
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -15,14 +16,11 @@ import { HttpClientModule } from '@angular/common/http'
     CardComponent,
     AsiaPageComponent,
     WorldMapComponent,
-    CountryListComponent
+    CountryListComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+  imports: [BrowserModule, AppRoutingModule, HttpClientModule],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],
+
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

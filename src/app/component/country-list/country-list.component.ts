@@ -17,7 +17,6 @@ export class CountryListComponent implements OnInit {
 
   ngOnInit(): void {
     this.continent = this.route.snapshot.paramMap.get('name') || '';
-    // console.log('continent', this.continent);
 
     this.fetchCountries(this.continent);
   }
@@ -36,7 +35,7 @@ export class CountryListComponent implements OnInit {
       this.countries = data.filter(
         (c) => c.region === this.continent || c.subregion === this.continent
       );
-      console.log('⏰', this.countries);
+      // console.log('⏰', this.countries);
     });
   }
 }

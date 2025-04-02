@@ -1,10 +1,12 @@
 # NationalCapitalCard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.3.0.
+
+這是一個測試用的小專案 還有很多要修改及未完成的地方 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4300/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -25,3 +27,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### 上版動作 到github page
+先修改 baseurl 並build專案
+`ng build --base-href "/national-capital-card/"`
+在發佈到github page
+`npx angular-cli-ghpages --dir=dist/national-capital-card`

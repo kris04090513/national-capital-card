@@ -25,6 +25,11 @@
             }}
             ({{ country.name.common }})
           </h5>
+          <span
+            class="tags"
+            [style.background-color]="getSubregionColor(country.subregion)"
+            >{{ getSubregionTranslation(country.subregion) }}</span
+          >
         </div>
         <div class="card-back">
           <p>首都: {{ country.capital[0] }}</p>

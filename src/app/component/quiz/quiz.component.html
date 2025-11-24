@@ -1,30 +1,29 @@
-<div class="container mt-5 text-center">
+<div class="container mt-4">
   <!-- Menu View -->
-  <div *ngIf="gameState === 'menu'" class="quiz-menu card p-4 mx-auto" style="max-width: 600px;">
-    <h2 class="mb-4">互動問答遊戲</h2>
+  <div *ngIf="gameState === 'menu'" class="quiz-menu card p-4 mx-auto" style="max-width: 500px;">
+    <h2 class="text-center mb-4">{{ languageService.translate('quiz.title') }}</h2>
     
-    <div class="mb-4">
-      <label class="form-label">選擇地區</label>
-      <div class="d-flex flex-wrap justify-content-center gap-2">
+    <div class="mb-3">
+      <label class="form-label">{{ languageService.translate('quiz.region.all') }}</label>
+      <div class="d-grid gap-2 d-md-block">
         <button *ngFor="let region of regions" 
-                class="btn" 
-                [class.btn-primary]="selectedRegion === region.value"
-                [class.btn-outline-primary]="selectedRegion !== region.value"
+                class="btn btn-outline-primary m-1"
+                [class.active]="selectedRegion === region.value"
                 (click)="selectedRegion = region.value">
-          {{ region.label }}
+          {{ languageService.translate(region.label) }}
         </button>
       </div>
     </div>
 
     <div class="d-grid gap-3">
       <button class="btn btn-primary btn-lg" (click)="startGame('standard')">
-        綜合測驗 (10題)
+        {{ languageService.translate('quiz.mode.standard') }}
       </button>
       <button class="btn btn-secondary btn-lg" (click)="startGame('infinite')">
-        無限試題模式
+        {{ languageService.translate('quiz.mode.infinite') }}
       </button>
       <button class="btn btn-outline-dark btn-lg" routerLink="/map">
-        回到地圖
+        {{ languageService.translate('btn.back') }}
       </button>
     </div>
   </div>
@@ -33,29 +32,29 @@
   <div *ngIf="gameState === 'playing'" class="quiz-playing">
     <div class="d-flex justify-content-between align-items-center mb-3 mx-auto" style="max-width: 600px;">
       <div class="score-board">
-        <span class="badge bg-success me-2">答對: {{ score }}</span>
-        <span class="badge bg-danger">答錯: {{ wrongCount }}</span>
+        <span class="badge bg-success me-2">{{ languageService.translate('quiz.correct') }}: {{ score }}</span>
+        <span class="badge bg-danger">{{ languageService.translate('quiz.wrong') }}: {{ wrongCount }}</span>
       </div>
       <div class="timer fs-4 fw-bold text-primary">
         {{ formatTime(timer) }}
       </div>
-      <button class="btn btn-outline-danger btn-sm" (click)="endGame()">結束測驗</button>
+      <button class="btn btn-outline-danger btn-sm" (click)="endGame()">{{ languageService.translate('quiz.end') }}</button>
     </div>
 
     <div *ngIf="!loading && currentQuestion" class="quiz-card card p-4 mx-auto" style="max-width: 600px;">
       <div class="question-section mb-4">
-        <h5>{{ currentQuestion.question }}</h5>
+        <h5>{{ currentQuestion?.question }}</h5>
         
         <!-- Standard Flag Display -->
         <img *ngIf="currentQuestion.type !== 'reverse-flag' && currentQuestion.flagUrl" 
-             [src]="currentQuestion.flagUrl" 
+             [src]="currentQuestion?.flagUrl" 
              alt="Flag" 
              class="img-fluid my-3 border" 
              style="max-height: 200px;">
       </div>
 
       <!-- Options Section -->
-      <div class="options-section d-grid gap-2" [ngClass]="{'row g-2': currentQuestion.type === 'reverse-flag'}">
+      <div class="options-section d-grid gap-2" [class.row]="currentQuestion?.type === 'reverse-flag'" [class.g-2]="currentQuestion?.type === 'reverse-flag'">
         
         <!-- Standard Text Options -->
         <ng-container *ngIf="currentQuestion.type !== 'reverse-flag'">
@@ -80,50 +79,57 @@
 
       </div>
 
-      <div *ngIf="message" class="alert mt-3" [ngClass]="{'alert-success': isCorrect, 'alert-danger': !isCorrect}">
+      <div *ngIf="message" class="alert mt-3" [class.alert-success]="isCorrect" [class.alert-danger]="!isCorrect">
         {{ message }}
       </div>
     </div>
   </div>
 
   <!-- Result View -->
-  <div *ngIf="gameState === 'result'" class="quiz-result card p-4 mx-auto" style="max-width: 600px;">
-    <h2 class="mb-4">測驗結果</h2>
+  <div *ngIf="gameState === 'result'" class="quiz-result card p-4 mx-auto text-center" style="max-width: 600px;">
+    <h2 class="mb-4">{{ languageService.translate('quiz.result') }}</h2>
     
     <div class="row mb-4">
       <div class="col-4">
-        <div class="stat-card bg-light p-3 rounded">
-          <div class="fs-3 fw-bold text-success">{{ score }}</div>
-          <div class="text-muted">答對</div>
+        <div class="stat-card p-3 bg-light rounded">
+          <div class="text-muted small">{{ languageService.translate('quiz.correct') }}</div>
+          <div class="fs-2 fw-bold text-success">{{ score }}</div>
         </div>
       </div>
       <div class="col-4">
-        <div class="stat-card bg-light p-3 rounded">
-          <div class="fs-3 fw-bold text-danger">{{ wrongCount }}</div>
-          <div class="text-muted">答錯</div>
+        <div class="stat-card p-3 bg-light rounded">
+          <div class="text-muted small">{{ languageService.translate('quiz.wrong') }}</div>
+          <div class="fs-2 fw-bold text-danger">{{ wrongCount }}</div>
         </div>
       </div>
       <div class="col-4">
-        <div class="stat-card bg-light p-3 rounded">
-          <div class="fs-3 fw-bold text-primary">{{ formatTime(timer) }}</div>
-          <div class="text-muted">用時</div>
+        <div class="stat-card p-3 bg-light rounded">
+          <div class="text-muted small">{{ languageService.translate('quiz.time') }}</div>
+          <div class="fs-2 fw-bold text-primary">{{ formatTime(timer) }}</div>
         </div>
       </div>
     </div>
 
     <div *ngIf="wrongAnswers.length > 0" class="wrong-answers mb-4 text-start">
-      <h5 class="text-danger mb-3">錯題複習</h5>
+      <h5 class="text-danger mb-3">{{ languageService.translate('quiz.review') }}</h5>
       <div class="list-group">
         <div *ngFor="let item of wrongAnswers" class="list-group-item">
           <div class="fw-bold">{{ item.question }}</div>
-          <div class="text-danger"><small>您的回答: {{ item.userAnswer }}</small></div>
-          <div class="text-success"><small>正確答案: {{ item.correctAnswer }}</small></div>
+          <div class="text-danger"><small>{{ languageService.translate('quiz.your_answer') }}: {{ item.userAnswer }}</small></div>
+          
+          <div *ngIf="item.correctFlagUrl; else textAnswer" class="mt-2">
+             <small class="text-success d-block mb-1">{{ languageService.translate('quiz.correct_answer') }}:</small>
+             <img [src]="item.correctFlagUrl" alt="Correct Flag" class="img-fluid border" style="max-height: 50px;">
+          </div>
+          <ng-template #textAnswer>
+            <div class="text-success"><small>{{ languageService.translate('quiz.correct_answer') }}: {{ item.correctAnswer }}</small></div>
+          </ng-template>
         </div>
       </div>
     </div>
 
-    <div class="d-grid gap-2">
-      <button class="btn btn-primary btn-lg" (click)="restart()">返回選單</button>
-    </div>
+    <button class="btn btn-primary btn-lg" (click)="backToMenu()">
+      {{ languageService.translate('quiz.back_menu') }}
+    </button>
   </div>
 </div>

@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { LanguageService } from '../../service/language.service';
 
 @Component({
   selector: 'app-card',
@@ -15,13 +16,15 @@ export class CardComponent implements OnInit {
   @Input() language: string = '';
   @Input() continent: string = '';
   @Input() wikiLink: string = '';
+  
   open: boolean = true;
   isFlipped: boolean = false;
+
+  constructor(public languageService: LanguageService) {}
 
   flipCard() {
     this.isFlipped = !this.isFlipped;
   }
-  constructor() {}
 
   ngOnInit(): void {}
  

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
+import { LanguageService } from '../../service/language.service';
 
 @Component({
   selector: 'app-country-list',
@@ -16,7 +17,11 @@ export class CountryListComponent implements OnInit {
   selectedSubregion: string = 'all';
   subregions: string[] = [];
 
-  constructor(private route: ActivatedRoute, private http: HttpClient) {}
+  constructor(
+    private route: ActivatedRoute, 
+    private http: HttpClient,
+    public languageService: LanguageService
+  ) {}
 
   ngOnInit(): void {
     this.continent = this.route.snapshot.paramMap.get('name') || '';

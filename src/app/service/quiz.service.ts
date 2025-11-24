@@ -11,6 +11,8 @@ export interface Question {
   countryName?: string;
 }
 
+import { LanguageService } from './language.service';
+
 @Injectable({
   providedIn: 'root',
 })
@@ -19,7 +21,7 @@ export class QuizService {
   private allCountries: any[] = [];
   private filteredCountries: any[] = [];
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient, private languageService: LanguageService) {}
 
   loadAllCountries(): Observable<any[]> {
     const requests = this.continents.map((c) =>
@@ -50,11 +52,11 @@ export class QuizService {
 
   generateMultipleChoiceQuestion(): Question {
     const country = this.getRandomCountry();
-    const correctAnswer = country.translations?.zho?.common || country.name.common;
+    const correctAnswer = this.languageService.getCountryName(country);
     const options = [correctAnswer];
 
     while (options.length < 4) {
-      const randomOption = this.getRandomCountry().translations?.zho?.common || this.getRandomCountry().name.common;
+      const randomOption = this.languageService.getCountryName(this.getRandomCountry());
       if (!options.includes(randomOption)) {
         options.push(randomOption);
       }
@@ -62,18 +64,18 @@ export class QuizService {
 
     return {
       type: 'multiple-choice',
-      question: '這面旗幟屬於哪個國家？',
+      question: this.languageService.translate('q.flag'),
       flagUrl: country.flags.svg,
       options: this.shuffleArray(options),
       correctAnswer: correctAnswer,
-      countryName: correctAnswer // Add for review
+      countryName: correctAnswer
     };
   }
 
   generateMatchingQuestion(): Question {
     const country = this.getRandomCountry();
     const capital = country.capital?.[0] || '未知';
-    const countryName = country.translations?.zho?.common || country.name.common;
+    const countryName = this.languageService.getCountryName(country);
     const options = [capital];
 
     while (options.length < 4) {
@@ -85,7 +87,7 @@ export class QuizService {
 
     return {
       type: 'matching',
-      question: `${countryName} 的首都為何？`,
+      question: `${countryName} ${this.languageService.translate('q.capital')}`,
       options: this.shuffleArray(options),
       correctAnswer: capital,
     };
@@ -94,7 +96,7 @@ export class QuizService {
   generateTrueFalseQuestion(): Question {
     const country = this.getRandomCountry();
     const isCorrect = Math.random() > 0.5;
-    const countryName = country.translations?.zho?.common || country.name.common;
+    const countryName = this.languageService.getCountryName(country);
     let displayedCapital = country.capital?.[0] || '未知';
 
     if (!isCorrect) {
@@ -103,23 +105,28 @@ export class QuizService {
 
     return {
       type: 'true-false',
-      question: `${countryName} 的首都是 ${displayedCapital} 嗎？`,
-      options: ['是', '否'],
-      correctAnswer: isCorrect ? '是' : '否',
+      question: `${countryName} ${this.languageService.translate('q.capital_check')} ${displayedCapital} ?`,
+      options: [this.languageService.translate('bool.yes'), this.languageService.translate('bool.no')],
+      correctAnswer: isCorrect ? this.languageService.translate('bool.yes') : this.languageService.translate('bool.no'),
     };
   }
 
   generateContinentQuestion(): Question {
     const country = this.getRandomCountry();
-    const countryName = country.translations?.zho?.common || country.name.common;
+    const countryName = this.languageService.getCountryName(country);
     const correctContinent = this.getContinentTranslation(country.region);
     
-    // Options are fixed: Asia, Europe, Africa, Americas, Oceania
-    const options = ['亞洲', '歐洲', '非洲', '美洲', '大洋洲'];
+    const options = [
+      this.languageService.translate('quiz.region.asia'),
+      this.languageService.translate('quiz.region.europe'),
+      this.languageService.translate('quiz.region.africa'),
+      this.languageService.translate('quiz.region.americas'),
+      this.languageService.translate('quiz.region.oceania')
+    ];
 
     return {
       type: 'continent',
-      question: `${countryName} 位於哪一個洲？`,
+      question: `${countryName} ${this.languageService.translate('q.continent')}`,
       flagUrl: country.flags.svg,
       options: options,
       correctAnswer: correctContinent,
@@ -128,7 +135,7 @@ export class QuizService {
 
   generateReverseFlagQuestion(): Question {
     const country = this.getRandomCountry();
-    const countryName = country.translations?.zho?.common || country.name.common;
+    const countryName = this.languageService.getCountryName(country);
     const correctFlag = country.flags.svg;
     
     const options = [correctFlag];
@@ -141,7 +148,7 @@ export class QuizService {
 
     return {
       type: 'reverse-flag',
-      question: `哪一面是 ${countryName} 的國旗？`,
+      question: `${this.languageService.translate('q.reverse_flag')} ${countryName} ${this.languageService.translate('q.reverse_flag_suffix')}`,
       options: this.shuffleArray(options),
       correctAnswer: correctFlag,
     };
@@ -149,14 +156,14 @@ export class QuizService {
 
   private getContinentTranslation(region: string): string {
     const map: { [key: string]: string } = {
-      'Asia': '亞洲',
-      'Europe': '歐洲',
-      'Africa': '非洲',
-      'Americas': '美洲',
-      'Oceania': '大洋洲',
-      'Antarctic': '南極洲'
+      'Asia': 'quiz.region.asia',
+      'Europe': 'quiz.region.europe',
+      'Africa': 'quiz.region.africa',
+      'Americas': 'quiz.region.americas',
+      'Oceania': 'quiz.region.oceania',
+      'Antarctic': 'quiz.region.antarctic' // Add if needed
     };
-    return map[region] || region;
+    return this.languageService.translate(map[region] || region);
   }
 
   private getRandomCountry(): any {

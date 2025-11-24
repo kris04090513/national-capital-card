@@ -11,13 +11,16 @@ import { CountryListComponent } from './component/country-list/country-list.comp
 import { HttpClientModule } from '@angular/common/http';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
+import { QuizComponent } from './component/quiz/quiz.component';
+
 @NgModule({
   declarations: [
     AppComponent,
     CardComponent,
-    AsiaPageComponent,
     WorldMapComponent,
     CountryListComponent,
+    AsiaPageComponent,
+    QuizComponent
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, FormsModule],
   providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],

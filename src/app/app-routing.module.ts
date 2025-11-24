@@ -4,9 +4,12 @@ import { WorldMapComponent } from './view/world-map/world-map.component';
 import { CountryListComponent } from './component/country-list/country-list.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
+import { QuizComponent } from './component/quiz/quiz.component';
+
 const routes: Routes = [
   { path: '', component: WorldMapComponent },
   { path: 'continent/:name', component: CountryListComponent },
+  { path: 'quiz', component: QuizComponent },
 ];
 
 @NgModule({

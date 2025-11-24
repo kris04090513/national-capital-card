@@ -121,4 +121,14 @@ export class CountryListComponent implements OnInit {
 
     return translationMap[subregion] || subregion; // Return original if translation not found
   }
+
+  getLanguages(languages: any): string {
+    if (!languages) return '未知';
+    return Object.values(languages).join(', ');
+  }
+
+  getWikiLink(country: any): string {
+    const name = country.translations?.zho?.common || country.name.common;
+    return `https://zh.wikipedia.org/wiki/${name}`;
+  }
 }

@@ -11,6 +11,10 @@ export class CardComponent implements OnInit {
   @Input() nationalEn: string = 'Taiwan';
   @Input() capitalCh: string = '台北';
   @Input() capitalEn: string = 'taipei';
+  @Input() population: number = 0;
+  @Input() language: string = '';
+  @Input() continent: string = '';
+  @Input() wikiLink: string = '';
   open: boolean = true;
   isFlipped: boolean = false;
 

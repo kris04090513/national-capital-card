@@ -4,10 +4,17 @@
       <div>{{ nationalCh }}</div>
       <div>{{ nationalEn }}</div>
     </div>
-    <div class="card-face back">
-      <div>{{ capitalCh }}</div>
-      <div>{{ capitalEn }}</div>
+    <div class="card-back">
+    <div class="card-content">
+      <p><strong>首都:</strong> {{ capitalCh }} ({{ capitalEn }})</p>
+      <p><strong>人口:</strong> {{ population | number }}</p>
+      <p><strong>語言:</strong> {{ language }}</p>
+      <p><strong>洲份:</strong> {{ continent }}</p>
+      <a [href]="wikiLink" target="_blank" class="btn btn-sm btn-info mt-2" (click)="$event.stopPropagation()">
+        維基百科
+      </a>
     </div>
+  </div>
   </div>
   <div class="card-flag">
     <img src="/assets/imgs/flags/{{ nationalFlag }}.svg" alt="{{nationalFlag}}" />

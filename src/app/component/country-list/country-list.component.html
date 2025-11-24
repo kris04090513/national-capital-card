@@ -46,8 +46,15 @@
           >
         </div>
         <div class="card-back">
-          <p>首都: {{ country.capital[0] }}</p>
-          <p>人口: {{ country.population | number }}</p>
+          <div class="p-3">
+            <p class="mb-1"><strong>首都:</strong> {{ country.capital?.[0] || '無' }}</p>
+            <p class="mb-1"><strong>人口:</strong> {{ country.population | number }}</p>
+            <p class="mb-1"><strong>語言:</strong> {{ getLanguages(country.languages) }}</p>
+            <p class="mb-1"><strong>洲份:</strong> {{ getSubregionTranslation(country.subregion) }}</p>
+            <a [href]="getWikiLink(country)" target="_blank" class="btn btn-sm btn-info mt-2" (click)="$event.stopPropagation()">
+              維基百科
+            </a>
+          </div>
         </div>
       </div>
     </div>

@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable, forkJoin, map } from 'rxjs';
 
 export interface Question {
-  type: 'multiple-choice' | 'matching' | 'true-false';
+  type: 'multiple-choice' | 'matching' | 'true-false' | 'continent' | 'reverse-flag';
   question: string;
   options?: string[];
   correctAnswer: string;
@@ -107,6 +107,56 @@ export class QuizService {
       options: ['是', '否'],
       correctAnswer: isCorrect ? '是' : '否',
     };
+  }
+
+  generateContinentQuestion(): Question {
+    const country = this.getRandomCountry();
+    const countryName = country.translations?.zho?.common || country.name.common;
+    const correctContinent = this.getContinentTranslation(country.region);
+    
+    // Options are fixed: Asia, Europe, Africa, Americas, Oceania
+    const options = ['亞洲', '歐洲', '非洲', '美洲', '大洋洲'];
+
+    return {
+      type: 'continent',
+      question: `${countryName} 位於哪一個洲？`,
+      flagUrl: country.flags.svg,
+      options: options,
+      correctAnswer: correctContinent,
+    };
+  }
+
+  generateReverseFlagQuestion(): Question {
+    const country = this.getRandomCountry();
+    const countryName = country.translations?.zho?.common || country.name.common;
+    const correctFlag = country.flags.svg;
+    
+    const options = [correctFlag];
+    while (options.length < 4) {
+      const randomFlag = this.getRandomCountry().flags.svg;
+      if (!options.includes(randomFlag)) {
+        options.push(randomFlag);
+      }
+    }
+
+    return {
+      type: 'reverse-flag',
+      question: `哪一面是 ${countryName} 的國旗？`,
+      options: this.shuffleArray(options),
+      correctAnswer: correctFlag,
+    };
+  }
+
+  private getContinentTranslation(region: string): string {
+    const map: { [key: string]: string } = {
+      'Asia': '亞洲',
+      'Europe': '歐洲',
+      'Africa': '非洲',
+      'Americas': '美洲',
+      'Oceania': '大洋洲',
+      'Antarctic': '南極洲'
+    };
+    return map[region] || region;
   }
 
   private getRandomCountry(): any {

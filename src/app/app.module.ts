@@ -12,6 +12,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 import { QuizComponent } from './component/quiz/quiz.component';
+import { LandingComponent } from './view/landing/landing.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { QuizComponent } from './component/quiz/quiz.component';
     WorldMapComponent,
     CountryListComponent,
     AsiaPageComponent,
-    QuizComponent
+    QuizComponent,
+    LandingComponent
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule, FormsModule],
   providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],

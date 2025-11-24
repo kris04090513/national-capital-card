@@ -5,9 +5,11 @@ import { CountryListComponent } from './component/country-list/country-list.comp
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 import { QuizComponent } from './component/quiz/quiz.component';
+import { LandingComponent } from './view/landing/landing.component';
 
 const routes: Routes = [
-  { path: '', component: WorldMapComponent },
+  { path: '', component: LandingComponent },
+  { path: 'map', component: WorldMapComponent },
   { path: 'continent/:name', component: CountryListComponent },
   { path: 'quiz', component: QuizComponent },
 ];

@@ -88,7 +88,7 @@ export class QuizComponent implements OnInit {
     }
 
     this.questionCount++;
-    const randomType = Math.floor(Math.random() * 3);
+    const randomType = Math.floor(Math.random() * 5);
     switch (randomType) {
       case 0:
         this.currentQuestion = this.quizService.generateMultipleChoiceQuestion();
@@ -98,6 +98,12 @@ export class QuizComponent implements OnInit {
         break;
       case 2:
         this.currentQuestion = this.quizService.generateTrueFalseQuestion();
+        break;
+      case 3:
+        this.currentQuestion = this.quizService.generateContinentQuestion();
+        break;
+      case 4:
+        this.currentQuestion = this.quizService.generateReverseFlagQuestion();
         break;
     }
     this.message = '';

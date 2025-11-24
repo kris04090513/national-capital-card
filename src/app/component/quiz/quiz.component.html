@@ -43,18 +43,18 @@
 
     <div *ngIf="!loading && currentQuestion" class="quiz-card card p-4 mx-auto" style="max-width: 600px;">
       <div class="question-section mb-4">
-        <h5>{{ currentQuestion?.question }}</h5>
+        <h5>{{ currentQuestion.question }}</h5>
         
         <!-- Standard Flag Display -->
         <img *ngIf="currentQuestion.type !== 'reverse-flag' && currentQuestion.flagUrl" 
-             [src]="currentQuestion?.flagUrl" 
+             [src]="currentQuestion.flagUrl" 
              alt="Flag" 
              class="img-fluid my-3 border" 
              style="max-height: 200px;">
       </div>
 
       <!-- Options Section -->
-      <div class="options-section d-grid gap-2" [class.row]="currentQuestion?.type === 'reverse-flag'" [class.g-2]="currentQuestion?.type === 'reverse-flag'">
+      <div class="options-section d-grid gap-2" [class.row]="currentQuestion.type === 'reverse-flag'" [class.g-2]="currentQuestion.type === 'reverse-flag'">
         
         <!-- Standard Text Options -->
         <ng-container *ngIf="currentQuestion.type !== 'reverse-flag'">

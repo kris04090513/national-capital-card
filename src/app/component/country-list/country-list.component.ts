@@ -11,13 +11,15 @@ import { environment } from 'src/environments/environment';
 export class CountryListComponent implements OnInit {
   continent: string = '';
   countries: any[] = [];
+  filteredCountries: any[] = [];
   count: number = 0;
+  selectedSubregion: string = 'all';
+  subregions: string[] = [];
 
   constructor(private route: ActivatedRoute, private http: HttpClient) {}
 
   ngOnInit(): void {
     this.continent = this.route.snapshot.paramMap.get('name') || '';
-
     this.fetchCountries(this.continent);
   }
 
@@ -35,8 +37,27 @@ export class CountryListComponent implements OnInit {
       this.countries = data.filter(
         (c) => c.region === this.continent || c.subregion === this.continent
       );
-      // console.log('⏰', this.countries);
+      this.filteredCountries = [...this.countries];
+      this.updateSubregions();
     });
+  }
+
+  updateSubregions(): void {
+    const uniqueSubregions = new Set(
+      this.countries.map((country) => country.subregion)
+    );
+    this.subregions = ['all', ...Array.from(uniqueSubregions).sort()];
+  }
+
+  onSubregionChange(): void {
+    if (this.selectedSubregion === 'all') {
+      this.filteredCountries = [...this.countries];
+    } else {
+      this.filteredCountries = this.countries.filter(
+        (country) => country.subregion === this.selectedSubregion
+      );
+    }
+    this.count = this.filteredCountries.length;
   }
 
   getSubregionColor(subregion: string): string {

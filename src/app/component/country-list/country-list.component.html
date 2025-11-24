@@ -7,12 +7,26 @@
         <div>計數：{{ count }}</div>
       </div>
       <div class="d-flex flex-wrap align-content-center">
+        <select
+          class="form-select me-2"
+          [(ngModel)]="selectedSubregion"
+          (change)="onSubregionChange()"
+          style="width: auto"
+        >
+          <option *ngFor="let subregion of subregions" [value]="subregion">
+            {{
+              subregion === "all"
+                ? "所有地區"
+                : getSubregionTranslation(subregion)
+            }}
+          </option>
+        </select>
         <button class="btn btn-primary" routerLink="/">回首頁</button>
       </div>
     </div>
   </div>
   <div class="card-container">
-    <div class="card" *ngFor="let country of countries">
+    <div class="card" *ngFor="let country of filteredCountries">
       <div class="card-inner">
         <div class="card-front">
           <div class="card-front-img">

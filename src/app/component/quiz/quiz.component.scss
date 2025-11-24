@@ -1,4 +1,4 @@
-.quiz-card {
+.quiz-card, .quiz-menu, .quiz-result {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   border-radius: 15px;
 }
@@ -6,4 +6,17 @@
 .btn-lg {
   font-size: 1.2rem;
   padding: 15px;
+}
+
+.stat-card {
+  transition: transform 0.2s;
+}
+
+.stat-card:hover {
+  transform: translateY(-5px);
+}
+
+.wrong-answers {
+  max-height: 300px;
+  overflow-y: auto;
 }

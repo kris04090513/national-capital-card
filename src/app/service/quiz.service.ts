@@ -17,6 +17,7 @@ export interface Question {
 export class QuizService {
   private continents = ['asia', 'europe', 'africa', 'americas', 'oceania'];
   private allCountries: any[] = [];
+  private filteredCountries: any[] = [];
 
   constructor(private http: HttpClient) {}
 
@@ -27,9 +28,24 @@ export class QuizService {
     return forkJoin(requests).pipe(
       map((results) => {
         this.allCountries = results.flat();
+        this.filteredCountries = [...this.allCountries]; // Default to all
         return this.allCountries;
       })
     );
+  }
+
+  setQuizConfig(region: string): void {
+    if (region === 'all') {
+      this.filteredCountries = [...this.allCountries];
+    } else {
+      // region in JSON is capitalized (e.g., "Asia"), but our input might be lowercase
+      // The JSON data has "region": "Asia", "Europe", etc.
+      // Let's handle case insensitivity just in case
+      const targetRegion = region.toLowerCase();
+      this.filteredCountries = this.allCountries.filter(
+        (c) => c.region.toLowerCase() === targetRegion
+      );
+    }
   }
 
   generateMultipleChoiceQuestion(): Question {
@@ -50,6 +66,7 @@ export class QuizService {
       flagUrl: country.flags.svg,
       options: this.shuffleArray(options),
       correctAnswer: correctAnswer,
+      countryName: correctAnswer // Add for review
     };
   }
 
@@ -93,7 +110,11 @@ export class QuizService {
   }
 
   private getRandomCountry(): any {
-    return this.allCountries[Math.floor(Math.random() * this.allCountries.length)];
+    if (this.filteredCountries.length === 0) {
+      // Fallback if something goes wrong or filter is empty
+      return this.allCountries[Math.floor(Math.random() * this.allCountries.length)];
+    }
+    return this.filteredCountries[Math.floor(Math.random() * this.filteredCountries.length)];
   }
 
   private shuffleArray(array: any[]): any[] {

@@ -1,30 +1,103 @@
 <div class="container mt-5 text-center">
-  <h2>互動問答遊戲</h2>
-  <div class="score-board mb-4">
-    <h4>得分: {{ score }}</h4>
-  </div>
-
-  <div *ngIf="loading" class="spinner-border text-primary" role="status">
-    <span class="visually-hidden">Loading...</span>
-  </div>
-
-  <div *ngIf="!loading && currentQuestion" class="quiz-card card p-4 mx-auto" style="max-width: 600px;">
-    <div class="question-section mb-4">
-      <h5>{{ currentQuestion.question }}</h5>
-      <img *ngIf="currentQuestion.flagUrl" [src]="currentQuestion.flagUrl" alt="Flag" class="img-fluid my-3 border" style="max-height: 200px;">
+  <!-- Menu View -->
+  <div *ngIf="gameState === 'menu'" class="quiz-menu card p-4 mx-auto" style="max-width: 600px;">
+    <h2 class="mb-4">互動問答遊戲</h2>
+    
+    <div class="mb-4">
+      <label class="form-label">選擇地區</label>
+      <div class="d-flex flex-wrap justify-content-center gap-2">
+        <button *ngFor="let region of regions" 
+                class="btn" 
+                [class.btn-primary]="selectedRegion === region.value"
+                [class.btn-outline-primary]="selectedRegion !== region.value"
+                (click)="selectedRegion = region.value">
+          {{ region.label }}
+        </button>
+      </div>
     </div>
 
-    <div class="options-section d-grid gap-2">
-      <button *ngFor="let option of currentQuestion.options" 
-              class="btn btn-outline-primary btn-lg" 
-              (click)="checkAnswer(option)"
-              [disabled]="isCorrect !== null">
-        {{ option }}
+    <div class="d-grid gap-3">
+      <button class="btn btn-primary btn-lg" (click)="startGame('standard')">
+        綜合測驗 (10題)
+      </button>
+      <button class="btn btn-secondary btn-lg" (click)="startGame('infinite')">
+        無限試題模式
       </button>
     </div>
+  </div>
 
-    <div *ngIf="message" class="alert mt-3" [ngClass]="{'alert-success': isCorrect, 'alert-danger': !isCorrect}">
-      {{ message }}
+  <!-- Playing View -->
+  <div *ngIf="gameState === 'playing'" class="quiz-playing">
+    <div class="d-flex justify-content-between align-items-center mb-3 mx-auto" style="max-width: 600px;">
+      <div class="score-board">
+        <span class="badge bg-success me-2">答對: {{ score }}</span>
+        <span class="badge bg-danger">答錯: {{ wrongCount }}</span>
+      </div>
+      <div class="timer fs-4 fw-bold text-primary">
+        {{ formatTime(timer) }}
+      </div>
+      <button class="btn btn-outline-danger btn-sm" (click)="endGame()">結束測驗</button>
+    </div>
+
+    <div *ngIf="!loading && currentQuestion" class="quiz-card card p-4 mx-auto" style="max-width: 600px;">
+      <div class="question-section mb-4">
+        <h5>{{ currentQuestion.question }}</h5>
+        <img *ngIf="currentQuestion.flagUrl" [src]="currentQuestion.flagUrl" alt="Flag" class="img-fluid my-3 border" style="max-height: 200px;">
+      </div>
+
+      <div class="options-section d-grid gap-2">
+        <button *ngFor="let option of currentQuestion.options" 
+                class="btn btn-outline-primary btn-lg" 
+                (click)="checkAnswer(option)"
+                [disabled]="isCorrect !== null">
+          {{ option }}
+        </button>
+      </div>
+
+      <div *ngIf="message" class="alert mt-3" [ngClass]="{'alert-success': isCorrect, 'alert-danger': !isCorrect}">
+        {{ message }}
+      </div>
+    </div>
+  </div>
+
+  <!-- Result View -->
+  <div *ngIf="gameState === 'result'" class="quiz-result card p-4 mx-auto" style="max-width: 600px;">
+    <h2 class="mb-4">測驗結果</h2>
+    
+    <div class="row mb-4">
+      <div class="col-4">
+        <div class="stat-card bg-light p-3 rounded">
+          <div class="fs-3 fw-bold text-success">{{ score }}</div>
+          <div class="text-muted">答對</div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="stat-card bg-light p-3 rounded">
+          <div class="fs-3 fw-bold text-danger">{{ wrongCount }}</div>
+          <div class="text-muted">答錯</div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="stat-card bg-light p-3 rounded">
+          <div class="fs-3 fw-bold text-primary">{{ formatTime(timer) }}</div>
+          <div class="text-muted">用時</div>
+        </div>
+      </div>
+    </div>
+
+    <div *ngIf="wrongAnswers.length > 0" class="wrong-answers mb-4 text-start">
+      <h5 class="text-danger mb-3">錯題複習</h5>
+      <div class="list-group">
+        <div *ngFor="let item of wrongAnswers" class="list-group-item">
+          <div class="fw-bold">{{ item.question }}</div>
+          <div class="text-danger"><small>您的回答: {{ item.userAnswer }}</small></div>
+          <div class="text-success"><small>正確答案: {{ item.correctAnswer }}</small></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-grid gap-2">
+      <button class="btn btn-primary btn-lg" (click)="restart()">返回選單</button>
     </div>
   </div>
 </div>

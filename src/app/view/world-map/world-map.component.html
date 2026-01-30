@@ -1,8 +1,28 @@
-<div id="map"></div>
+<div class="map-container">
+  <div id="map"></div>
+
+  <div class="map-toggle">
+    <div class="form-check form-switch">
+      <input
+        class="form-check-input"
+        type="checkbox"
+        id="displayModeSwitch"
+        [(ngModel)]="isCountryMode"
+        (change)="onToggleDisplayMode()"
+      />
+      <label class="form-check-label" for="displayModeSwitch">
+        {{ isCountryMode ? "國家模式" : "洲別模式" }}
+      </label>
+    </div>
+  </div>
+</div>
 
 <h2 class="d-flex justify-content-center py-2 position-relative">
   WorldMap
-  <button class="btn btn-primary position-absolute end-0 me-4" routerLink="/quiz">
+  <button
+    class="btn btn-primary position-absolute end-0 me-4"
+    routerLink="/quiz"
+  >
     進入測驗
   </button>
 </h2>

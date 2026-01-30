@@ -1,15 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { environment } from 'src/environments/environment';
 import { LanguageService } from '../../service/language.service';
+import * as L from 'leaflet';
 
 @Component({
   selector: 'app-country-list',
   templateUrl: './country-list.component.html',
   styleUrls: ['./country-list.component.scss'],
 })
-export class CountryListComponent implements OnInit {
+export class CountryListComponent implements OnInit, AfterViewInit, OnDestroy {
   continent: string = '';
   countries: any[] = [];
   filteredCountries: any[] = [];
@@ -17,10 +18,14 @@ export class CountryListComponent implements OnInit {
   selectedSubregion: string = 'all';
   subregions: string[] = [];
 
+  // Continent map properties
+  private continentMap: L.Map | undefined;
+  showContinentMap: boolean = true;
+
   constructor(
-    private route: ActivatedRoute, 
+    private route: ActivatedRoute,
     private http: HttpClient,
-    public languageService: LanguageService
+    public languageService: LanguageService,
   ) {}
 
   ngOnInit(): void {
@@ -28,19 +33,104 @@ export class CountryListComponent implements OnInit {
     this.fetchCountries(this.continent);
   }
 
+  ngAfterViewInit(): void {
+    // Initialize continent map after view is ready
+    setTimeout(() => this.initContinentMap(), 100);
+  }
+
+  ngOnDestroy(): void {
+    if (this.continentMap) {
+      this.continentMap.remove();
+    }
+  }
+
+  private initContinentMap(): void {
+    if (!this.showContinentMap) return;
+
+    this.continentMap = L.map('continent-map', {
+      center: [20, 0],
+      zoom: 2,
+      minZoom: 1,
+      maxZoom: 6,
+    });
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+    }).addTo(this.continentMap);
+
+    this.loadContinentGeoJson();
+  }
+
+  private loadContinentGeoJson(): void {
+    fetch('assets/json/world-continents.geojson')
+      .then((response) => response.json())
+      .then((data) => {
+        // Filter features by current continent
+        const continentFeatures = data.features.filter(
+          (f: any) => f.properties.continent === this.continent,
+        );
+
+        if (continentFeatures.length === 0) return;
+
+        const filteredData: GeoJSON.FeatureCollection = {
+          type: 'FeatureCollection',
+          features: continentFeatures,
+        };
+
+        const geoJsonLayer = L.geoJSON(filteredData, {
+          style: (feature) => ({
+            color: '#ffffff',
+            weight: 1.5,
+            fillColor: this.getRandomColor(feature?.properties.name || ''),
+            fillOpacity: 0.7,
+          }),
+          onEachFeature: (feature, layer) => {
+            const countryName = feature.properties.name || 'Unknown';
+            const isoCode = (feature.properties.iso_a2 || '').toLowerCase();
+            const flagUrl = isoCode
+              ? `https://flagcdn.com/24x18/${isoCode}.png`
+              : '';
+
+            const tooltipContent = flagUrl
+              ? `<img src="${flagUrl}" alt="flag" style="margin-right: 6px; vertical-align: middle;" /><span>${countryName}</span>`
+              : `<span>${countryName}</span>`;
+
+            layer.bindTooltip(tooltipContent, {
+              permanent: false,
+              direction: 'top',
+              className: 'country-tooltip',
+            });
+          },
+        }).addTo(this.continentMap!);
+
+        // Fit map to continent bounds
+        const bounds = geoJsonLayer.getBounds();
+        if (bounds.isValid()) {
+          this.continentMap?.fitBounds(bounds, { padding: [20, 20] });
+        }
+      })
+      .catch((error) => console.error('Error loading GeoJSON:', error));
+  }
+
+  private getRandomColor(seed: string): string {
+    let hash = 0;
+    for (let i = 0; i < seed.length; i++) {
+      hash = seed.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    const hue = Math.abs(hash) % 360;
+    return `hsl(${hue}, 65%, 55%)`;
+  }
+
   private fetchCountries(continent: string): void {
     console.log('con', continent);
-    // https://restcountries.com/v3.1/all
     let continentName = continent.toLowerCase().replace(' ', '');
 
     const url = `assets/python/${continentName}.json`;
-    // const url = `${environment.apiUrl}/countries/${this.continent}`;
     this.http.get<any[]>(url).subscribe((data) => {
       console.log(this.continent);
       this.count = data.length;
-      // this.countries = data.filter((c) => c.region === this.continent);
       this.countries = data.filter(
-        (c) => c.region === this.continent || c.subregion === this.continent
+        (c) => c.region === this.continent || c.subregion === this.continent,
       );
       this.filteredCountries = [...this.countries];
       this.updateSubregions();
@@ -49,7 +139,7 @@ export class CountryListComponent implements OnInit {
 
   updateSubregions(): void {
     const uniqueSubregions = new Set(
-      this.countries.map((country) => country.subregion)
+      this.countries.map((country) => country.subregion),
     );
     this.subregions = ['all', ...Array.from(uniqueSubregions).sort()];
   }
@@ -59,7 +149,7 @@ export class CountryListComponent implements OnInit {
       this.filteredCountries = [...this.countries];
     } else {
       this.filteredCountries = this.countries.filter(
-        (country) => country.subregion === this.selectedSubregion
+        (country) => country.subregion === this.selectedSubregion,
       );
     }
     this.count = this.filteredCountries.length;
@@ -67,33 +157,33 @@ export class CountryListComponent implements OnInit {
 
   getSubregionColor(subregion: string): string {
     const colorMap: { [key: string]: string } = {
-      'Northern Europe': '#FFB6C1', // Light pink
-      'Western Europe': '#87CEEB', // Sky blue
-      'Southern Europe': '#98FB98', // Pale green
-      'Southeast Europe': '#98EE47', //
-      'Eastern Europe': '#DDA0DD', // Plum
-      'Central Europe': '#F0E68C', // Khaki
-      'Northern Africa': '#F0E68C', // Khaki
-      'Western Africa': '#E6E6FA', // Lavender
-      'Middle Africa': '#FFA07A', // Light salmon
-      'Eastern Africa': '#B0E0E6', // Powder blue
-      'Southern Africa': '#FFDAB9', // Peach puff
-      'North America': '#FFC0CB', // Pink
-      'Central America': '#90EE90', // Light green
-      Caribbean: '#FFD700', // Gold
-      'South America': '#FFA500', // Orange
-      'Central Asia': '#D8BFD8', // Thistle
-      'Eastern Asia': '#FF69B4', // Hot pink
-      'Southern Asia': '#20B2AA', // Light sea green
-      'South-Eastern Asia': '#FF6347', // Tomato
-      'Western Asia': '#BA55D3', // Medium orchid
-      'Australia and New Zealand': '#7FFFD4', // Aquamarine
-      Melanesia: '#FF7F50', // Coral
-      Micronesia: '#6495ED', // Cornflower blue
-      Polynesia: '#FF1493', // Deep pink
+      'Northern Europe': '#FFB6C1',
+      'Western Europe': '#87CEEB',
+      'Southern Europe': '#98FB98',
+      'Southeast Europe': '#98EE47',
+      'Eastern Europe': '#DDA0DD',
+      'Central Europe': '#F0E68C',
+      'Northern Africa': '#F0E68C',
+      'Western Africa': '#E6E6FA',
+      'Middle Africa': '#FFA07A',
+      'Eastern Africa': '#B0E0E6',
+      'Southern Africa': '#FFDAB9',
+      'North America': '#FFC0CB',
+      'Central America': '#90EE90',
+      Caribbean: '#FFD700',
+      'South America': '#FFA500',
+      'Central Asia': '#D8BFD8',
+      'Eastern Asia': '#FF69B4',
+      'Southern Asia': '#20B2AA',
+      'South-Eastern Asia': '#FF6347',
+      'Western Asia': '#BA55D3',
+      'Australia and New Zealand': '#7FFFD4',
+      Melanesia: '#FF7F50',
+      Micronesia: '#6495ED',
+      Polynesia: '#FF1493',
     };
 
-    return colorMap[subregion] || '#E0E0E0'; // Default gray color if subregion not found
+    return colorMap[subregion] || '#E0E0E0';
   }
 
   getSubregionTranslation(subregion: string): string {
@@ -124,7 +214,7 @@ export class CountryListComponent implements OnInit {
       Polynesia: '玻里尼西亞',
     };
 
-    return translationMap[subregion] || subregion; // Return original if translation not found
+    return translationMap[subregion] || subregion;
   }
 
   getLanguages(languages: any): string {

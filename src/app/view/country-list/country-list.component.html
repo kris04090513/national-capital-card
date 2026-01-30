@@ -6,7 +6,10 @@
         {{ languageService.translate("btn.home") }}
       </button>
     </div>
-    <h3>{{ continent }} 地圖</h3>
+    <h3>
+      {{ languageService.getContinentName(continent) }}
+      {{ languageService.translate("label.map") }}
+    </h3>
     <div id="continent-map"></div>
   </div>
   <hr />
@@ -65,8 +68,11 @@
 
         <!-- Center: Title -->
         <div class="text-center">
-          <h2>{{ continent }} - 國家列表</h2>
-          <div>計數：{{ count }}</div>
+          <h2>
+            {{ languageService.getContinentName(continent) }} -
+            {{ languageService.translate("label.countryList") }}
+          </h2>
+          <div>{{ languageService.translate("label.count") }}：{{ count }}</div>
         </div>
 
         <!-- Right: Subregion Filter -->
@@ -80,7 +86,7 @@
             <option *ngFor="let subregion of subregions" [value]="subregion">
               {{
                 subregion === "all"
-                  ? "所有地區"
+                  ? languageService.translate("label.allRegions")
                   : getSubregionTranslation(subregion)
               }}
             </option>

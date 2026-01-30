@@ -11,18 +11,22 @@
         (change)="onToggleDisplayMode()"
       />
       <label class="form-check-label" for="displayModeSwitch">
-        {{ isCountryMode ? "國家模式" : "洲別模式" }}
+        {{
+          isCountryMode
+            ? languageService.translate("mode.country")
+            : languageService.translate("mode.continent")
+        }}
       </label>
     </div>
   </div>
 </div>
 
 <h2 class="d-flex justify-content-center py-2 position-relative">
-  WorldMap
+  {{ languageService.translate("label.worldMap") }}
   <button
     class="btn btn-primary position-absolute end-0 me-4"
     routerLink="/quiz"
   >
-    進入測驗
+    {{ languageService.translate("btn.quiz") }}
   </button>
 </h2>

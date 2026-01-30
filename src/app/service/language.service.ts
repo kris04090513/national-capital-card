@@ -119,6 +119,52 @@ export class LanguageService {
     'sort.region': { zho: '地區', eng: 'Region', jpn: '地域' },
     'label.noData': { zho: '無資料', eng: 'No Data', jpn: 'データなし' },
     'label.area': { zho: '面積', eng: 'Area', jpn: '面積' },
+    'label.countryList': {
+      zho: '國家列表',
+      eng: 'Country List',
+      jpn: '国リスト',
+    },
+    'label.count': { zho: '計數', eng: 'Count', jpn: 'カウント' },
+    'label.allRegions': {
+      zho: '所有地區',
+      eng: 'All Regions',
+      jpn: '全地域',
+    },
+    'label.map': { zho: '地圖', eng: 'Map', jpn: '地図' },
+    'label.worldMap': {
+      zho: '世界地圖',
+      eng: 'World Map',
+      jpn: '世界地図',
+    },
+    'mode.country': { zho: '國家模式', eng: 'Country Mode', jpn: '国モード' },
+    'mode.continent': {
+      zho: '洲別模式',
+      eng: 'Continent Mode',
+      jpn: '大陸モード',
+    },
+    'continent.Asia': { zho: '亞洲', eng: 'Asia', jpn: 'アジア' },
+    'continent.Europe': { zho: '歐洲', eng: 'Europe', jpn: 'ヨーロッパ' },
+    'continent.Africa': { zho: '非洲', eng: 'Africa', jpn: 'アフリカ' },
+    'continent.NorthAmerica': {
+      zho: '北美洲',
+      eng: 'North America',
+      jpn: '北アメリカ',
+    },
+    'continent.SouthAmerica': {
+      zho: '南美洲',
+      eng: 'South America',
+      jpn: '南アメリカ',
+    },
+    'continent.Oceania': {
+      zho: '大洋洲',
+      eng: 'Oceania',
+      jpn: 'オセアニア',
+    },
+    'continent.Antarctica': {
+      zho: '南極洲',
+      eng: 'Antarctica',
+      jpn: '南極大陸',
+    },
   };
 
   constructor() {}
@@ -143,5 +189,12 @@ export class LanguageService {
     if (lang === 'jpn')
       return country.translations?.jpn?.common || country.name.common;
     return country.name.common;
+  }
+
+  getContinentName(continent: string): string {
+    const key = `continent.${continent.replace(' ', '')}`;
+    const translated = this.translate(key);
+    // If key not found, return original continent name
+    return translated !== key ? translated : continent;
   }
 }

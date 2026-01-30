@@ -307,7 +307,7 @@ export class CountryListComponent implements OnInit, AfterViewInit, OnDestroy {
   }
 
   getLanguages(languages: any): string {
-    if (!languages) return '未知';
+    if (!languages) return this.languageService.translate('label.noData');
     return Object.values(languages).join(', ');
   }
 

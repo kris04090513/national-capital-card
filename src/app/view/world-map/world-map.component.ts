@@ -1,6 +1,7 @@
 import { Router } from '@angular/router';
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import * as L from 'leaflet';
+import { LanguageService } from '../../service/language.service';
 
 @Component({
   selector: 'app-world-map',
@@ -14,7 +15,10 @@ export class WorldMapComponent implements OnInit, OnDestroy {
 
   isCountryMode = false;
 
-  constructor(private _router: Router) {}
+  constructor(
+    private _router: Router,
+    public languageService: LanguageService,
+  ) {}
 
   ngOnInit(): void {
     this.initMap();

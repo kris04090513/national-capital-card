@@ -1,0 +1,52 @@
+<div class="popup-overlay" (click)="onOverlayClick($event)">
+  <div class="popup-container">
+    <button class="popup-close-btn" (click)="close()">&times;</button>
+
+    <div class="popup-images">
+      <div class="popup-map" *ngIf="mapImage">
+        <img [src]="mapImage" alt="Country Map" />
+      </div>
+      <div class="popup-flag">
+        <img [src]="country?.flags?.svg" alt="Flag" />
+      </div>
+    </div>
+
+    <h3 class="popup-title">
+      {{ getCountryName() }}
+      <span class="popup-subtitle">({{ country?.name?.common }})</span>
+    </h3>
+
+    <div class="popup-divider"></div>
+
+    <div class="popup-info">
+      <p>
+        <strong>{{ languageService.translate("card.capital") }}：</strong>
+        {{ country?.capital?.[0] || languageService.translate("label.noData") }}
+      </p>
+      <p>
+        <strong>{{ languageService.translate("card.population") }}：</strong>
+        {{ formatPopulation(country?.population) }}
+      </p>
+      <p>
+        <strong>{{ languageService.translate("card.language") }}：</strong>
+        {{ getLanguages() }}
+      </p>
+      <p>
+        <strong>{{ languageService.translate("card.continent") }}：</strong>
+        {{ getSubregionTranslation(country?.subregion) }}
+      </p>
+      <p>
+        <strong>{{ languageService.translate("label.area") }}：</strong>
+        {{ formatArea(country?.area) }}
+      </p>
+    </div>
+
+    <a
+      [href]="getWikiLink()"
+      target="_blank"
+      class="btn btn-info popup-wiki-btn"
+    >
+      {{ languageService.translate("card.wiki") }}
+    </a>
+  </div>
+</div>

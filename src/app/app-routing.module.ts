@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { WorldMapComponent } from './view/world-map/world-map.component';
-import { CountryListComponent } from './component/country-list/country-list.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
-import { QuizComponent } from './component/quiz/quiz.component';
 import { LandingComponent } from './view/landing/landing.component';
+import { WorldMapComponent } from './view/world-map/world-map.component';
+import { CountryListComponent } from './view/country-list/country-list.component';
+import { QuizComponent } from './view/quiz/quiz.component';
 
 const routes: Routes = [
   { path: '', component: LandingComponent },

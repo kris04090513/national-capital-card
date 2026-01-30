@@ -1,0 +1,115 @@
+<div class="country-list">
+  <!-- Continent Map Section -->
+  <div class="continent-map-container" *ngIf="showContinentMap">
+    <div class="d-flex justify-content-end">
+      <button class="btn btn-primary" routerLink="/map">
+        {{ languageService.translate("btn.home") }}
+      </button>
+    </div>
+    <h3>{{ continent }} 地圖</h3>
+    <div id="continent-map"></div>
+  </div>
+  <hr />
+  <div class="page-container">
+    <div class="header">
+      <div
+        class="d-flex justify-content-between align-items-center flex-wrap gap-3"
+      >
+        <!-- Left: View Toggle -->
+        <div class="view-toggle-group">
+          <button
+            class="view-toggle-btn"
+            [class.active]="viewMode === 'card'"
+            (click)="setViewMode('card')"
+            title="{{ languageService.translate('view.card') }}"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+            >
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+          </button>
+          <button
+            class="view-toggle-btn"
+            [class.active]="viewMode === 'list'"
+            (click)="setViewMode('list')"
+            title="{{ languageService.translate('view.list') }}"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+            >
+              <line x1="8" y1="6" x2="21" y2="6"></line>
+              <line x1="8" y1="12" x2="21" y2="12"></line>
+              <line x1="8" y1="18" x2="21" y2="18"></line>
+              <line x1="3" y1="6" x2="3.01" y2="6"></line>
+              <line x1="3" y1="12" x2="3.01" y2="12"></line>
+              <line x1="3" y1="18" x2="3.01" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Center: Title -->
+        <div class="text-center">
+          <h2>{{ continent }} - 國家列表</h2>
+          <div>計數：{{ count }}</div>
+        </div>
+
+        <!-- Right: Subregion Filter -->
+        <div class="d-flex flex-wrap align-items-center gap-2">
+          <select
+            class="form-select"
+            [(ngModel)]="selectedSubregion"
+            (change)="onSubregionChange()"
+            style="width: auto"
+          >
+            <option *ngFor="let subregion of subregions" [value]="subregion">
+              {{
+                subregion === "all"
+                  ? "所有地區"
+                  : getSubregionTranslation(subregion)
+              }}
+            </option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card View Component -->
+    <app-country-card
+      *ngIf="viewMode === 'card'"
+      [countries]="filteredCountries"
+      (countryClick)="openCountryPopup($event)"
+    ></app-country-card>
+
+    <!-- Table View Component -->
+    <app-country-table
+      *ngIf="viewMode === 'list'"
+      [countries]="filteredCountries"
+      (countryClick)="openCountryPopup($event)"
+      (sortChange)="onTableSortChange($event)"
+    ></app-country-table>
+  </div>
+
+  <!-- Country Popup -->
+  <app-country-popup
+    *ngIf="selectedCountry"
+    [country]="selectedCountry"
+    [mapImage]="countryMapImage"
+    (closePopup)="closeCountryPopup()"
+  ></app-country-popup>
+</div>

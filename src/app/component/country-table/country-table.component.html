@@ -1,0 +1,50 @@
+<div class="list-view">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th></th>
+        <th class="sortable" (click)="onHeaderClick('name')">
+          {{ languageService.translate("sort.name") }}
+          <span class="sort-icon">{{ getSortIcon("name") }}</span>
+        </th>
+        <th>{{ languageService.translate("card.capital") }}</th>
+        <th class="sortable" (click)="onHeaderClick('population')">
+          {{ languageService.translate("card.population") }}
+          <span class="sort-icon">{{ getSortIcon("population") }}</span>
+        </th>
+        <th class="sortable" (click)="onHeaderClick('region')">
+          {{ languageService.translate("sort.region") }}
+          <span class="sort-icon">{{ getSortIcon("region") }}</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        *ngFor="let country of countries"
+        (click)="onRowClick(country)"
+        class="list-item"
+      >
+        <td class="flag-cell">
+          <img [src]="country.flags.svg" alt="Flag" class="list-flag" />
+        </td>
+        <td>
+          <strong>{{ getCountryName(country) }}</strong>
+          <small class="text-muted d-block">{{ country.name.common }}</small>
+        </td>
+        <td>
+          {{
+            country.capital?.[0] || languageService.translate("label.noData")
+          }}
+        </td>
+        <td>{{ formatPopulation(country.population) }}</td>
+        <td>
+          <span
+            class="tags"
+            [style.background-color]="getSubregionColor(country.subregion)"
+            >{{ getSubregionTranslation(country.subregion) }}</span
+          >
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

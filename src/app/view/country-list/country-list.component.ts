@@ -18,8 +18,18 @@ export class CountryListComponent implements OnInit, AfterViewInit, OnDestroy {
   selectedSubregion: string = 'all';
   subregions: string[] = [];
 
+  // View mode and sorting
+  viewMode: 'card' | 'list' = 'card';
+  sortBy: string = 'name';
+  sortDirection: 'asc' | 'desc' = 'asc';
+
+  // Popup
+  selectedCountry: any = null;
+  countryMapImage: string = '';
+
   // Continent map properties
   private continentMap: L.Map | undefined;
+  private geoJsonData: any = null;
   showContinentMap: boolean = true;
 
   constructor(
@@ -153,6 +163,85 @@ export class CountryListComponent implements OnInit, AfterViewInit, OnDestroy {
       );
     }
     this.count = this.filteredCountries.length;
+    this.sortCountries();
+  }
+
+  // View mode toggle
+  setViewMode(mode: 'card' | 'list'): void {
+    this.viewMode = mode;
+  }
+
+  // Sorting
+  onSortChange(): void {
+    this.sortCountries();
+  }
+
+  onTableSortChange(event: {
+    sortBy: string;
+    direction: 'asc' | 'desc';
+  }): void {
+    this.sortBy = event.sortBy;
+    this.sortDirection = event.direction;
+    this.sortCountries();
+  }
+
+  toggleSortDirection(): void {
+    this.sortDirection = this.sortDirection === 'asc' ? 'desc' : 'asc';
+    this.sortCountries();
+  }
+
+  private sortCountries(): void {
+    const dir = this.sortDirection === 'asc' ? 1 : -1;
+    this.filteredCountries.sort((a, b) => {
+      let valA: any, valB: any;
+      switch (this.sortBy) {
+        case 'name':
+          valA = this.getCountryName(a).toLowerCase();
+          valB = this.getCountryName(b).toLowerCase();
+          break;
+        case 'population':
+          valA = a.population || 0;
+          valB = b.population || 0;
+          break;
+        case 'region':
+          valA = a.subregion || '';
+          valB = b.subregion || '';
+          break;
+        default:
+          return 0;
+      }
+      if (valA < valB) return -1 * dir;
+      if (valA > valB) return 1 * dir;
+      return 0;
+    });
+  }
+
+  getCountryName(country: any): string {
+    return this.languageService.getCountryName(country);
+  }
+
+  // Popup
+  openCountryPopup(country: any): void {
+    this.selectedCountry = country;
+    this.captureCountryMapImage(country);
+  }
+
+  closeCountryPopup(): void {
+    this.selectedCountry = null;
+    this.countryMapImage = '';
+  }
+
+  private captureCountryMapImage(country: any): void {
+    // Generate a simple map image URL using static map API
+    const lat = country.latlng?.[0] || 0;
+    const lng = country.latlng?.[1] || 0;
+    // Use OpenStreetMap static image
+    this.countryMapImage = `https://static-maps.yandex.ru/1.x/?ll=${lng},${lat}&z=4&l=map&size=200,120&lang=en_US`;
+  }
+
+  formatPopulation(population: number): string {
+    if (!population) return this.languageService.translate('label.noData');
+    return population.toLocaleString();
   }
 
   getSubregionColor(subregion: string): string {

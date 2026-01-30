@@ -1,0 +1,54 @@
+<div class="card-container">
+  <div
+    class="card"
+    *ngFor="let country of countries"
+    (click)="onCardClick(country)"
+  >
+    <div class="card-inner">
+      <div class="card-front">
+        <div class="card-front-img">
+          <img [src]="country.flags.svg" alt="Flag" />
+        </div>
+        <h5>
+          {{ getCountryName(country) }}
+          ({{ country.name.common }})
+        </h5>
+        <span
+          class="tags"
+          [style.background-color]="getSubregionColor(country.subregion)"
+          >{{ getSubregionTranslation(country.subregion) }}</span
+        >
+      </div>
+      <div class="card-back">
+        <div class="p-3">
+          <p class="mb-1">
+            <strong>{{ languageService.translate("card.capital") }}:</strong>
+            {{
+              country.capital?.[0] || languageService.translate("label.noData")
+            }}
+          </p>
+          <p class="mb-1">
+            <strong>{{ languageService.translate("card.population") }}:</strong>
+            {{ formatPopulation(country.population) }}
+          </p>
+          <p class="mb-1">
+            <strong>{{ languageService.translate("card.language") }}:</strong>
+            {{ getLanguages(country.languages) }}
+          </p>
+          <p class="mb-1">
+            <strong>{{ languageService.translate("card.continent") }}:</strong>
+            {{ getSubregionTranslation(country.subregion) }}
+          </p>
+          <a
+            [href]="getWikiLink(country)"
+            target="_blank"
+            class="btn btn-sm btn-info mt-2"
+            (click)="$event.stopPropagation()"
+          >
+            {{ languageService.translate("card.wiki") }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

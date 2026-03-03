@@ -1,15 +1,25 @@
 <div class="container mt-4">
   <!-- Menu View -->
-  <div *ngIf="gameState === 'menu'" class="quiz-menu card p-4 mx-auto" style="max-width: 500px;">
-    <h2 class="text-center mb-4">{{ languageService.translate('quiz.title') }}</h2>
-    
+  <div
+    *ngIf="gameState === 'menu'"
+    class="quiz-menu card p-4 mx-auto"
+    style="max-width: 500px"
+  >
+    <h2 class="text-center mb-4">
+      {{ languageService.translate("quiz.title") }}
+    </h2>
+
     <div class="mb-3">
-      <label class="form-label">{{ languageService.translate('quiz.region.all') }}</label>
+      <label class="form-label">{{
+        languageService.translate("quiz.region.all")
+      }}</label>
       <div class="d-grid gap-2 d-md-block">
-        <button *ngFor="let region of regions" 
-                class="btn btn-outline-primary m-1"
-                [class.active]="selectedRegion === region.value"
-                (click)="selectedRegion = region.value">
+        <button
+          *ngFor="let region of regions"
+          class="btn btn-outline-primary m-1"
+          [class.active]="selectedRegion === region.value"
+          (click)="selectedRegion = region.value"
+        >
           {{ languageService.translate(region.label) }}
         </button>
       </div>
@@ -17,51 +27,78 @@
 
     <div class="d-grid gap-3">
       <button class="btn btn-primary btn-lg" (click)="startGame('standard')">
-        {{ languageService.translate('quiz.mode.standard') }}
+        {{ languageService.translate("quiz.mode.standard") }}
       </button>
       <button class="btn btn-secondary btn-lg" (click)="startGame('infinite')">
-        {{ languageService.translate('quiz.mode.infinite') }}
+        {{ languageService.translate("quiz.mode.infinite") }}
       </button>
       <button class="btn btn-outline-dark btn-lg" routerLink="/map">
-        {{ languageService.translate('btn.back') }}
+        {{ languageService.translate("btn.back") }}
       </button>
     </div>
   </div>
 
   <!-- Playing View -->
   <div *ngIf="gameState === 'playing'" class="quiz-playing">
-    <div class="d-flex justify-content-between align-items-center mb-3 mx-auto" style="max-width: 600px;">
+    <div
+      class="d-flex justify-content-between align-items-center mb-3 mx-auto"
+      style="max-width: 600px"
+    >
       <div class="score-board">
-        <span class="badge bg-success me-2">{{ languageService.translate('quiz.correct') }}: {{ score }}</span>
-        <span class="badge bg-danger">{{ languageService.translate('quiz.wrong') }}: {{ wrongCount }}</span>
+        <span class="badge bg-success me-2"
+          >{{ languageService.translate("quiz.correct") }}: {{ score }}</span
+        >
+        <span class="badge bg-danger"
+          >{{ languageService.translate("quiz.wrong") }}: {{ wrongCount }}</span
+        >
       </div>
       <div class="timer fs-4 fw-bold text-primary">
         {{ formatTime(timer) }}
       </div>
-      <button class="btn btn-outline-danger btn-sm" (click)="endGame()">{{ languageService.translate('quiz.end') }}</button>
+      <button class="btn btn-outline-danger btn-sm" (click)="endGame()">
+        {{ languageService.translate("quiz.end") }}
+      </button>
     </div>
 
-    <div *ngIf="!loading && currentQuestion" class="quiz-card card p-4 mx-auto" style="max-width: 600px;">
+    <div
+      *ngIf="!loading && currentQuestion"
+      class="quiz-card card p-4 mx-auto"
+      style="max-width: 600px"
+    >
       <div class="question-section mb-4">
         <h5>{{ currentQuestion.question }}</h5>
-        
+
         <!-- Standard Flag Display -->
-        <img *ngIf="currentQuestion.type !== 'reverse-flag' && currentQuestion.flagUrl" 
-             [src]="currentQuestion.flagUrl" 
-             alt="Flag" 
-             class="img-fluid my-3 border" 
-             style="max-height: 200px;">
+        <img
+          *ngIf="
+            currentQuestion.type !== 'reverse-flag' && currentQuestion.flagUrl
+          "
+          [src]="currentQuestion.flagUrl"
+          alt="Flag"
+          class="img-fluid my-3 border"
+          style="max-height: 200px"
+        />
       </div>
 
       <!-- Options Section -->
-      <div class="options-section d-grid gap-2" [class.row]="currentQuestion.type === 'reverse-flag'" [class.g-2]="currentQuestion.type === 'reverse-flag'">
-        
+      <div
+        class="options-section"
+        [class.d-grid]="currentQuestion.type !== 'reverse-flag'"
+        [class.gap-2]="currentQuestion.type !== 'reverse-flag'"
+        [class.show-grid]="
+          currentQuestion.type !== 'reverse-flag' && currentQuestion.flagUrl
+        "
+        [class.row]="currentQuestion.type === 'reverse-flag'"
+        [class.g-2]="currentQuestion.type === 'reverse-flag'"
+      >
         <!-- Standard Text Options -->
         <ng-container *ngIf="currentQuestion.type !== 'reverse-flag'">
-          <button *ngFor="let option of currentQuestion.options" 
-                  class="btn btn-outline-primary btn-lg" 
-                  (click)="checkAnswer(option)"
-                  [disabled]="isCorrect !== null">
+          <button
+            *ngFor="let option of currentQuestion.options"
+            class="btn btn-outline-primary btn-lg w-100"
+            (click)="checkAnswer(option)"
+            [disabled]="isCorrect !== null"
+          >
             {{ option }}
           </button>
         </ng-container>
@@ -69,67 +106,107 @@
         <!-- Reverse Flag Options (Image Buttons) -->
         <ng-container *ngIf="currentQuestion.type === 'reverse-flag'">
           <div *ngFor="let option of currentQuestion.options" class="col-6">
-            <button class="btn btn-outline-light border p-2 w-100 h-100" 
-                    (click)="checkAnswer(option)"
-                    [disabled]="isCorrect !== null">
-              <img [src]="option" alt="Flag Option" class="img-fluid" style="max-height: 100px;">
+            <button
+              class="btn btn-outline-light border p-2 w-100 h-100"
+              (click)="checkAnswer(option)"
+              [disabled]="isCorrect !== null"
+            >
+              <img
+                [src]="option"
+                alt="Flag Option"
+                class="img-fluid"
+                style="max-height: 100px"
+              />
             </button>
           </div>
         </ng-container>
-
       </div>
 
-      <div *ngIf="message" class="alert mt-3" [class.alert-success]="isCorrect" [class.alert-danger]="!isCorrect">
+      <div
+        *ngIf="message"
+        class="alert mt-3"
+        [class.alert-success]="isCorrect"
+        [class.alert-danger]="!isCorrect"
+      >
         {{ message }}
       </div>
     </div>
   </div>
 
   <!-- Result View -->
-  <div *ngIf="gameState === 'result'" class="quiz-result card p-4 mx-auto text-center" style="max-width: 600px;">
-    <h2 class="mb-4">{{ languageService.translate('quiz.result') }}</h2>
-    
+  <div
+    *ngIf="gameState === 'result'"
+    class="quiz-result card p-4 mx-auto text-center"
+    style="max-width: 600px"
+  >
+    <h2 class="mb-4">{{ languageService.translate("quiz.result") }}</h2>
+
     <div class="row mb-4">
       <div class="col-4">
         <div class="stat-card p-3 bg-light rounded">
-          <div class="text-muted small">{{ languageService.translate('quiz.correct') }}</div>
+          <div class="text-muted small">
+            {{ languageService.translate("quiz.correct") }}
+          </div>
           <div class="fs-2 fw-bold text-success">{{ score }}</div>
         </div>
       </div>
       <div class="col-4">
         <div class="stat-card p-3 bg-light rounded">
-          <div class="text-muted small">{{ languageService.translate('quiz.wrong') }}</div>
+          <div class="text-muted small">
+            {{ languageService.translate("quiz.wrong") }}
+          </div>
           <div class="fs-2 fw-bold text-danger">{{ wrongCount }}</div>
         </div>
       </div>
       <div class="col-4">
         <div class="stat-card p-3 bg-light rounded">
-          <div class="text-muted small">{{ languageService.translate('quiz.time') }}</div>
+          <div class="text-muted small">
+            {{ languageService.translate("quiz.time") }}
+          </div>
           <div class="fs-2 fw-bold text-primary">{{ formatTime(timer) }}</div>
         </div>
       </div>
     </div>
 
     <div *ngIf="wrongAnswers.length > 0" class="wrong-answers mb-4 text-start">
-      <h5 class="text-danger mb-3">{{ languageService.translate('quiz.review') }}</h5>
+      <h5 class="text-danger mb-3">
+        {{ languageService.translate("quiz.review") }}
+      </h5>
       <div class="list-group">
         <div *ngFor="let item of wrongAnswers" class="list-group-item">
           <div class="fw-bold">{{ item.question }}</div>
-          <div class="text-danger"><small>{{ languageService.translate('quiz.your_answer') }}: {{ item.userAnswer }}</small></div>
-          
+          <div class="text-danger">
+            <small
+              >{{ languageService.translate("quiz.your_answer") }}:
+              {{ item.userAnswer }}</small
+            >
+          </div>
+
           <div *ngIf="item.correctFlagUrl; else textAnswer" class="mt-2">
-             <small class="text-success d-block mb-1">{{ languageService.translate('quiz.correct_answer') }}:</small>
-             <img [src]="item.correctFlagUrl" alt="Correct Flag" class="img-fluid border" style="max-height: 50px;">
+            <small class="text-success d-block mb-1"
+              >{{ languageService.translate("quiz.correct_answer") }}:</small
+            >
+            <img
+              [src]="item.correctFlagUrl"
+              alt="Correct Flag"
+              class="img-fluid border"
+              style="max-height: 50px"
+            />
           </div>
           <ng-template #textAnswer>
-            <div class="text-success"><small>{{ languageService.translate('quiz.correct_answer') }}: {{ item.correctAnswer }}</small></div>
+            <div class="text-success">
+              <small
+                >{{ languageService.translate("quiz.correct_answer") }}:
+                {{ item.correctAnswer }}</small
+              >
+            </div>
           </ng-template>
         </div>
       </div>
     </div>
 
     <button class="btn btn-primary btn-lg" (click)="backToMenu()">
-      {{ languageService.translate('quiz.back_menu') }}
+      {{ languageService.translate("quiz.back_menu") }}
     </button>
   </div>
 </div>

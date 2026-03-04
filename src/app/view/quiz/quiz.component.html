@@ -121,7 +121,6 @@
           </div>
         </ng-container>
       </div>
-
       <div
         *ngIf="message"
         class="alert mt-3"
@@ -129,6 +128,13 @@
         [class.alert-danger]="!isCorrect"
       >
         {{ message }}
+        <img
+          *ngIf="correctFlagUrl && !isCorrect"
+          [src]="correctFlagUrl"
+          alt="Correct Flag"
+          class="img-fluid border d-block mt-2"
+          style="max-height: 80px"
+        />
       </div>
     </div>
   </div>
@@ -175,13 +181,25 @@
       <div class="list-group">
         <div *ngFor="let item of wrongAnswers" class="list-group-item">
           <div class="fw-bold">{{ item.question }}</div>
+
+          <!-- User's answer: show as image if flag, otherwise text -->
           <div class="text-danger">
-            <small
-              >{{ languageService.translate("quiz.your_answer") }}:
-              {{ item.userAnswer }}</small
-            >
+            <small>{{ languageService.translate("quiz.your_answer") }}:</small>
+            <small> {{ item.userAnswer }}</small>
+            <ng-container *ngIf="item.userFlagUrl; else textUserAnswer">
+              <img
+                [src]="item.userAnswer"
+                alt="Your Flag Answer"
+                class="img-fluid border d-block mt-1"
+                style="max-height: 50px"
+              />
+            </ng-container>
+            <ng-template #textUserAnswer>
+              <small> {{ item.userAnswer }}</small>
+            </ng-template>
           </div>
 
+          <!-- Correct answer: show as image if flag, otherwise text -->
           <div *ngIf="item.correctFlagUrl; else textAnswer" class="mt-2">
             <small class="text-success d-block mb-1"
               >{{ languageService.translate("quiz.correct_answer") }}:</small

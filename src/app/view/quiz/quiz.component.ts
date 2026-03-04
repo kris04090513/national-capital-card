@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { QuizService, Question } from '../../service/quiz.service';
 import { LanguageService } from '../../service/language.service';
+import { Question, QuizService } from '../../service/quiz.service';
 
 @Component({
   selector: 'app-quiz',
@@ -14,6 +14,7 @@ export class QuizComponent implements OnInit {
   loading: boolean = true;
   message: string = '';
   isCorrect: boolean | null = null;
+  correctFlagUrl: string | null = null;
 
   // New properties
   gameState: 'menu' | 'playing' | 'result' = 'menu';
@@ -25,15 +26,18 @@ export class QuizComponent implements OnInit {
     { value: 'europe', label: 'quiz.region.europe' },
     { value: 'africa', label: 'quiz.region.africa' },
     { value: 'americas', label: 'quiz.region.americas' },
-    { value: 'oceania', label: 'quiz.region.oceania' }
+    { value: 'oceania', label: 'quiz.region.oceania' },
   ];
-  
+
   timer: number = 0;
   timerInterval: any;
   questionCount: number = 0;
   wrongAnswers: any[] = [];
 
-  constructor(private quizService: QuizService, public languageService: LanguageService) {}
+  constructor(
+    private quizService: QuizService,
+    public languageService: LanguageService,
+  ) {}
 
   ngOnInit(): void {
     this.quizService.loadAllCountries().subscribe(() => {
@@ -100,7 +104,8 @@ export class QuizComponent implements OnInit {
     const randomType = Math.floor(Math.random() * 5);
     switch (randomType) {
       case 0:
-        this.currentQuestion = this.quizService.generateMultipleChoiceQuestion();
+        this.currentQuestion =
+          this.quizService.generateMultipleChoiceQuestion();
         break;
       case 1:
         this.currentQuestion = this.quizService.generateMatchingQuestion();
@@ -117,6 +122,7 @@ export class QuizComponent implements OnInit {
     }
     this.message = '';
     this.isCorrect = null;
+    this.correctFlagUrl = null;
   }
 
   checkAnswer(selectedOption: string): void {
@@ -128,13 +134,22 @@ export class QuizComponent implements OnInit {
       this.isCorrect = true;
     } else {
       this.wrongCount++;
-      this.message = `${this.languageService.translate('msg.wrong')} ${this.currentQuestion.correctAnswer}`;
+      const isReverseFlag = this.currentQuestion.type === 'reverse-flag';
+      this.message = isReverseFlag
+        ? this.languageService.translate('msg.wrong')
+        : `${this.languageService.translate('msg.wrong')} ${this.currentQuestion.correctAnswer}`;
+      this.correctFlagUrl = isReverseFlag
+        ? this.currentQuestion.correctAnswer
+        : null;
       this.isCorrect = false;
       this.wrongAnswers.push({
         question: this.currentQuestion.question,
         correctAnswer: this.currentQuestion.correctAnswer,
         userAnswer: selectedOption,
-        correctFlagUrl: this.currentQuestion.type === 'reverse-flag' ? this.currentQuestion.correctAnswer : null
+        correctFlagUrl: isReverseFlag
+          ? this.currentQuestion.correctAnswer
+          : null,
+        userFlagUrl: isReverseFlag ? selectedOption : null,
       });
     }
 

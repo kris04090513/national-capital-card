@@ -185,7 +185,6 @@
           <!-- User's answer: show as image if flag, otherwise text -->
           <div class="text-danger">
             <small>{{ languageService.translate("quiz.your_answer") }}:</small>
-            <small> {{ item.userAnswer }}</small>
             <ng-container *ngIf="item.userFlagUrl; else textUserAnswer">
               <img
                 [src]="item.userAnswer"
